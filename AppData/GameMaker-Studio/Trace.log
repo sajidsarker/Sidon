@@ -1,0 +1,2114 @@
+------------ GameMaker-Studio 1.4.1804.44013 --------------
+regCurr=SOFTWARE\5tudio\59CAEAA5, k=Addons, entry=AndroidTest.Windows.Windows8.Windows8RT.pro, plist[k]=AndroidTest.Windows.Windows8.Windows8RT.pro
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4, k=Answer, entry=1143136907, plist[k]=1143136907
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE, k=Email, entry=Sajid.sarker@gmail.com, plist[k]=Sajid.sarker@gmail.com
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB, k=License Type, entry=Full, plist[k]=Full
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF, k=Name, entry=Sajid.sarker@gmail.com, plist[k]=Sajid.sarker@gmail.com
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5, k=Pass Phrase, entry=5b2747beb8cbe0149002040ea595a86d, plist[k]=5b2747beb8cbe0149002040ea595a86d
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5\71B4, k=Product, entry=GameMaker:Studio, plist[k]=GameMaker:Studio
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5\71B4\03EE, k=Signature, entry=
+	YVk5LJ6i7vOKSDACbDqpWJVCsZDplWsYGwasNYGFKNMcKq7GWoGokGDjs8kIsQNxKm5C
+	AYBFSYMBg27sSEpOlHILdBqCyJO49Mi89RT+cY3xNSJu9dQfC/jb0NP0uOwV+F2uNHkN
+	CmKdayN967UMxS6q0N3zlnN+uKeoyELwMfM=
+	, plist[k]=
+	YVk5LJ6i7vOKSDACbDqpWJVCsZDplWsYGwasNYGFKNMcKq7GWoGokGDjs8kIsQNxKm5C
+	AYBFSYMBg27sSEpOlHILdBqCyJO49Mi89RT+cY3xNSJu9dQfC/jb0NP0uOwV+F2uNHkN
+	CmKdayN967UMxS6q0N3zlnN+uKeoyELwMfM=
+	
+Starting the ApplicationData executable
+found --YYOriginalFilename=C:\Users\Dell\GameMaker-Studio 1.3\GameMaker-Studio.exe
+Starting process for C:\Users\Dell\AppData\Roaming\GameMaker-Studio\5piceIDE.exe
+found --YYGMParams=""
+urlForUpdate = http://store.yoyogames.com/downloads/gm-studio/update-studio-stable.rss
+update file downloaded numEntries = 1
+FileEntry = Title=Version 1.4.1804, ReleaseNotesUri=http://store.yoyogames.com/downloads/gm-studio/release-notes-studio.html?__yoyo_relnotes=381067810, PubDate=13-03-2018 05:39:04, EnclosureUri=https://updater.yoyogames.com/api/download/original?filename=Original-1.4.1804.zip, EnclosureVersion=1.4.1804, EnclosureType=application/octet-stream, EnclosureLength=82119886, EnclosureSignature=MCwCFHmvVleldPNDz9vR98+SAqW6rQVqAhQd/dtc3tOXVao2FjjjWIhQWCu/Lw==, DeltaSet=System.Collections.Generic.List`1[Updater.SparkleFileEntry], 
+my version number is 1.4.1804.44013 the update version is 1.4.1804
+Not a newer version - ignoring
+urlForUpdate = http://store.yoyogames.com/downloads/gm-studio/update-studio-stable.rss
+update file downloaded numEntries = 1
+FileEntry = Title=Version 1.4.1804, ReleaseNotesUri=http://store.yoyogames.com/downloads/gm-studio/release-notes-studio.html?__yoyo_relnotes=851483105, PubDate=13-03-2018 05:39:04, EnclosureUri=https://updater.yoyogames.com/api/download/original?filename=Original-1.4.1804.zip, EnclosureVersion=1.4.1804, EnclosureType=application/octet-stream, EnclosureLength=82119886, EnclosureSignature=MCwCFHmvVleldPNDz9vR98+SAqW6rQVqAhQd/dtc3tOXVao2FjjjWIhQWCu/Lw==, DeltaSet=System.Collections.Generic.List`1[Updater.SparkleFileEntry], 
+my version number is 1.4.1804.44013 the update version is 1.4.1804
+Not a newer version - ignoring
+urlForUpdate = http://store.yoyogames.com/downloads/gm-studio/update-studio-stable.rss
+update file downloaded numEntries = 1
+FileEntry = Title=Version 1.4.1804, ReleaseNotesUri=http://store.yoyogames.com/downloads/gm-studio/release-notes-studio.html?__yoyo_relnotes=2098364082, PubDate=13-03-2018 05:39:04, EnclosureUri=https://updater.yoyogames.com/api/download/original?filename=Original-1.4.1804.zip, EnclosureVersion=1.4.1804, EnclosureType=application/octet-stream, EnclosureLength=82119886, EnclosureSignature=MCwCFHmvVleldPNDz9vR98+SAqW6rQVqAhQd/dtc3tOXVao2FjjjWIhQWCu/Lw==, DeltaSet=System.Collections.Generic.List`1[Updater.SparkleFileEntry], 
+my version number is 1.4.1804.44013 the update version is 1.4.1804
+Not a newer version - ignoring
+------------ GameMaker-Studio 1.4.1772.42005 --------------
+regCurr=SOFTWARE\5tudio\59CAEAA5, k=Addons, entry=AndroidTest.Windows.Windows8.Windows8RT.pro, plist[k]=AndroidTest.Windows.Windows8.Windows8RT.pro
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4, k=Answer, entry=1143136907, plist[k]=1143136907
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE, k=Email, entry=Sajid.sarker@gmail.com, plist[k]=Sajid.sarker@gmail.com
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB, k=License Type, entry=Full, plist[k]=Full
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF, k=Name, entry=Sajid.sarker@gmail.com, plist[k]=Sajid.sarker@gmail.com
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5, k=Pass Phrase, entry=5b2747beb8cbe0149002040ea595a86d, plist[k]=5b2747beb8cbe0149002040ea595a86d
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5\71B4, k=Product, entry=GameMaker:Studio, plist[k]=GameMaker:Studio
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5\71B4\03EE, k=Signature, entry=
+	YVk5LJ6i7vOKSDACbDqpWJVCsZDplWsYGwasNYGFKNMcKq7GWoGokGDjs8kIsQNxKm5C
+	AYBFSYMBg27sSEpOlHILdBqCyJO49Mi89RT+cY3xNSJu9dQfC/jb0NP0uOwV+F2uNHkN
+	CmKdayN967UMxS6q0N3zlnN+uKeoyELwMfM=
+	, plist[k]=
+	YVk5LJ6i7vOKSDACbDqpWJVCsZDplWsYGwasNYGFKNMcKq7GWoGokGDjs8kIsQNxKm5C
+	AYBFSYMBg27sSEpOlHILdBqCyJO49Mi89RT+cY3xNSJu9dQfC/jb0NP0uOwV+F2uNHkN
+	CmKdayN967UMxS6q0N3zlnN+uKeoyELwMfM=
+	
+Not running from the ApplicationData directory
+Not running from the ApplicationData directory
+Checking the install receipt
+receipt has 0 elements
+############## Unhandled Exception! ##################
+Merge Flag set to "True"
+Deleting the upgrade Zip directory "C:\Users\Dell\AppData\Local\GameMaker-Studio\UpgradeZip"
+found --YYGMParams=""
+Starting the Application Data executable "C:\Users\Dell\AppData\Roaming\GameMaker-Studio\GameMaker-Studio.exe" --YYOriginalFilename="C:\Users\Dell\GameMaker-Studio 1.3\GameMaker-Studio.exe" --YYGMParams=""
+System.IO.DirectoryNotFoundException: Could not find a part of the path 'C:\Users\Dell\AppData\Local\GameMaker-Studio\Upgrade'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.Directory.DeleteHelper(String fullPath, String userPath, Boolean recursive)
+   at System.IO.Directory.Delete(String fullPath, String userPath, Boolean recursive)
+   at Updater.SparkleUpdate.Create()
+   at Updater.Program.Main()
+Exiting the original application - "C:\Users\Dell\GameMaker-Studio 1.3\GameMaker-Studio.exe"
+------------ GameMaker-Studio 1.4.1804.44013 --------------
+regCurr=SOFTWARE\5tudio\59CAEAA5, k=Addons, entry=AndroidTest.Windows.Windows8.Windows8RT.pro, plist[k]=AndroidTest.Windows.Windows8.Windows8RT.pro
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4, k=Answer, entry=1143136907, plist[k]=1143136907
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE, k=Email, entry=Sajid.sarker@gmail.com, plist[k]=Sajid.sarker@gmail.com
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB, k=License Type, entry=Full, plist[k]=Full
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF, k=Name, entry=Sajid.sarker@gmail.com, plist[k]=Sajid.sarker@gmail.com
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5, k=Pass Phrase, entry=5b2747beb8cbe0149002040ea595a86d, plist[k]=5b2747beb8cbe0149002040ea595a86d
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5\71B4, k=Product, entry=GameMaker:Studio, plist[k]=GameMaker:Studio
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5\71B4\03EE, k=Signature, entry=
+	YVk5LJ6i7vOKSDACbDqpWJVCsZDplWsYGwasNYGFKNMcKq7GWoGokGDjs8kIsQNxKm5C
+	AYBFSYMBg27sSEpOlHILdBqCyJO49Mi89RT+cY3xNSJu9dQfC/jb0NP0uOwV+F2uNHkN
+	CmKdayN967UMxS6q0N3zlnN+uKeoyELwMfM=
+	, plist[k]=
+	YVk5LJ6i7vOKSDACbDqpWJVCsZDplWsYGwasNYGFKNMcKq7GWoGokGDjs8kIsQNxKm5C
+	AYBFSYMBg27sSEpOlHILdBqCyJO49Mi89RT+cY3xNSJu9dQfC/jb0NP0uOwV+F2uNHkN
+	CmKdayN967UMxS6q0N3zlnN+uKeoyELwMfM=
+	
+Starting the ApplicationData executable
+found --YYOriginalFilename=C:\Users\Dell\GameMaker-Studio 1.3\GameMaker-Studio.exe
+Starting process for C:\Users\Dell\AppData\Roaming\GameMaker-Studio\5piceIDE.exe
+found --YYGMParams=""
+urlForUpdate = http://store.yoyogames.com/downloads/gm-studio/update-studio-stable.rss
+update file downloaded numEntries = 1
+FileEntry = Title=Version 1.4.1804, ReleaseNotesUri=http://store.yoyogames.com/downloads/gm-studio/release-notes-studio.html?__yoyo_relnotes=208143106, PubDate=13-03-2018 05:39:04, EnclosureUri=https://updater.yoyogames.com/api/download/original?filename=Original-1.4.1804.zip, EnclosureVersion=1.4.1804, EnclosureType=application/octet-stream, EnclosureLength=82119886, EnclosureSignature=MCwCFHmvVleldPNDz9vR98+SAqW6rQVqAhQd/dtc3tOXVao2FjjjWIhQWCu/Lw==, DeltaSet=System.Collections.Generic.List`1[Updater.SparkleFileEntry], 
+my version number is 1.4.1804.44013 the update version is 1.4.1804
+Not a newer version - ignoring
+urlForUpdate = http://store.yoyogames.com/downloads/gm-studio/update-studio-stable.rss
+update file downloaded numEntries = 1
+FileEntry = Title=Version 1.4.1804, ReleaseNotesUri=http://store.yoyogames.com/downloads/gm-studio/release-notes-studio.html?__yoyo_relnotes=20427148, PubDate=13-03-2018 05:39:04, EnclosureUri=https://updater.yoyogames.com/api/download/original?filename=Original-1.4.1804.zip, EnclosureVersion=1.4.1804, EnclosureType=application/octet-stream, EnclosureLength=82119886, EnclosureSignature=MCwCFHmvVleldPNDz9vR98+SAqW6rQVqAhQd/dtc3tOXVao2FjjjWIhQWCu/Lw==, DeltaSet=System.Collections.Generic.List`1[Updater.SparkleFileEntry], 
+my version number is 1.4.1804.44013 the update version is 1.4.1804
+Not a newer version - ignoring
+urlForUpdate = http://store.yoyogames.com/downloads/gm-studio/update-studio-stable.rss
+update file downloaded numEntries = 1
+FileEntry = Title=Version 1.4.1804, ReleaseNotesUri=http://store.yoyogames.com/downloads/gm-studio/release-notes-studio.html?__yoyo_relnotes=2050718366, PubDate=13-03-2018 05:39:04, EnclosureUri=https://updater.yoyogames.com/api/download/original?filename=Original-1.4.1804.zip, EnclosureVersion=1.4.1804, EnclosureType=application/octet-stream, EnclosureLength=82119886, EnclosureSignature=MCwCFHmvVleldPNDz9vR98+SAqW6rQVqAhQd/dtc3tOXVao2FjjjWIhQWCu/Lw==, DeltaSet=System.Collections.Generic.List`1[Updater.SparkleFileEntry], 
+my version number is 1.4.1804.44013 the update version is 1.4.1804
+Not a newer version - ignoring
+------------ GameMaker-Studio 1.4.1772.42005 --------------
+regCurr=SOFTWARE\5tudio\59CAEAA5, k=Addons, entry=AndroidTest.Windows.Windows8.Windows8RT.pro, plist[k]=AndroidTest.Windows.Windows8.Windows8RT.pro
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4, k=Answer, entry=1143136907, plist[k]=1143136907
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE, k=Email, entry=Sajid.sarker@gmail.com, plist[k]=Sajid.sarker@gmail.com
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB, k=License Type, entry=Full, plist[k]=Full
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF, k=Name, entry=Sajid.sarker@gmail.com, plist[k]=Sajid.sarker@gmail.com
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5, k=Pass Phrase, entry=5b2747beb8cbe0149002040ea595a86d, plist[k]=5b2747beb8cbe0149002040ea595a86d
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5\71B4, k=Product, entry=GameMaker:Studio, plist[k]=GameMaker:Studio
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5\71B4\03EE, k=Signature, entry=
+	YVk5LJ6i7vOKSDACbDqpWJVCsZDplWsYGwasNYGFKNMcKq7GWoGokGDjs8kIsQNxKm5C
+	AYBFSYMBg27sSEpOlHILdBqCyJO49Mi89RT+cY3xNSJu9dQfC/jb0NP0uOwV+F2uNHkN
+	CmKdayN967UMxS6q0N3zlnN+uKeoyELwMfM=
+	, plist[k]=
+	YVk5LJ6i7vOKSDACbDqpWJVCsZDplWsYGwasNYGFKNMcKq7GWoGokGDjs8kIsQNxKm5C
+	AYBFSYMBg27sSEpOlHILdBqCyJO49Mi89RT+cY3xNSJu9dQfC/jb0NP0uOwV+F2uNHkN
+	CmKdayN967UMxS6q0N3zlnN+uKeoyELwMfM=
+	
+Not running from the ApplicationData directory
+Checking the install receipt
+receipt has 0 elements
+Merge Flag set to "True"
+Deleting the upgrade Zip directory "C:\Users\Dell\AppData\Local\GameMaker-Studio\UpgradeZip"
+found --YYGMParams=""
+Starting the Application Data executable "C:\Users\Dell\AppData\Roaming\GameMaker-Studio\GameMaker-Studio.exe" --YYOriginalFilename="C:\Users\Dell\GameMaker-Studio 1.3\GameMaker-Studio.exe" --YYGMParams=""
+Exiting the original application - "C:\Users\Dell\GameMaker-Studio 1.3\GameMaker-Studio.exe"
+------------ GameMaker-Studio 1.4.1804.44013 --------------
+regCurr=SOFTWARE\5tudio\59CAEAA5, k=Addons, entry=AndroidTest.Windows.Windows8.Windows8RT.pro, plist[k]=AndroidTest.Windows.Windows8.Windows8RT.pro
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4, k=Answer, entry=1143136907, plist[k]=1143136907
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE, k=Email, entry=Sajid.sarker@gmail.com, plist[k]=Sajid.sarker@gmail.com
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB, k=License Type, entry=Full, plist[k]=Full
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF, k=Name, entry=Sajid.sarker@gmail.com, plist[k]=Sajid.sarker@gmail.com
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5, k=Pass Phrase, entry=5b2747beb8cbe0149002040ea595a86d, plist[k]=5b2747beb8cbe0149002040ea595a86d
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5\71B4, k=Product, entry=GameMaker:Studio, plist[k]=GameMaker:Studio
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5\71B4\03EE, k=Signature, entry=
+	YVk5LJ6i7vOKSDACbDqpWJVCsZDplWsYGwasNYGFKNMcKq7GWoGokGDjs8kIsQNxKm5C
+	AYBFSYMBg27sSEpOlHILdBqCyJO49Mi89RT+cY3xNSJu9dQfC/jb0NP0uOwV+F2uNHkN
+	CmKdayN967UMxS6q0N3zlnN+uKeoyELwMfM=
+	, plist[k]=
+	YVk5LJ6i7vOKSDACbDqpWJVCsZDplWsYGwasNYGFKNMcKq7GWoGokGDjs8kIsQNxKm5C
+	AYBFSYMBg27sSEpOlHILdBqCyJO49Mi89RT+cY3xNSJu9dQfC/jb0NP0uOwV+F2uNHkN
+	CmKdayN967UMxS6q0N3zlnN+uKeoyELwMfM=
+	
+Starting the ApplicationData executable
+found --YYOriginalFilename=C:\Users\Dell\GameMaker-Studio 1.3\GameMaker-Studio.exe
+Starting process for C:\Users\Dell\AppData\Roaming\GameMaker-Studio\5piceIDE.exe
+found --YYGMParams=""
+urlForUpdate = http://store.yoyogames.com/downloads/gm-studio/update-studio-stable.rss
+update file downloaded numEntries = 1
+FileEntry = Title=Version 1.4.1804, ReleaseNotesUri=http://store.yoyogames.com/downloads/gm-studio/release-notes-studio.html?__yoyo_relnotes=1402097689, PubDate=13-03-2018 05:39:04, EnclosureUri=https://updater.yoyogames.com/api/download/original?filename=Original-1.4.1804.zip, EnclosureVersion=1.4.1804, EnclosureType=application/octet-stream, EnclosureLength=82119886, EnclosureSignature=MCwCFHmvVleldPNDz9vR98+SAqW6rQVqAhQd/dtc3tOXVao2FjjjWIhQWCu/Lw==, DeltaSet=System.Collections.Generic.List`1[Updater.SparkleFileEntry], 
+my version number is 1.4.1804.44013 the update version is 1.4.1804
+Not a newer version - ignoring
+------------ GameMaker-Studio 1.4.1772.42005 --------------
+regCurr=SOFTWARE\5tudio\59CAEAA5, k=Addons, entry=AndroidTest.Windows.Windows8.Windows8RT.pro, plist[k]=AndroidTest.Windows.Windows8.Windows8RT.pro
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4, k=Answer, entry=1143136907, plist[k]=1143136907
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE, k=Email, entry=Sajid.sarker@gmail.com, plist[k]=Sajid.sarker@gmail.com
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB, k=License Type, entry=Full, plist[k]=Full
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF, k=Name, entry=Sajid.sarker@gmail.com, plist[k]=Sajid.sarker@gmail.com
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5, k=Pass Phrase, entry=5b2747beb8cbe0149002040ea595a86d, plist[k]=5b2747beb8cbe0149002040ea595a86d
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5\71B4, k=Product, entry=GameMaker:Studio, plist[k]=GameMaker:Studio
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5\71B4\03EE, k=Signature, entry=
+	YVk5LJ6i7vOKSDACbDqpWJVCsZDplWsYGwasNYGFKNMcKq7GWoGokGDjs8kIsQNxKm5C
+	AYBFSYMBg27sSEpOlHILdBqCyJO49Mi89RT+cY3xNSJu9dQfC/jb0NP0uOwV+F2uNHkN
+	CmKdayN967UMxS6q0N3zlnN+uKeoyELwMfM=
+	, plist[k]=
+	YVk5LJ6i7vOKSDACbDqpWJVCsZDplWsYGwasNYGFKNMcKq7GWoGokGDjs8kIsQNxKm5C
+	AYBFSYMBg27sSEpOlHILdBqCyJO49Mi89RT+cY3xNSJu9dQfC/jb0NP0uOwV+F2uNHkN
+	CmKdayN967UMxS6q0N3zlnN+uKeoyELwMfM=
+	
+Not running from the ApplicationData directory
+Checking the install receipt
+receipt has 0 elements
+Merge Flag set to "True"
+Deleting the upgrade Zip directory "C:\Users\Dell\AppData\Local\GameMaker-Studio\UpgradeZip"
+found --YYGMParams=""
+Starting the Application Data executable "C:\Users\Dell\AppData\Roaming\GameMaker-Studio\GameMaker-Studio.exe" --YYOriginalFilename="C:\Users\Dell\GameMaker-Studio 1.3\GameMaker-Studio.exe" --YYGMParams=""
+Exiting the original application - "C:\Users\Dell\GameMaker-Studio 1.3\GameMaker-Studio.exe"
+------------ GameMaker-Studio 1.4.1804.44013 --------------
+regCurr=SOFTWARE\5tudio\59CAEAA5, k=Addons, entry=AndroidTest.Windows.Windows8.Windows8RT.pro, plist[k]=AndroidTest.Windows.Windows8.Windows8RT.pro
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4, k=Answer, entry=1143136907, plist[k]=1143136907
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE, k=Email, entry=Sajid.sarker@gmail.com, plist[k]=Sajid.sarker@gmail.com
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB, k=License Type, entry=Full, plist[k]=Full
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF, k=Name, entry=Sajid.sarker@gmail.com, plist[k]=Sajid.sarker@gmail.com
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5, k=Pass Phrase, entry=5b2747beb8cbe0149002040ea595a86d, plist[k]=5b2747beb8cbe0149002040ea595a86d
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5\71B4, k=Product, entry=GameMaker:Studio, plist[k]=GameMaker:Studio
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5\71B4\03EE, k=Signature, entry=
+	YVk5LJ6i7vOKSDACbDqpWJVCsZDplWsYGwasNYGFKNMcKq7GWoGokGDjs8kIsQNxKm5C
+	AYBFSYMBg27sSEpOlHILdBqCyJO49Mi89RT+cY3xNSJu9dQfC/jb0NP0uOwV+F2uNHkN
+	CmKdayN967UMxS6q0N3zlnN+uKeoyELwMfM=
+	, plist[k]=
+	YVk5LJ6i7vOKSDACbDqpWJVCsZDplWsYGwasNYGFKNMcKq7GWoGokGDjs8kIsQNxKm5C
+	AYBFSYMBg27sSEpOlHILdBqCyJO49Mi89RT+cY3xNSJu9dQfC/jb0NP0uOwV+F2uNHkN
+	CmKdayN967UMxS6q0N3zlnN+uKeoyELwMfM=
+	
+Starting the ApplicationData executable
+found --YYOriginalFilename=C:\Users\Dell\GameMaker-Studio 1.3\GameMaker-Studio.exe
+Starting process for C:\Users\Dell\AppData\Roaming\GameMaker-Studio\5piceIDE.exe
+found --YYGMParams=""
+urlForUpdate = http://store.yoyogames.com/downloads/gm-studio/update-studio-stable.rss
+update file downloaded numEntries = 1
+FileEntry = Title=Version 1.4.1804, ReleaseNotesUri=http://store.yoyogames.com/downloads/gm-studio/release-notes-studio.html?__yoyo_relnotes=1363147007, PubDate=13-03-2018 05:39:04, EnclosureUri=https://updater.yoyogames.com/api/download/original?filename=Original-1.4.1804.zip, EnclosureVersion=1.4.1804, EnclosureType=application/octet-stream, EnclosureLength=82119886, EnclosureSignature=MCwCFHmvVleldPNDz9vR98+SAqW6rQVqAhQd/dtc3tOXVao2FjjjWIhQWCu/Lw==, DeltaSet=System.Collections.Generic.List`1[Updater.SparkleFileEntry], 
+my version number is 1.4.1804.44013 the update version is 1.4.1804
+Not a newer version - ignoring
+------------ GameMaker-Studio 1.4.1772.42005 --------------
+regCurr=SOFTWARE\5tudio\59CAEAA5, k=Addons, entry=AndroidTest.Windows.Windows8.Windows8RT.pro, plist[k]=AndroidTest.Windows.Windows8.Windows8RT.pro
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4, k=Answer, entry=1143136907, plist[k]=1143136907
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE, k=Email, entry=Sajid.sarker@gmail.com, plist[k]=Sajid.sarker@gmail.com
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB, k=License Type, entry=Full, plist[k]=Full
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF, k=Name, entry=Sajid.sarker@gmail.com, plist[k]=Sajid.sarker@gmail.com
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5, k=Pass Phrase, entry=5b2747beb8cbe0149002040ea595a86d, plist[k]=5b2747beb8cbe0149002040ea595a86d
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5\71B4, k=Product, entry=GameMaker:Studio, plist[k]=GameMaker:Studio
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5\71B4\03EE, k=Signature, entry=
+	YVk5LJ6i7vOKSDACbDqpWJVCsZDplWsYGwasNYGFKNMcKq7GWoGokGDjs8kIsQNxKm5C
+	AYBFSYMBg27sSEpOlHILdBqCyJO49Mi89RT+cY3xNSJu9dQfC/jb0NP0uOwV+F2uNHkN
+	CmKdayN967UMxS6q0N3zlnN+uKeoyELwMfM=
+	, plist[k]=
+	YVk5LJ6i7vOKSDACbDqpWJVCsZDplWsYGwasNYGFKNMcKq7GWoGokGDjs8kIsQNxKm5C
+	AYBFSYMBg27sSEpOlHILdBqCyJO49Mi89RT+cY3xNSJu9dQfC/jb0NP0uOwV+F2uNHkN
+	CmKdayN967UMxS6q0N3zlnN+uKeoyELwMfM=
+	
+Not running from the ApplicationData directory
+Checking the install receipt
+receipt has 0 elements
+Merge Flag set to "True"
+Deleting the upgrade Zip directory "C:\Users\Dell\AppData\Local\GameMaker-Studio\UpgradeZip"
+found --YYGMParams=""
+Starting the Application Data executable "C:\Users\Dell\AppData\Roaming\GameMaker-Studio\GameMaker-Studio.exe" --YYOriginalFilename="C:\Users\Dell\GameMaker-Studio 1.3\GameMaker-Studio.exe" --YYGMParams=""
+Exiting the original application - "C:\Users\Dell\GameMaker-Studio 1.3\GameMaker-Studio.exe"
+------------ GameMaker-Studio 1.4.1804.44013 --------------
+regCurr=SOFTWARE\5tudio\59CAEAA5, k=Addons, entry=AndroidTest.Windows.Windows8.Windows8RT.pro, plist[k]=AndroidTest.Windows.Windows8.Windows8RT.pro
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4, k=Answer, entry=1143136907, plist[k]=1143136907
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE, k=Email, entry=Sajid.sarker@gmail.com, plist[k]=Sajid.sarker@gmail.com
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB, k=License Type, entry=Full, plist[k]=Full
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF, k=Name, entry=Sajid.sarker@gmail.com, plist[k]=Sajid.sarker@gmail.com
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5, k=Pass Phrase, entry=5b2747beb8cbe0149002040ea595a86d, plist[k]=5b2747beb8cbe0149002040ea595a86d
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5\71B4, k=Product, entry=GameMaker:Studio, plist[k]=GameMaker:Studio
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5\71B4\03EE, k=Signature, entry=
+	YVk5LJ6i7vOKSDACbDqpWJVCsZDplWsYGwasNYGFKNMcKq7GWoGokGDjs8kIsQNxKm5C
+	AYBFSYMBg27sSEpOlHILdBqCyJO49Mi89RT+cY3xNSJu9dQfC/jb0NP0uOwV+F2uNHkN
+	CmKdayN967UMxS6q0N3zlnN+uKeoyELwMfM=
+	, plist[k]=
+	YVk5LJ6i7vOKSDACbDqpWJVCsZDplWsYGwasNYGFKNMcKq7GWoGokGDjs8kIsQNxKm5C
+	AYBFSYMBg27sSEpOlHILdBqCyJO49Mi89RT+cY3xNSJu9dQfC/jb0NP0uOwV+F2uNHkN
+	CmKdayN967UMxS6q0N3zlnN+uKeoyELwMfM=
+	
+Starting the ApplicationData executable
+found --YYOriginalFilename=C:\Users\Dell\GameMaker-Studio 1.3\GameMaker-Studio.exe
+Starting process for C:\Users\Dell\AppData\Roaming\GameMaker-Studio\5piceIDE.exe
+found --YYGMParams=""
+urlForUpdate = http://store.yoyogames.com/downloads/gm-studio/update-studio-stable.rss
+update file downloaded numEntries = 1
+FileEntry = Title=Version 1.4.1804, ReleaseNotesUri=http://store.yoyogames.com/downloads/gm-studio/release-notes-studio.html?__yoyo_relnotes=672440265, PubDate=13-03-2018 05:39:04, EnclosureUri=https://updater.yoyogames.com/api/download/original?filename=Original-1.4.1804.zip, EnclosureVersion=1.4.1804, EnclosureType=application/octet-stream, EnclosureLength=82119886, EnclosureSignature=MCwCFHmvVleldPNDz9vR98+SAqW6rQVqAhQd/dtc3tOXVao2FjjjWIhQWCu/Lw==, DeltaSet=System.Collections.Generic.List`1[Updater.SparkleFileEntry], 
+my version number is 1.4.1804.44013 the update version is 1.4.1804
+Not a newer version - ignoring
+urlForUpdate = http://store.yoyogames.com/downloads/gm-studio/update-studio-stable.rss
+update file downloaded numEntries = 1
+FileEntry = Title=Version 1.4.1804, ReleaseNotesUri=http://store.yoyogames.com/downloads/gm-studio/release-notes-studio.html?__yoyo_relnotes=1599701410, PubDate=13-03-2018 05:39:04, EnclosureUri=https://updater.yoyogames.com/api/download/original?filename=Original-1.4.1804.zip, EnclosureVersion=1.4.1804, EnclosureType=application/octet-stream, EnclosureLength=82119886, EnclosureSignature=MCwCFHmvVleldPNDz9vR98+SAqW6rQVqAhQd/dtc3tOXVao2FjjjWIhQWCu/Lw==, DeltaSet=System.Collections.Generic.List`1[Updater.SparkleFileEntry], 
+my version number is 1.4.1804.44013 the update version is 1.4.1804
+Not a newer version - ignoring
+------------ GameMaker-Studio 1.4.1772.42005 --------------
+regCurr=SOFTWARE\5tudio\59CAEAA5, k=Addons, entry=AndroidTest.Windows.Windows8.Windows8RT.pro, plist[k]=AndroidTest.Windows.Windows8.Windows8RT.pro
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4, k=Answer, entry=1143136907, plist[k]=1143136907
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE, k=Email, entry=Sajid.sarker@gmail.com, plist[k]=Sajid.sarker@gmail.com
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB, k=License Type, entry=Full, plist[k]=Full
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF, k=Name, entry=Sajid.sarker@gmail.com, plist[k]=Sajid.sarker@gmail.com
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5, k=Pass Phrase, entry=5b2747beb8cbe0149002040ea595a86d, plist[k]=5b2747beb8cbe0149002040ea595a86d
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5\71B4, k=Product, entry=GameMaker:Studio, plist[k]=GameMaker:Studio
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5\71B4\03EE, k=Signature, entry=
+	YVk5LJ6i7vOKSDACbDqpWJVCsZDplWsYGwasNYGFKNMcKq7GWoGokGDjs8kIsQNxKm5C
+	AYBFSYMBg27sSEpOlHILdBqCyJO49Mi89RT+cY3xNSJu9dQfC/jb0NP0uOwV+F2uNHkN
+	CmKdayN967UMxS6q0N3zlnN+uKeoyELwMfM=
+	, plist[k]=
+	YVk5LJ6i7vOKSDACbDqpWJVCsZDplWsYGwasNYGFKNMcKq7GWoGokGDjs8kIsQNxKm5C
+	AYBFSYMBg27sSEpOlHILdBqCyJO49Mi89RT+cY3xNSJu9dQfC/jb0NP0uOwV+F2uNHkN
+	CmKdayN967UMxS6q0N3zlnN+uKeoyELwMfM=
+	
+Not running from the ApplicationData directory
+Checking the install receipt
+receipt has 0 elements
+Merge Flag set to "True"
+Deleting the upgrade Zip directory "C:\Users\Dell\AppData\Local\GameMaker-Studio\UpgradeZip"
+found --YYGMParams=""
+Starting the Application Data executable "C:\Users\Dell\AppData\Roaming\GameMaker-Studio\GameMaker-Studio.exe" --YYOriginalFilename="C:\Users\Dell\GameMaker-Studio 1.3\GameMaker-Studio.exe" --YYGMParams=""
+Exiting the original application - "C:\Users\Dell\GameMaker-Studio 1.3\GameMaker-Studio.exe"
+------------ GameMaker-Studio 1.4.1804.44013 --------------
+regCurr=SOFTWARE\5tudio\59CAEAA5, k=Addons, entry=AndroidTest.Windows.Windows8.Windows8RT.pro, plist[k]=AndroidTest.Windows.Windows8.Windows8RT.pro
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4, k=Answer, entry=1143136907, plist[k]=1143136907
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE, k=Email, entry=Sajid.sarker@gmail.com, plist[k]=Sajid.sarker@gmail.com
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB, k=License Type, entry=Full, plist[k]=Full
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF, k=Name, entry=Sajid.sarker@gmail.com, plist[k]=Sajid.sarker@gmail.com
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5, k=Pass Phrase, entry=5b2747beb8cbe0149002040ea595a86d, plist[k]=5b2747beb8cbe0149002040ea595a86d
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5\71B4, k=Product, entry=GameMaker:Studio, plist[k]=GameMaker:Studio
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5\71B4\03EE, k=Signature, entry=
+	YVk5LJ6i7vOKSDACbDqpWJVCsZDplWsYGwasNYGFKNMcKq7GWoGokGDjs8kIsQNxKm5C
+	AYBFSYMBg27sSEpOlHILdBqCyJO49Mi89RT+cY3xNSJu9dQfC/jb0NP0uOwV+F2uNHkN
+	CmKdayN967UMxS6q0N3zlnN+uKeoyELwMfM=
+	, plist[k]=
+	YVk5LJ6i7vOKSDACbDqpWJVCsZDplWsYGwasNYGFKNMcKq7GWoGokGDjs8kIsQNxKm5C
+	AYBFSYMBg27sSEpOlHILdBqCyJO49Mi89RT+cY3xNSJu9dQfC/jb0NP0uOwV+F2uNHkN
+	CmKdayN967UMxS6q0N3zlnN+uKeoyELwMfM=
+	
+Starting the ApplicationData executable
+found --YYOriginalFilename=C:\Users\Dell\GameMaker-Studio 1.3\GameMaker-Studio.exe
+Starting process for C:\Users\Dell\AppData\Roaming\GameMaker-Studio\5piceIDE.exe
+found --YYGMParams=""
+urlForUpdate = http://store.yoyogames.com/downloads/gm-studio/update-studio-stable.rss
+update file downloaded numEntries = 1
+FileEntry = Title=Version 1.4.1804, ReleaseNotesUri=http://store.yoyogames.com/downloads/gm-studio/release-notes-studio.html?__yoyo_relnotes=688526590, PubDate=13-03-2018 05:39:04, EnclosureUri=https://updater.yoyogames.com/api/download/original?filename=Original-1.4.1804.zip, EnclosureVersion=1.4.1804, EnclosureType=application/octet-stream, EnclosureLength=82119886, EnclosureSignature=MCwCFHmvVleldPNDz9vR98+SAqW6rQVqAhQd/dtc3tOXVao2FjjjWIhQWCu/Lw==, DeltaSet=System.Collections.Generic.List`1[Updater.SparkleFileEntry], 
+my version number is 1.4.1804.44013 the update version is 1.4.1804
+Not a newer version - ignoring
+urlForUpdate = http://store.yoyogames.com/downloads/gm-studio/update-studio-stable.rss
+update file downloaded numEntries = 1
+FileEntry = Title=Version 1.4.1804, ReleaseNotesUri=http://store.yoyogames.com/downloads/gm-studio/release-notes-studio.html?__yoyo_relnotes=1226726031, PubDate=13-03-2018 05:39:04, EnclosureUri=https://updater.yoyogames.com/api/download/original?filename=Original-1.4.1804.zip, EnclosureVersion=1.4.1804, EnclosureType=application/octet-stream, EnclosureLength=82119886, EnclosureSignature=MCwCFHmvVleldPNDz9vR98+SAqW6rQVqAhQd/dtc3tOXVao2FjjjWIhQWCu/Lw==, DeltaSet=System.Collections.Generic.List`1[Updater.SparkleFileEntry], 
+my version number is 1.4.1804.44013 the update version is 1.4.1804
+Not a newer version - ignoring
+------------ GameMaker-Studio 1.4.1772.42005 --------------
+regCurr=SOFTWARE\5tudio\59CAEAA5, k=Addons, entry=AndroidTest.Windows.Windows8.Windows8RT.pro, plist[k]=AndroidTest.Windows.Windows8.Windows8RT.pro
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4, k=Answer, entry=1143136907, plist[k]=1143136907
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE, k=Email, entry=Sajid.sarker@gmail.com, plist[k]=Sajid.sarker@gmail.com
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB, k=License Type, entry=Full, plist[k]=Full
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF, k=Name, entry=Sajid.sarker@gmail.com, plist[k]=Sajid.sarker@gmail.com
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5, k=Pass Phrase, entry=5b2747beb8cbe0149002040ea595a86d, plist[k]=5b2747beb8cbe0149002040ea595a86d
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5\71B4, k=Product, entry=GameMaker:Studio, plist[k]=GameMaker:Studio
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5\71B4\03EE, k=Signature, entry=
+	YVk5LJ6i7vOKSDACbDqpWJVCsZDplWsYGwasNYGFKNMcKq7GWoGokGDjs8kIsQNxKm5C
+	AYBFSYMBg27sSEpOlHILdBqCyJO49Mi89RT+cY3xNSJu9dQfC/jb0NP0uOwV+F2uNHkN
+	CmKdayN967UMxS6q0N3zlnN+uKeoyELwMfM=
+	, plist[k]=
+	YVk5LJ6i7vOKSDACbDqpWJVCsZDplWsYGwasNYGFKNMcKq7GWoGokGDjs8kIsQNxKm5C
+	AYBFSYMBg27sSEpOlHILdBqCyJO49Mi89RT+cY3xNSJu9dQfC/jb0NP0uOwV+F2uNHkN
+	CmKdayN967UMxS6q0N3zlnN+uKeoyELwMfM=
+	
+Not running from the ApplicationData directory
+Checking the install receipt
+receipt has 0 elements
+Merge Flag set to "True"
+Deleting the upgrade Zip directory "C:\Users\Dell\AppData\Local\GameMaker-Studio\UpgradeZip"
+found --YYGMParams=""
+Starting the Application Data executable "C:\Users\Dell\AppData\Roaming\GameMaker-Studio\GameMaker-Studio.exe" --YYOriginalFilename="C:\Users\Dell\GameMaker-Studio 1.3\GameMaker-Studio.exe" --YYGMParams=""
+Exiting the original application - "C:\Users\Dell\GameMaker-Studio 1.3\GameMaker-Studio.exe"
+------------ GameMaker-Studio 1.4.1804.44013 --------------
+regCurr=SOFTWARE\5tudio\59CAEAA5, k=Addons, entry=AndroidTest.Windows.Windows8.Windows8RT.pro, plist[k]=AndroidTest.Windows.Windows8.Windows8RT.pro
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4, k=Answer, entry=1143136907, plist[k]=1143136907
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE, k=Email, entry=Sajid.sarker@gmail.com, plist[k]=Sajid.sarker@gmail.com
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB, k=License Type, entry=Full, plist[k]=Full
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF, k=Name, entry=Sajid.sarker@gmail.com, plist[k]=Sajid.sarker@gmail.com
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5, k=Pass Phrase, entry=5b2747beb8cbe0149002040ea595a86d, plist[k]=5b2747beb8cbe0149002040ea595a86d
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5\71B4, k=Product, entry=GameMaker:Studio, plist[k]=GameMaker:Studio
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5\71B4\03EE, k=Signature, entry=
+	YVk5LJ6i7vOKSDACbDqpWJVCsZDplWsYGwasNYGFKNMcKq7GWoGokGDjs8kIsQNxKm5C
+	AYBFSYMBg27sSEpOlHILdBqCyJO49Mi89RT+cY3xNSJu9dQfC/jb0NP0uOwV+F2uNHkN
+	CmKdayN967UMxS6q0N3zlnN+uKeoyELwMfM=
+	, plist[k]=
+	YVk5LJ6i7vOKSDACbDqpWJVCsZDplWsYGwasNYGFKNMcKq7GWoGokGDjs8kIsQNxKm5C
+	AYBFSYMBg27sSEpOlHILdBqCyJO49Mi89RT+cY3xNSJu9dQfC/jb0NP0uOwV+F2uNHkN
+	CmKdayN967UMxS6q0N3zlnN+uKeoyELwMfM=
+	
+Starting the ApplicationData executable
+found --YYOriginalFilename=C:\Users\Dell\GameMaker-Studio 1.3\GameMaker-Studio.exe
+Starting process for C:\Users\Dell\AppData\Roaming\GameMaker-Studio\5piceIDE.exe
+found --YYGMParams=""
+urlForUpdate = http://store.yoyogames.com/downloads/gm-studio/update-studio-stable.rss
+update file downloaded numEntries = 1
+FileEntry = Title=Version 1.4.1804, ReleaseNotesUri=http://store.yoyogames.com/downloads/gm-studio/release-notes-studio.html?__yoyo_relnotes=2090070125, PubDate=13-03-2018 05:39:04, EnclosureUri=https://updater.yoyogames.com/api/download/original?filename=Original-1.4.1804.zip, EnclosureVersion=1.4.1804, EnclosureType=application/octet-stream, EnclosureLength=82119886, EnclosureSignature=MCwCFHmvVleldPNDz9vR98+SAqW6rQVqAhQd/dtc3tOXVao2FjjjWIhQWCu/Lw==, DeltaSet=System.Collections.Generic.List`1[Updater.SparkleFileEntry], 
+my version number is 1.4.1804.44013 the update version is 1.4.1804
+Not a newer version - ignoring
+urlForUpdate = http://store.yoyogames.com/downloads/gm-studio/update-studio-stable.rss
+update file downloaded numEntries = 1
+FileEntry = Title=Version 1.4.1804, ReleaseNotesUri=http://store.yoyogames.com/downloads/gm-studio/release-notes-studio.html?__yoyo_relnotes=2123653710, PubDate=13-03-2018 05:39:04, EnclosureUri=https://updater.yoyogames.com/api/download/original?filename=Original-1.4.1804.zip, EnclosureVersion=1.4.1804, EnclosureType=application/octet-stream, EnclosureLength=82119886, EnclosureSignature=MCwCFHmvVleldPNDz9vR98+SAqW6rQVqAhQd/dtc3tOXVao2FjjjWIhQWCu/Lw==, DeltaSet=System.Collections.Generic.List`1[Updater.SparkleFileEntry], 
+my version number is 1.4.1804.44013 the update version is 1.4.1804
+Not a newer version - ignoring
+urlForUpdate = http://store.yoyogames.com/downloads/gm-studio/update-studio-stable.rss
+update file downloaded numEntries = 1
+FileEntry = Title=Version 1.4.1804, ReleaseNotesUri=http://store.yoyogames.com/downloads/gm-studio/release-notes-studio.html?__yoyo_relnotes=565450089, PubDate=13-03-2018 05:39:04, EnclosureUri=https://updater.yoyogames.com/api/download/original?filename=Original-1.4.1804.zip, EnclosureVersion=1.4.1804, EnclosureType=application/octet-stream, EnclosureLength=82119886, EnclosureSignature=MCwCFHmvVleldPNDz9vR98+SAqW6rQVqAhQd/dtc3tOXVao2FjjjWIhQWCu/Lw==, DeltaSet=System.Collections.Generic.List`1[Updater.SparkleFileEntry], 
+my version number is 1.4.1804.44013 the update version is 1.4.1804
+Not a newer version - ignoring
+urlForUpdate = http://store.yoyogames.com/downloads/gm-studio/update-studio-stable.rss
+update file downloaded numEntries = 1
+FileEntry = Title=Version 1.4.1804, ReleaseNotesUri=http://store.yoyogames.com/downloads/gm-studio/release-notes-studio.html?__yoyo_relnotes=1794657750, PubDate=13-03-2018 05:39:04, EnclosureUri=https://updater.yoyogames.com/api/download/original?filename=Original-1.4.1804.zip, EnclosureVersion=1.4.1804, EnclosureType=application/octet-stream, EnclosureLength=82119886, EnclosureSignature=MCwCFHmvVleldPNDz9vR98+SAqW6rQVqAhQd/dtc3tOXVao2FjjjWIhQWCu/Lw==, DeltaSet=System.Collections.Generic.List`1[Updater.SparkleFileEntry], 
+my version number is 1.4.1804.44013 the update version is 1.4.1804
+Not a newer version - ignoring
+urlForUpdate = http://store.yoyogames.com/downloads/gm-studio/update-studio-stable.rss
+update file downloaded numEntries = 1
+FileEntry = Title=Version 1.4.1804, ReleaseNotesUri=http://store.yoyogames.com/downloads/gm-studio/release-notes-studio.html?__yoyo_relnotes=1781571921, PubDate=13-03-2018 05:39:04, EnclosureUri=https://updater.yoyogames.com/api/download/original?filename=Original-1.4.1804.zip, EnclosureVersion=1.4.1804, EnclosureType=application/octet-stream, EnclosureLength=82119886, EnclosureSignature=MCwCFHmvVleldPNDz9vR98+SAqW6rQVqAhQd/dtc3tOXVao2FjjjWIhQWCu/Lw==, DeltaSet=System.Collections.Generic.List`1[Updater.SparkleFileEntry], 
+my version number is 1.4.1804.44013 the update version is 1.4.1804
+Not a newer version - ignoring
+urlForUpdate = http://store.yoyogames.com/downloads/gm-studio/update-studio-stable.rss
+update file downloaded numEntries = 1
+FileEntry = Title=Version 1.4.1804, ReleaseNotesUri=http://store.yoyogames.com/downloads/gm-studio/release-notes-studio.html?__yoyo_relnotes=2083904354, PubDate=13-03-2018 05:39:04, EnclosureUri=https://updater.yoyogames.com/api/download/original?filename=Original-1.4.1804.zip, EnclosureVersion=1.4.1804, EnclosureType=application/octet-stream, EnclosureLength=82119886, EnclosureSignature=MCwCFHmvVleldPNDz9vR98+SAqW6rQVqAhQd/dtc3tOXVao2FjjjWIhQWCu/Lw==, DeltaSet=System.Collections.Generic.List`1[Updater.SparkleFileEntry], 
+my version number is 1.4.1804.44013 the update version is 1.4.1804
+Not a newer version - ignoring
+------------ GameMaker-Studio 1.4.1772.42005 --------------
+regCurr=SOFTWARE\5tudio\59CAEAA5, k=Addons, entry=AndroidTest.Windows.Windows8.Windows8RT.pro, plist[k]=AndroidTest.Windows.Windows8.Windows8RT.pro
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4, k=Answer, entry=1143136907, plist[k]=1143136907
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE, k=Email, entry=Sajid.sarker@gmail.com, plist[k]=Sajid.sarker@gmail.com
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB, k=License Type, entry=Full, plist[k]=Full
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF, k=Name, entry=Sajid.sarker@gmail.com, plist[k]=Sajid.sarker@gmail.com
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5, k=Pass Phrase, entry=5b2747beb8cbe0149002040ea595a86d, plist[k]=5b2747beb8cbe0149002040ea595a86d
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5\71B4, k=Product, entry=GameMaker:Studio, plist[k]=GameMaker:Studio
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5\71B4\03EE, k=Signature, entry=
+	YVk5LJ6i7vOKSDACbDqpWJVCsZDplWsYGwasNYGFKNMcKq7GWoGokGDjs8kIsQNxKm5C
+	AYBFSYMBg27sSEpOlHILdBqCyJO49Mi89RT+cY3xNSJu9dQfC/jb0NP0uOwV+F2uNHkN
+	CmKdayN967UMxS6q0N3zlnN+uKeoyELwMfM=
+	, plist[k]=
+	YVk5LJ6i7vOKSDACbDqpWJVCsZDplWsYGwasNYGFKNMcKq7GWoGokGDjs8kIsQNxKm5C
+	AYBFSYMBg27sSEpOlHILdBqCyJO49Mi89RT+cY3xNSJu9dQfC/jb0NP0uOwV+F2uNHkN
+	CmKdayN967UMxS6q0N3zlnN+uKeoyELwMfM=
+	
+Not running from the ApplicationData directory
+Checking the install receipt
+receipt has 0 elements
+Merge Flag set to "True"
+Deleting the upgrade Zip directory "C:\Users\Dell\AppData\Local\GameMaker-Studio\UpgradeZip"
+found --YYGMParams=""
+Starting the Application Data executable "C:\Users\Dell\AppData\Roaming\GameMaker-Studio\GameMaker-Studio.exe" --YYOriginalFilename="C:\Users\Dell\GameMaker-Studio 1.3\GameMaker-Studio.exe" --YYGMParams=""
+Exiting the original application - "C:\Users\Dell\GameMaker-Studio 1.3\GameMaker-Studio.exe"
+------------ GameMaker-Studio 1.4.1804.44013 --------------
+regCurr=SOFTWARE\5tudio\59CAEAA5, k=Addons, entry=AndroidTest.Windows.Windows8.Windows8RT.pro, plist[k]=AndroidTest.Windows.Windows8.Windows8RT.pro
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4, k=Answer, entry=1143136907, plist[k]=1143136907
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE, k=Email, entry=Sajid.sarker@gmail.com, plist[k]=Sajid.sarker@gmail.com
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB, k=License Type, entry=Full, plist[k]=Full
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF, k=Name, entry=Sajid.sarker@gmail.com, plist[k]=Sajid.sarker@gmail.com
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5, k=Pass Phrase, entry=5b2747beb8cbe0149002040ea595a86d, plist[k]=5b2747beb8cbe0149002040ea595a86d
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5\71B4, k=Product, entry=GameMaker:Studio, plist[k]=GameMaker:Studio
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5\71B4\03EE, k=Signature, entry=
+	YVk5LJ6i7vOKSDACbDqpWJVCsZDplWsYGwasNYGFKNMcKq7GWoGokGDjs8kIsQNxKm5C
+	AYBFSYMBg27sSEpOlHILdBqCyJO49Mi89RT+cY3xNSJu9dQfC/jb0NP0uOwV+F2uNHkN
+	CmKdayN967UMxS6q0N3zlnN+uKeoyELwMfM=
+	, plist[k]=
+	YVk5LJ6i7vOKSDACbDqpWJVCsZDplWsYGwasNYGFKNMcKq7GWoGokGDjs8kIsQNxKm5C
+	AYBFSYMBg27sSEpOlHILdBqCyJO49Mi89RT+cY3xNSJu9dQfC/jb0NP0uOwV+F2uNHkN
+	CmKdayN967UMxS6q0N3zlnN+uKeoyELwMfM=
+	
+Starting the ApplicationData executable
+found --YYOriginalFilename=C:\Users\Dell\GameMaker-Studio 1.3\GameMaker-Studio.exe
+Starting process for C:\Users\Dell\AppData\Roaming\GameMaker-Studio\5piceIDE.exe
+found --YYGMParams=""
+urlForUpdate = http://store.yoyogames.com/downloads/gm-studio/update-studio-stable.rss
+update file downloaded numEntries = 1
+FileEntry = Title=Version 1.4.1804, ReleaseNotesUri=http://store.yoyogames.com/downloads/gm-studio/release-notes-studio.html?__yoyo_relnotes=1513322017, PubDate=13-03-2018 05:39:04, EnclosureUri=https://updater.yoyogames.com/api/download/original?filename=Original-1.4.1804.zip, EnclosureVersion=1.4.1804, EnclosureType=application/octet-stream, EnclosureLength=82119886, EnclosureSignature=MCwCFHmvVleldPNDz9vR98+SAqW6rQVqAhQd/dtc3tOXVao2FjjjWIhQWCu/Lw==, DeltaSet=System.Collections.Generic.List`1[Updater.SparkleFileEntry], 
+my version number is 1.4.1804.44013 the update version is 1.4.1804
+Not a newer version - ignoring
+------------ GameMaker-Studio 1.4.1772.42005 --------------
+regCurr=SOFTWARE\5tudio\59CAEAA5, k=Addons, entry=AndroidTest.Windows.Windows8.Windows8RT.pro, plist[k]=AndroidTest.Windows.Windows8.Windows8RT.pro
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4, k=Answer, entry=1143136907, plist[k]=1143136907
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE, k=Email, entry=Sajid.sarker@gmail.com, plist[k]=Sajid.sarker@gmail.com
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB, k=License Type, entry=Full, plist[k]=Full
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF, k=Name, entry=Sajid.sarker@gmail.com, plist[k]=Sajid.sarker@gmail.com
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5, k=Pass Phrase, entry=5b2747beb8cbe0149002040ea595a86d, plist[k]=5b2747beb8cbe0149002040ea595a86d
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5\71B4, k=Product, entry=GameMaker:Studio, plist[k]=GameMaker:Studio
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5\71B4\03EE, k=Signature, entry=
+	YVk5LJ6i7vOKSDACbDqpWJVCsZDplWsYGwasNYGFKNMcKq7GWoGokGDjs8kIsQNxKm5C
+	AYBFSYMBg27sSEpOlHILdBqCyJO49Mi89RT+cY3xNSJu9dQfC/jb0NP0uOwV+F2uNHkN
+	CmKdayN967UMxS6q0N3zlnN+uKeoyELwMfM=
+	, plist[k]=
+	YVk5LJ6i7vOKSDACbDqpWJVCsZDplWsYGwasNYGFKNMcKq7GWoGokGDjs8kIsQNxKm5C
+	AYBFSYMBg27sSEpOlHILdBqCyJO49Mi89RT+cY3xNSJu9dQfC/jb0NP0uOwV+F2uNHkN
+	CmKdayN967UMxS6q0N3zlnN+uKeoyELwMfM=
+	
+Not running from the ApplicationData directory
+Checking the install receipt
+receipt has 0 elements
+Merge Flag set to "True"
+Deleting the upgrade Zip directory "C:\Users\Dell\AppData\Local\GameMaker-Studio\UpgradeZip"
+found --YYGMParams=""
+Starting the Application Data executable "C:\Users\Dell\AppData\Roaming\GameMaker-Studio\GameMaker-Studio.exe" --YYOriginalFilename="C:\Users\Dell\GameMaker-Studio 1.3\GameMaker-Studio.exe" --YYGMParams=""
+Exiting the original application - "C:\Users\Dell\GameMaker-Studio 1.3\GameMaker-Studio.exe"
+------------ GameMaker-Studio 1.4.1804.44013 --------------
+regCurr=SOFTWARE\5tudio\59CAEAA5, k=Addons, entry=AndroidTest.Windows.Windows8.Windows8RT.pro, plist[k]=AndroidTest.Windows.Windows8.Windows8RT.pro
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4, k=Answer, entry=1143136907, plist[k]=1143136907
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE, k=Email, entry=Sajid.sarker@gmail.com, plist[k]=Sajid.sarker@gmail.com
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB, k=License Type, entry=Full, plist[k]=Full
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF, k=Name, entry=Sajid.sarker@gmail.com, plist[k]=Sajid.sarker@gmail.com
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5, k=Pass Phrase, entry=5b2747beb8cbe0149002040ea595a86d, plist[k]=5b2747beb8cbe0149002040ea595a86d
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5\71B4, k=Product, entry=GameMaker:Studio, plist[k]=GameMaker:Studio
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5\71B4\03EE, k=Signature, entry=
+	YVk5LJ6i7vOKSDACbDqpWJVCsZDplWsYGwasNYGFKNMcKq7GWoGokGDjs8kIsQNxKm5C
+	AYBFSYMBg27sSEpOlHILdBqCyJO49Mi89RT+cY3xNSJu9dQfC/jb0NP0uOwV+F2uNHkN
+	CmKdayN967UMxS6q0N3zlnN+uKeoyELwMfM=
+	, plist[k]=
+	YVk5LJ6i7vOKSDACbDqpWJVCsZDplWsYGwasNYGFKNMcKq7GWoGokGDjs8kIsQNxKm5C
+	AYBFSYMBg27sSEpOlHILdBqCyJO49Mi89RT+cY3xNSJu9dQfC/jb0NP0uOwV+F2uNHkN
+	CmKdayN967UMxS6q0N3zlnN+uKeoyELwMfM=
+	
+Starting the ApplicationData executable
+found --YYOriginalFilename=C:\Users\Dell\GameMaker-Studio 1.3\GameMaker-Studio.exe
+Starting process for C:\Users\Dell\AppData\Roaming\GameMaker-Studio\5piceIDE.exe
+found --YYGMParams=""
+urlForUpdate = http://store.yoyogames.com/downloads/gm-studio/update-studio-stable.rss
+update file downloaded numEntries = 1
+FileEntry = Title=Version 1.4.1804, ReleaseNotesUri=http://store.yoyogames.com/downloads/gm-studio/release-notes-studio.html?__yoyo_relnotes=1264189784, PubDate=13-03-2018 05:39:04, EnclosureUri=https://updater.yoyogames.com/api/download/original?filename=Original-1.4.1804.zip, EnclosureVersion=1.4.1804, EnclosureType=application/octet-stream, EnclosureLength=82119886, EnclosureSignature=MCwCFHmvVleldPNDz9vR98+SAqW6rQVqAhQd/dtc3tOXVao2FjjjWIhQWCu/Lw==, DeltaSet=System.Collections.Generic.List`1[Updater.SparkleFileEntry], 
+my version number is 1.4.1804.44013 the update version is 1.4.1804
+Not a newer version - ignoring
+urlForUpdate = http://store.yoyogames.com/downloads/gm-studio/update-studio-stable.rss
+update file downloaded numEntries = 1
+FileEntry = Title=Version 1.4.1804, ReleaseNotesUri=http://store.yoyogames.com/downloads/gm-studio/release-notes-studio.html?__yoyo_relnotes=439137908, PubDate=13-03-2018 05:39:04, EnclosureUri=https://updater.yoyogames.com/api/download/original?filename=Original-1.4.1804.zip, EnclosureVersion=1.4.1804, EnclosureType=application/octet-stream, EnclosureLength=82119886, EnclosureSignature=MCwCFHmvVleldPNDz9vR98+SAqW6rQVqAhQd/dtc3tOXVao2FjjjWIhQWCu/Lw==, DeltaSet=System.Collections.Generic.List`1[Updater.SparkleFileEntry], 
+my version number is 1.4.1804.44013 the update version is 1.4.1804
+Not a newer version - ignoring
+------------ GameMaker-Studio 1.4.1772.42005 --------------
+regCurr=SOFTWARE\5tudio\59CAEAA5, k=Addons, entry=AndroidTest.Windows.Windows8.Windows8RT.pro, plist[k]=AndroidTest.Windows.Windows8.Windows8RT.pro
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4, k=Answer, entry=1143136907, plist[k]=1143136907
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE, k=Email, entry=Sajid.sarker@gmail.com, plist[k]=Sajid.sarker@gmail.com
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB, k=License Type, entry=Full, plist[k]=Full
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF, k=Name, entry=Sajid.sarker@gmail.com, plist[k]=Sajid.sarker@gmail.com
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5, k=Pass Phrase, entry=5b2747beb8cbe0149002040ea595a86d, plist[k]=5b2747beb8cbe0149002040ea595a86d
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5\71B4, k=Product, entry=GameMaker:Studio, plist[k]=GameMaker:Studio
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5\71B4\03EE, k=Signature, entry=
+	YVk5LJ6i7vOKSDACbDqpWJVCsZDplWsYGwasNYGFKNMcKq7GWoGokGDjs8kIsQNxKm5C
+	AYBFSYMBg27sSEpOlHILdBqCyJO49Mi89RT+cY3xNSJu9dQfC/jb0NP0uOwV+F2uNHkN
+	CmKdayN967UMxS6q0N3zlnN+uKeoyELwMfM=
+	, plist[k]=
+	YVk5LJ6i7vOKSDACbDqpWJVCsZDplWsYGwasNYGFKNMcKq7GWoGokGDjs8kIsQNxKm5C
+	AYBFSYMBg27sSEpOlHILdBqCyJO49Mi89RT+cY3xNSJu9dQfC/jb0NP0uOwV+F2uNHkN
+	CmKdayN967UMxS6q0N3zlnN+uKeoyELwMfM=
+	
+Not running from the ApplicationData directory
+Checking the install receipt
+receipt has 0 elements
+Merge Flag set to "True"
+Deleting the upgrade Zip directory "C:\Users\Dell\AppData\Local\GameMaker-Studio\UpgradeZip"
+found --YYGMParams=""
+Starting the Application Data executable "C:\Users\Dell\AppData\Roaming\GameMaker-Studio\GameMaker-Studio.exe" --YYOriginalFilename="C:\Users\Dell\GameMaker-Studio 1.3\GameMaker-Studio.exe" --YYGMParams=""
+Exiting the original application - "C:\Users\Dell\GameMaker-Studio 1.3\GameMaker-Studio.exe"
+------------ GameMaker-Studio 1.4.1804.44013 --------------
+regCurr=SOFTWARE\5tudio\59CAEAA5, k=Addons, entry=AndroidTest.Windows.Windows8.Windows8RT.pro, plist[k]=AndroidTest.Windows.Windows8.Windows8RT.pro
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4, k=Answer, entry=1143136907, plist[k]=1143136907
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE, k=Email, entry=Sajid.sarker@gmail.com, plist[k]=Sajid.sarker@gmail.com
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB, k=License Type, entry=Full, plist[k]=Full
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF, k=Name, entry=Sajid.sarker@gmail.com, plist[k]=Sajid.sarker@gmail.com
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5, k=Pass Phrase, entry=5b2747beb8cbe0149002040ea595a86d, plist[k]=5b2747beb8cbe0149002040ea595a86d
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5\71B4, k=Product, entry=GameMaker:Studio, plist[k]=GameMaker:Studio
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5\71B4\03EE, k=Signature, entry=
+	YVk5LJ6i7vOKSDACbDqpWJVCsZDplWsYGwasNYGFKNMcKq7GWoGokGDjs8kIsQNxKm5C
+	AYBFSYMBg27sSEpOlHILdBqCyJO49Mi89RT+cY3xNSJu9dQfC/jb0NP0uOwV+F2uNHkN
+	CmKdayN967UMxS6q0N3zlnN+uKeoyELwMfM=
+	, plist[k]=
+	YVk5LJ6i7vOKSDACbDqpWJVCsZDplWsYGwasNYGFKNMcKq7GWoGokGDjs8kIsQNxKm5C
+	AYBFSYMBg27sSEpOlHILdBqCyJO49Mi89RT+cY3xNSJu9dQfC/jb0NP0uOwV+F2uNHkN
+	CmKdayN967UMxS6q0N3zlnN+uKeoyELwMfM=
+	
+Starting the ApplicationData executable
+found --YYOriginalFilename=C:\Users\Dell\GameMaker-Studio 1.3\GameMaker-Studio.exe
+Starting process for C:\Users\Dell\AppData\Roaming\GameMaker-Studio\5piceIDE.exe
+found --YYGMParams=""
+urlForUpdate = http://store.yoyogames.com/downloads/gm-studio/update-studio-stable.rss
+update file downloaded numEntries = 1
+FileEntry = Title=Version 1.4.1804, ReleaseNotesUri=http://store.yoyogames.com/downloads/gm-studio/release-notes-studio.html?__yoyo_relnotes=1900998681, PubDate=13-03-2018 05:39:04, EnclosureUri=https://updater.yoyogames.com/api/download/original?filename=Original-1.4.1804.zip, EnclosureVersion=1.4.1804, EnclosureType=application/octet-stream, EnclosureLength=82119886, EnclosureSignature=MCwCFHmvVleldPNDz9vR98+SAqW6rQVqAhQd/dtc3tOXVao2FjjjWIhQWCu/Lw==, DeltaSet=System.Collections.Generic.List`1[Updater.SparkleFileEntry], 
+my version number is 1.4.1804.44013 the update version is 1.4.1804
+Not a newer version - ignoring
+urlForUpdate = http://store.yoyogames.com/downloads/gm-studio/update-studio-stable.rss
+update file downloaded numEntries = 1
+FileEntry = Title=Version 1.4.1804, ReleaseNotesUri=http://store.yoyogames.com/downloads/gm-studio/release-notes-studio.html?__yoyo_relnotes=1958901993, PubDate=13-03-2018 05:39:04, EnclosureUri=https://updater.yoyogames.com/api/download/original?filename=Original-1.4.1804.zip, EnclosureVersion=1.4.1804, EnclosureType=application/octet-stream, EnclosureLength=82119886, EnclosureSignature=MCwCFHmvVleldPNDz9vR98+SAqW6rQVqAhQd/dtc3tOXVao2FjjjWIhQWCu/Lw==, DeltaSet=System.Collections.Generic.List`1[Updater.SparkleFileEntry], 
+my version number is 1.4.1804.44013 the update version is 1.4.1804
+Not a newer version - ignoring
+------------ GameMaker-Studio 1.4.1772.42005 --------------
+regCurr=SOFTWARE\5tudio\59CAEAA5, k=Addons, entry=AndroidTest.Windows.Windows8.Windows8RT.pro, plist[k]=AndroidTest.Windows.Windows8.Windows8RT.pro
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4, k=Answer, entry=1143136907, plist[k]=1143136907
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE, k=Email, entry=Sajid.sarker@gmail.com, plist[k]=Sajid.sarker@gmail.com
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB, k=License Type, entry=Full, plist[k]=Full
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF, k=Name, entry=Sajid.sarker@gmail.com, plist[k]=Sajid.sarker@gmail.com
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5, k=Pass Phrase, entry=5b2747beb8cbe0149002040ea595a86d, plist[k]=5b2747beb8cbe0149002040ea595a86d
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5\71B4, k=Product, entry=GameMaker:Studio, plist[k]=GameMaker:Studio
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5\71B4\03EE, k=Signature, entry=
+	YVk5LJ6i7vOKSDACbDqpWJVCsZDplWsYGwasNYGFKNMcKq7GWoGokGDjs8kIsQNxKm5C
+	AYBFSYMBg27sSEpOlHILdBqCyJO49Mi89RT+cY3xNSJu9dQfC/jb0NP0uOwV+F2uNHkN
+	CmKdayN967UMxS6q0N3zlnN+uKeoyELwMfM=
+	, plist[k]=
+	YVk5LJ6i7vOKSDACbDqpWJVCsZDplWsYGwasNYGFKNMcKq7GWoGokGDjs8kIsQNxKm5C
+	AYBFSYMBg27sSEpOlHILdBqCyJO49Mi89RT+cY3xNSJu9dQfC/jb0NP0uOwV+F2uNHkN
+	CmKdayN967UMxS6q0N3zlnN+uKeoyELwMfM=
+	
+Not running from the ApplicationData directory
+Checking the install receipt
+receipt has 0 elements
+Merge Flag set to "True"
+Deleting the upgrade Zip directory "C:\Users\Dell\AppData\Local\GameMaker-Studio\UpgradeZip"
+found --YYGMParams=""
+Starting the Application Data executable "C:\Users\Dell\AppData\Roaming\GameMaker-Studio\GameMaker-Studio.exe" --YYOriginalFilename="C:\Users\Dell\GameMaker-Studio 1.3\GameMaker-Studio.exe" --YYGMParams=""
+Exiting the original application - "C:\Users\Dell\GameMaker-Studio 1.3\GameMaker-Studio.exe"
+------------ GameMaker-Studio 1.4.1804.44013 --------------
+regCurr=SOFTWARE\5tudio\59CAEAA5, k=Addons, entry=AndroidTest.Windows.Windows8.Windows8RT.pro, plist[k]=AndroidTest.Windows.Windows8.Windows8RT.pro
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4, k=Answer, entry=1143136907, plist[k]=1143136907
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE, k=Email, entry=Sajid.sarker@gmail.com, plist[k]=Sajid.sarker@gmail.com
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB, k=License Type, entry=Full, plist[k]=Full
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF, k=Name, entry=Sajid.sarker@gmail.com, plist[k]=Sajid.sarker@gmail.com
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5, k=Pass Phrase, entry=5b2747beb8cbe0149002040ea595a86d, plist[k]=5b2747beb8cbe0149002040ea595a86d
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5\71B4, k=Product, entry=GameMaker:Studio, plist[k]=GameMaker:Studio
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5\71B4\03EE, k=Signature, entry=
+	YVk5LJ6i7vOKSDACbDqpWJVCsZDplWsYGwasNYGFKNMcKq7GWoGokGDjs8kIsQNxKm5C
+	AYBFSYMBg27sSEpOlHILdBqCyJO49Mi89RT+cY3xNSJu9dQfC/jb0NP0uOwV+F2uNHkN
+	CmKdayN967UMxS6q0N3zlnN+uKeoyELwMfM=
+	, plist[k]=
+	YVk5LJ6i7vOKSDACbDqpWJVCsZDplWsYGwasNYGFKNMcKq7GWoGokGDjs8kIsQNxKm5C
+	AYBFSYMBg27sSEpOlHILdBqCyJO49Mi89RT+cY3xNSJu9dQfC/jb0NP0uOwV+F2uNHkN
+	CmKdayN967UMxS6q0N3zlnN+uKeoyELwMfM=
+	
+Starting the ApplicationData executable
+found --YYOriginalFilename=C:\Users\Dell\GameMaker-Studio 1.3\GameMaker-Studio.exe
+Starting process for C:\Users\Dell\AppData\Roaming\GameMaker-Studio\5piceIDE.exe
+found --YYGMParams=""
+urlForUpdate = http://store.yoyogames.com/downloads/gm-studio/update-studio-stable.rss
+update file downloaded numEntries = 1
+FileEntry = Title=Version 1.4.1804, ReleaseNotesUri=http://store.yoyogames.com/downloads/gm-studio/release-notes-studio.html?__yoyo_relnotes=1584300626, PubDate=13-03-2018 05:39:04, EnclosureUri=https://updater.yoyogames.com/api/download/original?filename=Original-1.4.1804.zip, EnclosureVersion=1.4.1804, EnclosureType=application/octet-stream, EnclosureLength=82119886, EnclosureSignature=MCwCFHmvVleldPNDz9vR98+SAqW6rQVqAhQd/dtc3tOXVao2FjjjWIhQWCu/Lw==, DeltaSet=System.Collections.Generic.List`1[Updater.SparkleFileEntry], 
+my version number is 1.4.1804.44013 the update version is 1.4.1804
+Not a newer version - ignoring
+------------ GameMaker-Studio 1.4.1772.42005 --------------
+------------ GameMaker-Studio 1.4.1772.42005 --------------
+regCurr=SOFTWARE\5tudio\59CAEAA5, k=Addons, entry=AndroidTest.Windows.Windows8.Windows8RT.pro, plist[k]=AndroidTest.Windows.Windows8.Windows8RT.pro
+regCurr=SOFTWARE\5tudio\59CAEAA5, k=Addons, entry=AndroidTest.Windows.Windows8.Windows8RT.pro, plist[k]=AndroidTest.Windows.Windows8.Windows8RT.pro
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4, k=Answer, entry=1143136907, plist[k]=1143136907
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE, k=Email, entry=Sajid.sarker@gmail.com, plist[k]=Sajid.sarker@gmail.com
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB, k=License Type, entry=Full, plist[k]=Full
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF, k=Name, entry=Sajid.sarker@gmail.com, plist[k]=Sajid.sarker@gmail.com
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5, k=Pass Phrase, entry=5b2747beb8cbe0149002040ea595a86d, plist[k]=5b2747beb8cbe0149002040ea595a86d
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5\71B4, k=Product, entry=GameMaker:Studio, plist[k]=GameMaker:Studio
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5\71B4\03EE, k=Signature, entry=
+	YVk5LJ6i7vOKSDACbDqpWJVCsZDplWsYGwasNYGFKNMcKq7GWoGokGDjs8kIsQNxKm5C
+	AYBFSYMBg27sSEpOlHILdBqCyJO49Mi89RT+cY3xNSJu9dQfC/jb0NP0uOwV+F2uNHkN
+	CmKdayN967UMxS6q0N3zlnN+uKeoyELwMfM=
+	, plist[k]=
+	YVk5LJ6i7vOKSDACbDqpWJVCsZDplWsYGwasNYGFKNMcKq7GWoGokGDjs8kIsQNxKm5C
+	AYBFSYMBg27sSEpOlHILdBqCyJO49Mi89RT+cY3xNSJu9dQfC/jb0NP0uOwV+F2uNHkN
+	CmKdayN967UMxS6q0N3zlnN+uKeoyELwMfM=
+	
+Not running from the ApplicationData directory
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4, k=Answer, entry=1143136907, plist[k]=1143136907
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE, k=Email, entry=Sajid.sarker@gmail.com, plist[k]=Sajid.sarker@gmail.com
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB, k=License Type, entry=Full, plist[k]=Full
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF, k=Name, entry=Sajid.sarker@gmail.com, plist[k]=Sajid.sarker@gmail.com
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5, k=Pass Phrase, entry=5b2747beb8cbe0149002040ea595a86d, plist[k]=5b2747beb8cbe0149002040ea595a86d
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5\71B4, k=Product, entry=GameMaker:Studio, plist[k]=GameMaker:Studio
+------------ GameMaker-Studio 1.4.1772.42005 --------------
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5\71B4\03EE, k=Signature, entry=
+	YVk5LJ6i7vOKSDACbDqpWJVCsZDplWsYGwasNYGFKNMcKq7GWoGokGDjs8kIsQNxKm5C
+	AYBFSYMBg27sSEpOlHILdBqCyJO49Mi89RT+cY3xNSJu9dQfC/jb0NP0uOwV+F2uNHkN
+	CmKdayN967UMxS6q0N3zlnN+uKeoyELwMfM=
+	, plist[k]=
+	YVk5LJ6i7vOKSDACbDqpWJVCsZDplWsYGwasNYGFKNMcKq7GWoGokGDjs8kIsQNxKm5C
+	AYBFSYMBg27sSEpOlHILdBqCyJO49Mi89RT+cY3xNSJu9dQfC/jb0NP0uOwV+F2uNHkN
+	CmKdayN967UMxS6q0N3zlnN+uKeoyELwMfM=
+	
+Not running from the ApplicationData directory
+regCurr=SOFTWARE\5tudio\59CAEAA5, k=Addons, entry=AndroidTest.Windows.Windows8.Windows8RT.pro, plist[k]=AndroidTest.Windows.Windows8.Windows8RT.pro
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4, k=Answer, entry=1143136907, plist[k]=1143136907
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE, k=Email, entry=Sajid.sarker@gmail.com, plist[k]=Sajid.sarker@gmail.com
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB, k=License Type, entry=Full, plist[k]=Full
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF, k=Name, entry=Sajid.sarker@gmail.com, plist[k]=Sajid.sarker@gmail.com
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5, k=Pass Phrase, entry=5b2747beb8cbe0149002040ea595a86d, plist[k]=5b2747beb8cbe0149002040ea595a86d
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5\71B4, k=Product, entry=GameMaker:Studio, plist[k]=GameMaker:Studio
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5\71B4\03EE, k=Signature, entry=
+	YVk5LJ6i7vOKSDACbDqpWJVCsZDplWsYGwasNYGFKNMcKq7GWoGokGDjs8kIsQNxKm5C
+	AYBFSYMBg27sSEpOlHILdBqCyJO49Mi89RT+cY3xNSJu9dQfC/jb0NP0uOwV+F2uNHkN
+	CmKdayN967UMxS6q0N3zlnN+uKeoyELwMfM=
+	, plist[k]=
+	YVk5LJ6i7vOKSDACbDqpWJVCsZDplWsYGwasNYGFKNMcKq7GWoGokGDjs8kIsQNxKm5C
+	AYBFSYMBg27sSEpOlHILdBqCyJO49Mi89RT+cY3xNSJu9dQfC/jb0NP0uOwV+F2uNHkN
+	CmKdayN967UMxS6q0N3zlnN+uKeoyELwMfM=
+	
+Not running from the ApplicationData directory
+Checking the install receipt
+receipt has 0 elements
+Merge Flag set to "True"
+Deleting the upgrade Zip directory "C:\Users\Dell\AppData\Local\GameMaker-Studio\UpgradeZip"
+found --YYGMParams=""
+Starting the Application Data executable "C:\Users\Dell\AppData\Roaming\GameMaker-Studio\GameMaker-Studio.exe" --YYOriginalFilename="C:\Users\Dell\GameMaker-Studio 1.3\GameMaker-Studio.exe" --YYGMParams=""
+############## Unhandled Exception! ##################
+############## Unhandled Exception! ##################
+Exiting the original application - "C:\Users\Dell\GameMaker-Studio 1.3\GameMaker-Studio.exe"
+System.IO.DirectoryNotFoundException: Could not find a part of the path 'C:\Users\Dell\AppData\Local\GameMaker-Studio\Upgrade'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.Directory.Delete(String fullPath, String userPath, Boolean recursive)
+   at Updater.SparkleUpdate.Create()
+   at Updater.Program.Main()
+System.IO.DirectoryNotFoundException: Could not find a part of the path 'C:\Users\Dell\AppData\Local\GameMaker-Studio\Upgrade'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.Directory.DeleteHelper(String fullPath, String userPath, Boolean recursive)
+   at System.IO.Directory.Delete(String fullPath, String userPath, Boolean recursive)
+   at Updater.SparkleUpdate.Create()
+   at Updater.Program.Main()
+------------ GameMaker-Studio 1.4.1804.44013 --------------
+regCurr=SOFTWARE\5tudio\59CAEAA5, k=Addons, entry=AndroidTest.Windows.Windows8.Windows8RT.pro, plist[k]=AndroidTest.Windows.Windows8.Windows8RT.pro
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4, k=Answer, entry=1143136907, plist[k]=1143136907
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE, k=Email, entry=Sajid.sarker@gmail.com, plist[k]=Sajid.sarker@gmail.com
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB, k=License Type, entry=Full, plist[k]=Full
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF, k=Name, entry=Sajid.sarker@gmail.com, plist[k]=Sajid.sarker@gmail.com
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5, k=Pass Phrase, entry=5b2747beb8cbe0149002040ea595a86d, plist[k]=5b2747beb8cbe0149002040ea595a86d
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5\71B4, k=Product, entry=GameMaker:Studio, plist[k]=GameMaker:Studio
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5\71B4\03EE, k=Signature, entry=
+	YVk5LJ6i7vOKSDACbDqpWJVCsZDplWsYGwasNYGFKNMcKq7GWoGokGDjs8kIsQNxKm5C
+	AYBFSYMBg27sSEpOlHILdBqCyJO49Mi89RT+cY3xNSJu9dQfC/jb0NP0uOwV+F2uNHkN
+	CmKdayN967UMxS6q0N3zlnN+uKeoyELwMfM=
+	, plist[k]=
+	YVk5LJ6i7vOKSDACbDqpWJVCsZDplWsYGwasNYGFKNMcKq7GWoGokGDjs8kIsQNxKm5C
+	AYBFSYMBg27sSEpOlHILdBqCyJO49Mi89RT+cY3xNSJu9dQfC/jb0NP0uOwV+F2uNHkN
+	CmKdayN967UMxS6q0N3zlnN+uKeoyELwMfM=
+	
+Starting the ApplicationData executable
+found --YYOriginalFilename=C:\Users\Dell\GameMaker-Studio 1.3\GameMaker-Studio.exe
+Starting process for C:\Users\Dell\AppData\Roaming\GameMaker-Studio\5piceIDE.exe
+found --YYGMParams=""
+urlForUpdate = http://store.yoyogames.com/downloads/gm-studio/update-studio-stable.rss
+update file downloaded numEntries = 1
+FileEntry = Title=Version 1.4.1804, ReleaseNotesUri=http://store.yoyogames.com/downloads/gm-studio/release-notes-studio.html?__yoyo_relnotes=1889729758, PubDate=13-03-2018 05:39:04, EnclosureUri=https://updater.yoyogames.com/api/download/original?filename=Original-1.4.1804.zip, EnclosureVersion=1.4.1804, EnclosureType=application/octet-stream, EnclosureLength=82119886, EnclosureSignature=MCwCFHmvVleldPNDz9vR98+SAqW6rQVqAhQd/dtc3tOXVao2FjjjWIhQWCu/Lw==, DeltaSet=System.Collections.Generic.List`1[Updater.SparkleFileEntry], 
+my version number is 1.4.1804.44013 the update version is 1.4.1804
+Not a newer version - ignoring
+urlForUpdate = http://store.yoyogames.com/downloads/gm-studio/update-studio-stable.rss
+update file downloaded numEntries = 1
+FileEntry = Title=Version 1.4.1804, ReleaseNotesUri=http://store.yoyogames.com/downloads/gm-studio/release-notes-studio.html?__yoyo_relnotes=803058651, PubDate=13-03-2018 05:39:04, EnclosureUri=https://updater.yoyogames.com/api/download/original?filename=Original-1.4.1804.zip, EnclosureVersion=1.4.1804, EnclosureType=application/octet-stream, EnclosureLength=82119886, EnclosureSignature=MCwCFHmvVleldPNDz9vR98+SAqW6rQVqAhQd/dtc3tOXVao2FjjjWIhQWCu/Lw==, DeltaSet=System.Collections.Generic.List`1[Updater.SparkleFileEntry], 
+my version number is 1.4.1804.44013 the update version is 1.4.1804
+Not a newer version - ignoring
+------------ GameMaker-Studio 1.4.1772.42005 --------------
+regCurr=SOFTWARE\5tudio\59CAEAA5, k=Addons, entry=AndroidTest.Windows.Windows8.Windows8RT.pro, plist[k]=AndroidTest.Windows.Windows8.Windows8RT.pro
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4, k=Answer, entry=1143136907, plist[k]=1143136907
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE, k=Email, entry=Sajid.sarker@gmail.com, plist[k]=Sajid.sarker@gmail.com
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB, k=License Type, entry=Full, plist[k]=Full
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF, k=Name, entry=Sajid.sarker@gmail.com, plist[k]=Sajid.sarker@gmail.com
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5, k=Pass Phrase, entry=5b2747beb8cbe0149002040ea595a86d, plist[k]=5b2747beb8cbe0149002040ea595a86d
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5\71B4, k=Product, entry=GameMaker:Studio, plist[k]=GameMaker:Studio
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5\71B4\03EE, k=Signature, entry=
+	YVk5LJ6i7vOKSDACbDqpWJVCsZDplWsYGwasNYGFKNMcKq7GWoGokGDjs8kIsQNxKm5C
+	AYBFSYMBg27sSEpOlHILdBqCyJO49Mi89RT+cY3xNSJu9dQfC/jb0NP0uOwV+F2uNHkN
+	CmKdayN967UMxS6q0N3zlnN+uKeoyELwMfM=
+	, plist[k]=
+	YVk5LJ6i7vOKSDACbDqpWJVCsZDplWsYGwasNYGFKNMcKq7GWoGokGDjs8kIsQNxKm5C
+	AYBFSYMBg27sSEpOlHILdBqCyJO49Mi89RT+cY3xNSJu9dQfC/jb0NP0uOwV+F2uNHkN
+	CmKdayN967UMxS6q0N3zlnN+uKeoyELwMfM=
+	
+Not running from the ApplicationData directory
+Checking the install receipt
+receipt has 0 elements
+Merge Flag set to "True"
+Deleting the upgrade Zip directory "C:\Users\Dell\AppData\Local\GameMaker-Studio\UpgradeZip"
+found --YYGMParams=""
+Starting the Application Data executable "C:\Users\Dell\AppData\Roaming\GameMaker-Studio\GameMaker-Studio.exe" --YYOriginalFilename="C:\Users\Dell\GameMaker-Studio 1.3\GameMaker-Studio.exe" --YYGMParams=""
+Exiting the original application - "C:\Users\Dell\GameMaker-Studio 1.3\GameMaker-Studio.exe"
+------------ GameMaker-Studio 1.4.1804.44013 --------------
+regCurr=SOFTWARE\5tudio\59CAEAA5, k=Addons, entry=AndroidTest.Windows.Windows8.Windows8RT.pro, plist[k]=AndroidTest.Windows.Windows8.Windows8RT.pro
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4, k=Answer, entry=1143136907, plist[k]=1143136907
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE, k=Email, entry=Sajid.sarker@gmail.com, plist[k]=Sajid.sarker@gmail.com
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB, k=License Type, entry=Full, plist[k]=Full
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF, k=Name, entry=Sajid.sarker@gmail.com, plist[k]=Sajid.sarker@gmail.com
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5, k=Pass Phrase, entry=5b2747beb8cbe0149002040ea595a86d, plist[k]=5b2747beb8cbe0149002040ea595a86d
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5\71B4, k=Product, entry=GameMaker:Studio, plist[k]=GameMaker:Studio
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5\71B4\03EE, k=Signature, entry=
+	YVk5LJ6i7vOKSDACbDqpWJVCsZDplWsYGwasNYGFKNMcKq7GWoGokGDjs8kIsQNxKm5C
+	AYBFSYMBg27sSEpOlHILdBqCyJO49Mi89RT+cY3xNSJu9dQfC/jb0NP0uOwV+F2uNHkN
+	CmKdayN967UMxS6q0N3zlnN+uKeoyELwMfM=
+	, plist[k]=
+	YVk5LJ6i7vOKSDACbDqpWJVCsZDplWsYGwasNYGFKNMcKq7GWoGokGDjs8kIsQNxKm5C
+	AYBFSYMBg27sSEpOlHILdBqCyJO49Mi89RT+cY3xNSJu9dQfC/jb0NP0uOwV+F2uNHkN
+	CmKdayN967UMxS6q0N3zlnN+uKeoyELwMfM=
+	
+Starting the ApplicationData executable
+found --YYOriginalFilename=C:\Users\Dell\GameMaker-Studio 1.3\GameMaker-Studio.exe
+Starting process for C:\Users\Dell\AppData\Roaming\GameMaker-Studio\5piceIDE.exe
+found --YYGMParams=""
+urlForUpdate = http://store.yoyogames.com/downloads/gm-studio/update-studio-stable.rss
+update file downloaded numEntries = 1
+FileEntry = Title=Version 1.4.1804, ReleaseNotesUri=http://store.yoyogames.com/downloads/gm-studio/release-notes-studio.html?__yoyo_relnotes=1580274031, PubDate=13-03-2018 05:39:04, EnclosureUri=https://updater.yoyogames.com/api/download/original?filename=Original-1.4.1804.zip, EnclosureVersion=1.4.1804, EnclosureType=application/octet-stream, EnclosureLength=82119886, EnclosureSignature=MCwCFHmvVleldPNDz9vR98+SAqW6rQVqAhQd/dtc3tOXVao2FjjjWIhQWCu/Lw==, DeltaSet=System.Collections.Generic.List`1[Updater.SparkleFileEntry], 
+my version number is 1.4.1804.44013 the update version is 1.4.1804
+Not a newer version - ignoring
+------------ GameMaker-Studio 1.4.1772.42005 --------------
+regCurr=SOFTWARE\5tudio\59CAEAA5, k=Addons, entry=AndroidTest.Windows.Windows8.Windows8RT.pro, plist[k]=AndroidTest.Windows.Windows8.Windows8RT.pro
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4, k=Answer, entry=1143136907, plist[k]=1143136907
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE, k=Email, entry=Sajid.sarker@gmail.com, plist[k]=Sajid.sarker@gmail.com
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB, k=License Type, entry=Full, plist[k]=Full
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF, k=Name, entry=Sajid.sarker@gmail.com, plist[k]=Sajid.sarker@gmail.com
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5, k=Pass Phrase, entry=5b2747beb8cbe0149002040ea595a86d, plist[k]=5b2747beb8cbe0149002040ea595a86d
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5\71B4, k=Product, entry=GameMaker:Studio, plist[k]=GameMaker:Studio
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5\71B4\03EE, k=Signature, entry=
+	YVk5LJ6i7vOKSDACbDqpWJVCsZDplWsYGwasNYGFKNMcKq7GWoGokGDjs8kIsQNxKm5C
+	AYBFSYMBg27sSEpOlHILdBqCyJO49Mi89RT+cY3xNSJu9dQfC/jb0NP0uOwV+F2uNHkN
+	CmKdayN967UMxS6q0N3zlnN+uKeoyELwMfM=
+	, plist[k]=
+	YVk5LJ6i7vOKSDACbDqpWJVCsZDplWsYGwasNYGFKNMcKq7GWoGokGDjs8kIsQNxKm5C
+	AYBFSYMBg27sSEpOlHILdBqCyJO49Mi89RT+cY3xNSJu9dQfC/jb0NP0uOwV+F2uNHkN
+	CmKdayN967UMxS6q0N3zlnN+uKeoyELwMfM=
+	
+Not running from the ApplicationData directory
+Checking the install receipt
+receipt has 0 elements
+Merge Flag set to "True"
+Deleting the upgrade Zip directory "C:\Users\Dell\AppData\Local\GameMaker-Studio\UpgradeZip"
+found --YYGMParams=""
+Starting the Application Data executable "C:\Users\Dell\AppData\Roaming\GameMaker-Studio\GameMaker-Studio.exe" --YYOriginalFilename="C:\Users\Dell\GameMaker-Studio 1.3\GameMaker-Studio.exe" --YYGMParams=""
+Exiting the original application - "C:\Users\Dell\GameMaker-Studio 1.3\GameMaker-Studio.exe"
+------------ GameMaker-Studio 1.4.1804.44013 --------------
+regCurr=SOFTWARE\5tudio\59CAEAA5, k=Addons, entry=AndroidTest.Windows.Windows8.Windows8RT.pro, plist[k]=AndroidTest.Windows.Windows8.Windows8RT.pro
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4, k=Answer, entry=1143136907, plist[k]=1143136907
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE, k=Email, entry=Sajid.sarker@gmail.com, plist[k]=Sajid.sarker@gmail.com
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB, k=License Type, entry=Full, plist[k]=Full
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF, k=Name, entry=Sajid.sarker@gmail.com, plist[k]=Sajid.sarker@gmail.com
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5, k=Pass Phrase, entry=5b2747beb8cbe0149002040ea595a86d, plist[k]=5b2747beb8cbe0149002040ea595a86d
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5\71B4, k=Product, entry=GameMaker:Studio, plist[k]=GameMaker:Studio
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5\71B4\03EE, k=Signature, entry=
+	YVk5LJ6i7vOKSDACbDqpWJVCsZDplWsYGwasNYGFKNMcKq7GWoGokGDjs8kIsQNxKm5C
+	AYBFSYMBg27sSEpOlHILdBqCyJO49Mi89RT+cY3xNSJu9dQfC/jb0NP0uOwV+F2uNHkN
+	CmKdayN967UMxS6q0N3zlnN+uKeoyELwMfM=
+	, plist[k]=
+	YVk5LJ6i7vOKSDACbDqpWJVCsZDplWsYGwasNYGFKNMcKq7GWoGokGDjs8kIsQNxKm5C
+	AYBFSYMBg27sSEpOlHILdBqCyJO49Mi89RT+cY3xNSJu9dQfC/jb0NP0uOwV+F2uNHkN
+	CmKdayN967UMxS6q0N3zlnN+uKeoyELwMfM=
+	
+Starting the ApplicationData executable
+found --YYOriginalFilename=C:\Users\Dell\GameMaker-Studio 1.3\GameMaker-Studio.exe
+Starting process for C:\Users\Dell\AppData\Roaming\GameMaker-Studio\5piceIDE.exe
+found --YYGMParams=""
+urlForUpdate = http://store.yoyogames.com/downloads/gm-studio/update-studio-stable.rss
+update file downloaded numEntries = 1
+FileEntry = Title=Version 1.4.1804, ReleaseNotesUri=http://store.yoyogames.com/downloads/gm-studio/release-notes-studio.html?__yoyo_relnotes=641466118, PubDate=13-03-2018 05:39:04, EnclosureUri=https://updater.yoyogames.com/api/download/original?filename=Original-1.4.1804.zip, EnclosureVersion=1.4.1804, EnclosureType=application/octet-stream, EnclosureLength=82119886, EnclosureSignature=MCwCFHmvVleldPNDz9vR98+SAqW6rQVqAhQd/dtc3tOXVao2FjjjWIhQWCu/Lw==, DeltaSet=System.Collections.Generic.List`1[Updater.SparkleFileEntry], 
+my version number is 1.4.1804.44013 the update version is 1.4.1804
+Not a newer version - ignoring
+urlForUpdate = http://store.yoyogames.com/downloads/gm-studio/update-studio-stable.rss
+update file downloaded numEntries = 1
+FileEntry = Title=Version 1.4.1804, ReleaseNotesUri=http://store.yoyogames.com/downloads/gm-studio/release-notes-studio.html?__yoyo_relnotes=407039007, PubDate=13-03-2018 05:39:04, EnclosureUri=https://updater.yoyogames.com/api/download/original?filename=Original-1.4.1804.zip, EnclosureVersion=1.4.1804, EnclosureType=application/octet-stream, EnclosureLength=82119886, EnclosureSignature=MCwCFHmvVleldPNDz9vR98+SAqW6rQVqAhQd/dtc3tOXVao2FjjjWIhQWCu/Lw==, DeltaSet=System.Collections.Generic.List`1[Updater.SparkleFileEntry], 
+my version number is 1.4.1804.44013 the update version is 1.4.1804
+Not a newer version - ignoring
+urlForUpdate = http://store.yoyogames.com/downloads/gm-studio/update-studio-stable.rss
+update file downloaded numEntries = 1
+FileEntry = Title=Version 1.4.1804, ReleaseNotesUri=http://store.yoyogames.com/downloads/gm-studio/release-notes-studio.html?__yoyo_relnotes=609707557, PubDate=13-03-2018 05:39:04, EnclosureUri=https://updater.yoyogames.com/api/download/original?filename=Original-1.4.1804.zip, EnclosureVersion=1.4.1804, EnclosureType=application/octet-stream, EnclosureLength=82119886, EnclosureSignature=MCwCFHmvVleldPNDz9vR98+SAqW6rQVqAhQd/dtc3tOXVao2FjjjWIhQWCu/Lw==, DeltaSet=System.Collections.Generic.List`1[Updater.SparkleFileEntry], 
+my version number is 1.4.1804.44013 the update version is 1.4.1804
+Not a newer version - ignoring
+urlForUpdate = http://store.yoyogames.com/downloads/gm-studio/update-studio-stable.rss
+update file downloaded numEntries = 1
+FileEntry = Title=Version 1.4.1804, ReleaseNotesUri=http://store.yoyogames.com/downloads/gm-studio/release-notes-studio.html?__yoyo_relnotes=535881903, PubDate=13-03-2018 05:39:04, EnclosureUri=https://updater.yoyogames.com/api/download/original?filename=Original-1.4.1804.zip, EnclosureVersion=1.4.1804, EnclosureType=application/octet-stream, EnclosureLength=82119886, EnclosureSignature=MCwCFHmvVleldPNDz9vR98+SAqW6rQVqAhQd/dtc3tOXVao2FjjjWIhQWCu/Lw==, DeltaSet=System.Collections.Generic.List`1[Updater.SparkleFileEntry], 
+my version number is 1.4.1804.44013 the update version is 1.4.1804
+Not a newer version - ignoring
+------------ GameMaker-Studio 1.4.1772.42005 --------------
+regCurr=SOFTWARE\5tudio\59CAEAA5, k=Addons, entry=AndroidTest.Windows.Windows8.Windows8RT.pro, plist[k]=AndroidTest.Windows.Windows8.Windows8RT.pro
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4, k=Answer, entry=1143136907, plist[k]=1143136907
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE, k=Email, entry=Sajid.sarker@gmail.com, plist[k]=Sajid.sarker@gmail.com
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB, k=License Type, entry=Full, plist[k]=Full
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF, k=Name, entry=Sajid.sarker@gmail.com, plist[k]=Sajid.sarker@gmail.com
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5, k=Pass Phrase, entry=5b2747beb8cbe0149002040ea595a86d, plist[k]=5b2747beb8cbe0149002040ea595a86d
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5\71B4, k=Product, entry=GameMaker:Studio, plist[k]=GameMaker:Studio
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5\71B4\03EE, k=Signature, entry=
+	YVk5LJ6i7vOKSDACbDqpWJVCsZDplWsYGwasNYGFKNMcKq7GWoGokGDjs8kIsQNxKm5C
+	AYBFSYMBg27sSEpOlHILdBqCyJO49Mi89RT+cY3xNSJu9dQfC/jb0NP0uOwV+F2uNHkN
+	CmKdayN967UMxS6q0N3zlnN+uKeoyELwMfM=
+	, plist[k]=
+	YVk5LJ6i7vOKSDACbDqpWJVCsZDplWsYGwasNYGFKNMcKq7GWoGokGDjs8kIsQNxKm5C
+	AYBFSYMBg27sSEpOlHILdBqCyJO49Mi89RT+cY3xNSJu9dQfC/jb0NP0uOwV+F2uNHkN
+	CmKdayN967UMxS6q0N3zlnN+uKeoyELwMfM=
+	
+Not running from the ApplicationData directory
+Checking the install receipt
+receipt has 0 elements
+Merge Flag set to "True"
+Deleting the upgrade Zip directory "C:\Users\Dell\AppData\Local\GameMaker-Studio\UpgradeZip"
+found --YYGMParams=""
+Starting the Application Data executable "C:\Users\Dell\AppData\Roaming\GameMaker-Studio\GameMaker-Studio.exe" --YYOriginalFilename="C:\Users\Dell\GameMaker-Studio 1.3\GameMaker-Studio.exe" --YYGMParams=""
+Exiting the original application - "C:\Users\Dell\GameMaker-Studio 1.3\GameMaker-Studio.exe"
+------------ GameMaker-Studio 1.4.1804.44013 --------------
+regCurr=SOFTWARE\5tudio\59CAEAA5, k=Addons, entry=AndroidTest.Windows.Windows8.Windows8RT.pro, plist[k]=AndroidTest.Windows.Windows8.Windows8RT.pro
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4, k=Answer, entry=1143136907, plist[k]=1143136907
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE, k=Email, entry=Sajid.sarker@gmail.com, plist[k]=Sajid.sarker@gmail.com
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB, k=License Type, entry=Full, plist[k]=Full
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF, k=Name, entry=Sajid.sarker@gmail.com, plist[k]=Sajid.sarker@gmail.com
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5, k=Pass Phrase, entry=5b2747beb8cbe0149002040ea595a86d, plist[k]=5b2747beb8cbe0149002040ea595a86d
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5\71B4, k=Product, entry=GameMaker:Studio, plist[k]=GameMaker:Studio
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5\71B4\03EE, k=Signature, entry=
+	YVk5LJ6i7vOKSDACbDqpWJVCsZDplWsYGwasNYGFKNMcKq7GWoGokGDjs8kIsQNxKm5C
+	AYBFSYMBg27sSEpOlHILdBqCyJO49Mi89RT+cY3xNSJu9dQfC/jb0NP0uOwV+F2uNHkN
+	CmKdayN967UMxS6q0N3zlnN+uKeoyELwMfM=
+	, plist[k]=
+	YVk5LJ6i7vOKSDACbDqpWJVCsZDplWsYGwasNYGFKNMcKq7GWoGokGDjs8kIsQNxKm5C
+	AYBFSYMBg27sSEpOlHILdBqCyJO49Mi89RT+cY3xNSJu9dQfC/jb0NP0uOwV+F2uNHkN
+	CmKdayN967UMxS6q0N3zlnN+uKeoyELwMfM=
+	
+Starting the ApplicationData executable
+found --YYOriginalFilename=C:\Users\Dell\GameMaker-Studio 1.3\GameMaker-Studio.exe
+Starting process for C:\Users\Dell\AppData\Roaming\GameMaker-Studio\5piceIDE.exe
+found --YYGMParams=""
+urlForUpdate = http://store.yoyogames.com/downloads/gm-studio/update-studio-stable.rss
+update file downloaded numEntries = 1
+FileEntry = Title=Version 1.4.1804, ReleaseNotesUri=http://store.yoyogames.com/downloads/gm-studio/release-notes-studio.html?__yoyo_relnotes=214474971, PubDate=13-03-2018 05:39:04, EnclosureUri=https://updater.yoyogames.com/api/download/original?filename=Original-1.4.1804.zip, EnclosureVersion=1.4.1804, EnclosureType=application/octet-stream, EnclosureLength=82119886, EnclosureSignature=MCwCFHmvVleldPNDz9vR98+SAqW6rQVqAhQd/dtc3tOXVao2FjjjWIhQWCu/Lw==, DeltaSet=System.Collections.Generic.List`1[Updater.SparkleFileEntry], 
+my version number is 1.4.1804.44013 the update version is 1.4.1804
+Not a newer version - ignoring
+urlForUpdate = http://store.yoyogames.com/downloads/gm-studio/update-studio-stable.rss
+update file downloaded numEntries = 1
+FileEntry = Title=Version 1.4.1804, ReleaseNotesUri=http://store.yoyogames.com/downloads/gm-studio/release-notes-studio.html?__yoyo_relnotes=592482215, PubDate=13-03-2018 05:39:04, EnclosureUri=https://updater.yoyogames.com/api/download/original?filename=Original-1.4.1804.zip, EnclosureVersion=1.4.1804, EnclosureType=application/octet-stream, EnclosureLength=82119886, EnclosureSignature=MCwCFHmvVleldPNDz9vR98+SAqW6rQVqAhQd/dtc3tOXVao2FjjjWIhQWCu/Lw==, DeltaSet=System.Collections.Generic.List`1[Updater.SparkleFileEntry], 
+my version number is 1.4.1804.44013 the update version is 1.4.1804
+Not a newer version - ignoring
+urlForUpdate = http://store.yoyogames.com/downloads/gm-studio/update-studio-stable.rss
+update file downloaded numEntries = 1
+FileEntry = Title=Version 1.4.1804, ReleaseNotesUri=http://store.yoyogames.com/downloads/gm-studio/release-notes-studio.html?__yoyo_relnotes=632188692, PubDate=13-03-2018 05:39:04, EnclosureUri=https://updater.yoyogames.com/api/download/original?filename=Original-1.4.1804.zip, EnclosureVersion=1.4.1804, EnclosureType=application/octet-stream, EnclosureLength=82119886, EnclosureSignature=MCwCFHmvVleldPNDz9vR98+SAqW6rQVqAhQd/dtc3tOXVao2FjjjWIhQWCu/Lw==, DeltaSet=System.Collections.Generic.List`1[Updater.SparkleFileEntry], 
+my version number is 1.4.1804.44013 the update version is 1.4.1804
+Not a newer version - ignoring
+------------ GameMaker-Studio 1.4.1772.42005 --------------
+regCurr=SOFTWARE\5tudio\59CAEAA5, k=Addons, entry=AndroidTest.Windows.Windows8.Windows8RT.pro, plist[k]=AndroidTest.Windows.Windows8.Windows8RT.pro
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4, k=Answer, entry=1143136907, plist[k]=1143136907
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE, k=Email, entry=Sajid.sarker@gmail.com, plist[k]=Sajid.sarker@gmail.com
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB, k=License Type, entry=Full, plist[k]=Full
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF, k=Name, entry=Sajid.sarker@gmail.com, plist[k]=Sajid.sarker@gmail.com
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5, k=Pass Phrase, entry=5b2747beb8cbe0149002040ea595a86d, plist[k]=5b2747beb8cbe0149002040ea595a86d
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5\71B4, k=Product, entry=GameMaker:Studio, plist[k]=GameMaker:Studio
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5\71B4\03EE, k=Signature, entry=
+	YVk5LJ6i7vOKSDACbDqpWJVCsZDplWsYGwasNYGFKNMcKq7GWoGokGDjs8kIsQNxKm5C
+	AYBFSYMBg27sSEpOlHILdBqCyJO49Mi89RT+cY3xNSJu9dQfC/jb0NP0uOwV+F2uNHkN
+	CmKdayN967UMxS6q0N3zlnN+uKeoyELwMfM=
+	, plist[k]=
+	YVk5LJ6i7vOKSDACbDqpWJVCsZDplWsYGwasNYGFKNMcKq7GWoGokGDjs8kIsQNxKm5C
+	AYBFSYMBg27sSEpOlHILdBqCyJO49Mi89RT+cY3xNSJu9dQfC/jb0NP0uOwV+F2uNHkN
+	CmKdayN967UMxS6q0N3zlnN+uKeoyELwMfM=
+	
+Not running from the ApplicationData directory
+Checking the install receipt
+receipt has 0 elements
+Merge Flag set to "True"
+Deleting the upgrade Zip directory "C:\Users\Dell\AppData\Local\GameMaker-Studio\UpgradeZip"
+found --YYGMParams=""
+Starting the Application Data executable "C:\Users\Dell\AppData\Roaming\GameMaker-Studio\GameMaker-Studio.exe" --YYOriginalFilename="C:\Users\Dell\GameMaker-Studio 1.3\GameMaker-Studio.exe" --YYGMParams=""
+Exiting the original application - "C:\Users\Dell\GameMaker-Studio 1.3\GameMaker-Studio.exe"
+------------ GameMaker-Studio 1.4.1804.44013 --------------
+regCurr=SOFTWARE\5tudio\59CAEAA5, k=Addons, entry=AndroidTest.Windows.Windows8.Windows8RT.pro, plist[k]=AndroidTest.Windows.Windows8.Windows8RT.pro
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4, k=Answer, entry=1143136907, plist[k]=1143136907
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE, k=Email, entry=Sajid.sarker@gmail.com, plist[k]=Sajid.sarker@gmail.com
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB, k=License Type, entry=Full, plist[k]=Full
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF, k=Name, entry=Sajid.sarker@gmail.com, plist[k]=Sajid.sarker@gmail.com
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5, k=Pass Phrase, entry=5b2747beb8cbe0149002040ea595a86d, plist[k]=5b2747beb8cbe0149002040ea595a86d
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5\71B4, k=Product, entry=GameMaker:Studio, plist[k]=GameMaker:Studio
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5\71B4\03EE, k=Signature, entry=
+	YVk5LJ6i7vOKSDACbDqpWJVCsZDplWsYGwasNYGFKNMcKq7GWoGokGDjs8kIsQNxKm5C
+	AYBFSYMBg27sSEpOlHILdBqCyJO49Mi89RT+cY3xNSJu9dQfC/jb0NP0uOwV+F2uNHkN
+	CmKdayN967UMxS6q0N3zlnN+uKeoyELwMfM=
+	, plist[k]=
+	YVk5LJ6i7vOKSDACbDqpWJVCsZDplWsYGwasNYGFKNMcKq7GWoGokGDjs8kIsQNxKm5C
+	AYBFSYMBg27sSEpOlHILdBqCyJO49Mi89RT+cY3xNSJu9dQfC/jb0NP0uOwV+F2uNHkN
+	CmKdayN967UMxS6q0N3zlnN+uKeoyELwMfM=
+	
+Starting the ApplicationData executable
+found --YYOriginalFilename=C:\Users\Dell\GameMaker-Studio 1.3\GameMaker-Studio.exe
+Starting process for C:\Users\Dell\AppData\Roaming\GameMaker-Studio\5piceIDE.exe
+found --YYGMParams=""
+urlForUpdate = http://store.yoyogames.com/downloads/gm-studio/update-studio-stable.rss
+update file downloaded numEntries = 1
+FileEntry = Title=Version 1.4.1804, ReleaseNotesUri=http://store.yoyogames.com/downloads/gm-studio/release-notes-studio.html?__yoyo_relnotes=1428338967, PubDate=13-03-2018 05:39:04, EnclosureUri=https://updater.yoyogames.com/api/download/original?filename=Original-1.4.1804.zip, EnclosureVersion=1.4.1804, EnclosureType=application/octet-stream, EnclosureLength=82119886, EnclosureSignature=MCwCFHmvVleldPNDz9vR98+SAqW6rQVqAhQd/dtc3tOXVao2FjjjWIhQWCu/Lw==, DeltaSet=System.Collections.Generic.List`1[Updater.SparkleFileEntry], 
+my version number is 1.4.1804.44013 the update version is 1.4.1804
+Not a newer version - ignoring
+------------ GameMaker-Studio 1.4.1772.42005 --------------
+regCurr=SOFTWARE\5tudio\59CAEAA5, k=Addons, entry=AndroidTest.Windows.Windows8.Windows8RT.pro, plist[k]=AndroidTest.Windows.Windows8.Windows8RT.pro
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4, k=Answer, entry=1143136907, plist[k]=1143136907
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE, k=Email, entry=Sajid.sarker@gmail.com, plist[k]=Sajid.sarker@gmail.com
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB, k=License Type, entry=Full, plist[k]=Full
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF, k=Name, entry=Sajid.sarker@gmail.com, plist[k]=Sajid.sarker@gmail.com
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5, k=Pass Phrase, entry=5b2747beb8cbe0149002040ea595a86d, plist[k]=5b2747beb8cbe0149002040ea595a86d
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5\71B4, k=Product, entry=GameMaker:Studio, plist[k]=GameMaker:Studio
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5\71B4\03EE, k=Signature, entry=
+	YVk5LJ6i7vOKSDACbDqpWJVCsZDplWsYGwasNYGFKNMcKq7GWoGokGDjs8kIsQNxKm5C
+	AYBFSYMBg27sSEpOlHILdBqCyJO49Mi89RT+cY3xNSJu9dQfC/jb0NP0uOwV+F2uNHkN
+	CmKdayN967UMxS6q0N3zlnN+uKeoyELwMfM=
+	, plist[k]=
+	YVk5LJ6i7vOKSDACbDqpWJVCsZDplWsYGwasNYGFKNMcKq7GWoGokGDjs8kIsQNxKm5C
+	AYBFSYMBg27sSEpOlHILdBqCyJO49Mi89RT+cY3xNSJu9dQfC/jb0NP0uOwV+F2uNHkN
+	CmKdayN967UMxS6q0N3zlnN+uKeoyELwMfM=
+	
+Not running from the ApplicationData directory
+Checking the install receipt
+receipt has 0 elements
+Merge Flag set to "True"
+Deleting the upgrade Zip directory "C:\Users\Dell\AppData\Local\GameMaker-Studio\UpgradeZip"
+found --YYGMParams=""
+Starting the Application Data executable "C:\Users\Dell\AppData\Roaming\GameMaker-Studio\GameMaker-Studio.exe" --YYOriginalFilename="C:\Users\Dell\GameMaker-Studio 1.3\GameMaker-Studio.exe" --YYGMParams=""
+Exiting the original application - "C:\Users\Dell\GameMaker-Studio 1.3\GameMaker-Studio.exe"
+------------ GameMaker-Studio 1.4.1804.44013 --------------
+regCurr=SOFTWARE\5tudio\59CAEAA5, k=Addons, entry=AndroidTest.Windows.Windows8.Windows8RT.pro, plist[k]=AndroidTest.Windows.Windows8.Windows8RT.pro
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4, k=Answer, entry=1143136907, plist[k]=1143136907
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE, k=Email, entry=Sajid.sarker@gmail.com, plist[k]=Sajid.sarker@gmail.com
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB, k=License Type, entry=Full, plist[k]=Full
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF, k=Name, entry=Sajid.sarker@gmail.com, plist[k]=Sajid.sarker@gmail.com
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5, k=Pass Phrase, entry=5b2747beb8cbe0149002040ea595a86d, plist[k]=5b2747beb8cbe0149002040ea595a86d
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5\71B4, k=Product, entry=GameMaker:Studio, plist[k]=GameMaker:Studio
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5\71B4\03EE, k=Signature, entry=
+	YVk5LJ6i7vOKSDACbDqpWJVCsZDplWsYGwasNYGFKNMcKq7GWoGokGDjs8kIsQNxKm5C
+	AYBFSYMBg27sSEpOlHILdBqCyJO49Mi89RT+cY3xNSJu9dQfC/jb0NP0uOwV+F2uNHkN
+	CmKdayN967UMxS6q0N3zlnN+uKeoyELwMfM=
+	, plist[k]=
+	YVk5LJ6i7vOKSDACbDqpWJVCsZDplWsYGwasNYGFKNMcKq7GWoGokGDjs8kIsQNxKm5C
+	AYBFSYMBg27sSEpOlHILdBqCyJO49Mi89RT+cY3xNSJu9dQfC/jb0NP0uOwV+F2uNHkN
+	CmKdayN967UMxS6q0N3zlnN+uKeoyELwMfM=
+	
+Starting the ApplicationData executable
+found --YYOriginalFilename=C:\Users\Dell\GameMaker-Studio 1.3\GameMaker-Studio.exe
+Starting process for C:\Users\Dell\AppData\Roaming\GameMaker-Studio\5piceIDE.exe
+found --YYGMParams=""
+urlForUpdate = http://store.yoyogames.com/downloads/gm-studio/update-studio-stable.rss
+update file downloaded numEntries = 1
+FileEntry = Title=Version 1.4.1804, ReleaseNotesUri=http://store.yoyogames.com/downloads/gm-studio/release-notes-studio.html?__yoyo_relnotes=742490416, PubDate=13-03-2018 05:39:04, EnclosureUri=https://updater.yoyogames.com/api/download/original?filename=Original-1.4.1804.zip, EnclosureVersion=1.4.1804, EnclosureType=application/octet-stream, EnclosureLength=82119886, EnclosureSignature=MCwCFHmvVleldPNDz9vR98+SAqW6rQVqAhQd/dtc3tOXVao2FjjjWIhQWCu/Lw==, DeltaSet=System.Collections.Generic.List`1[Updater.SparkleFileEntry], 
+my version number is 1.4.1804.44013 the update version is 1.4.1804
+Not a newer version - ignoring
+------------ GameMaker-Studio 1.4.1772.42005 --------------
+regCurr=SOFTWARE\5tudio\59CAEAA5, k=Addons, entry=AndroidTest.Windows.Windows8.Windows8RT.pro, plist[k]=AndroidTest.Windows.Windows8.Windows8RT.pro
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4, k=Answer, entry=1143136907, plist[k]=1143136907
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE, k=Email, entry=Sajid.sarker@gmail.com, plist[k]=Sajid.sarker@gmail.com
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB, k=License Type, entry=Full, plist[k]=Full
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF, k=Name, entry=Sajid.sarker@gmail.com, plist[k]=Sajid.sarker@gmail.com
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5, k=Pass Phrase, entry=5b2747beb8cbe0149002040ea595a86d, plist[k]=5b2747beb8cbe0149002040ea595a86d
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5\71B4, k=Product, entry=GameMaker:Studio, plist[k]=GameMaker:Studio
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5\71B4\03EE, k=Signature, entry=
+	YVk5LJ6i7vOKSDACbDqpWJVCsZDplWsYGwasNYGFKNMcKq7GWoGokGDjs8kIsQNxKm5C
+	AYBFSYMBg27sSEpOlHILdBqCyJO49Mi89RT+cY3xNSJu9dQfC/jb0NP0uOwV+F2uNHkN
+	CmKdayN967UMxS6q0N3zlnN+uKeoyELwMfM=
+	, plist[k]=
+	YVk5LJ6i7vOKSDACbDqpWJVCsZDplWsYGwasNYGFKNMcKq7GWoGokGDjs8kIsQNxKm5C
+	AYBFSYMBg27sSEpOlHILdBqCyJO49Mi89RT+cY3xNSJu9dQfC/jb0NP0uOwV+F2uNHkN
+	CmKdayN967UMxS6q0N3zlnN+uKeoyELwMfM=
+	
+Not running from the ApplicationData directory
+Checking the install receipt
+receipt has 0 elements
+Merge Flag set to "True"
+Deleting the upgrade Zip directory "C:\Users\Dell\AppData\Local\GameMaker-Studio\UpgradeZip"
+found --YYGMParams=""
+Starting the Application Data executable "C:\Users\Dell\AppData\Roaming\GameMaker-Studio\GameMaker-Studio.exe" --YYOriginalFilename="C:\Users\Dell\GameMaker-Studio 1.3\GameMaker-Studio.exe" --YYGMParams=""
+Exiting the original application - "C:\Users\Dell\GameMaker-Studio 1.3\GameMaker-Studio.exe"
+------------ GameMaker-Studio 1.4.1804.44013 --------------
+regCurr=SOFTWARE\5tudio\59CAEAA5, k=Addons, entry=AndroidTest.Windows.Windows8.Windows8RT.pro, plist[k]=AndroidTest.Windows.Windows8.Windows8RT.pro
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4, k=Answer, entry=1143136907, plist[k]=1143136907
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE, k=Email, entry=Sajid.sarker@gmail.com, plist[k]=Sajid.sarker@gmail.com
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB, k=License Type, entry=Full, plist[k]=Full
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF, k=Name, entry=Sajid.sarker@gmail.com, plist[k]=Sajid.sarker@gmail.com
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5, k=Pass Phrase, entry=5b2747beb8cbe0149002040ea595a86d, plist[k]=5b2747beb8cbe0149002040ea595a86d
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5\71B4, k=Product, entry=GameMaker:Studio, plist[k]=GameMaker:Studio
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5\71B4\03EE, k=Signature, entry=
+	YVk5LJ6i7vOKSDACbDqpWJVCsZDplWsYGwasNYGFKNMcKq7GWoGokGDjs8kIsQNxKm5C
+	AYBFSYMBg27sSEpOlHILdBqCyJO49Mi89RT+cY3xNSJu9dQfC/jb0NP0uOwV+F2uNHkN
+	CmKdayN967UMxS6q0N3zlnN+uKeoyELwMfM=
+	, plist[k]=
+	YVk5LJ6i7vOKSDACbDqpWJVCsZDplWsYGwasNYGFKNMcKq7GWoGokGDjs8kIsQNxKm5C
+	AYBFSYMBg27sSEpOlHILdBqCyJO49Mi89RT+cY3xNSJu9dQfC/jb0NP0uOwV+F2uNHkN
+	CmKdayN967UMxS6q0N3zlnN+uKeoyELwMfM=
+	
+Starting the ApplicationData executable
+found --YYOriginalFilename=C:\Users\Dell\GameMaker-Studio 1.3\GameMaker-Studio.exe
+Starting process for C:\Users\Dell\AppData\Roaming\GameMaker-Studio\5piceIDE.exe
+found --YYGMParams=""
+urlForUpdate = http://store.yoyogames.com/downloads/gm-studio/update-studio-stable.rss
+System.Net.WebException: The remote name could not be resolved: 'store.yoyogames.com'
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadData(Uri address)
+   at Updater.SparkleDefaultHTTPUpdateDriver.DownloadUpdateFile(SparkleUpdate _update, String _urlforUpdate)
+urlForUpdate = http://store.yoyogames.com/downloads/gm-studio/update-studio-stable.rss
+update file downloaded numEntries = 1
+FileEntry = Title=Version 1.4.1804, ReleaseNotesUri=http://store.yoyogames.com/downloads/gm-studio/release-notes-studio.html?__yoyo_relnotes=736955214, PubDate=13-03-2018 05:39:04, EnclosureUri=https://updater.yoyogames.com/api/download/original?filename=Original-1.4.1804.zip, EnclosureVersion=1.4.1804, EnclosureType=application/octet-stream, EnclosureLength=82119886, EnclosureSignature=MCwCFHmvVleldPNDz9vR98+SAqW6rQVqAhQd/dtc3tOXVao2FjjjWIhQWCu/Lw==, DeltaSet=System.Collections.Generic.List`1[Updater.SparkleFileEntry], 
+my version number is 1.4.1804.44013 the update version is 1.4.1804
+Not a newer version - ignoring
+urlForUpdate = http://store.yoyogames.com/downloads/gm-studio/update-studio-stable.rss
+update file downloaded numEntries = 1
+FileEntry = Title=Version 1.4.1804, ReleaseNotesUri=http://store.yoyogames.com/downloads/gm-studio/release-notes-studio.html?__yoyo_relnotes=939045589, PubDate=13-03-2018 05:39:04, EnclosureUri=https://updater.yoyogames.com/api/download/original?filename=Original-1.4.1804.zip, EnclosureVersion=1.4.1804, EnclosureType=application/octet-stream, EnclosureLength=82119886, EnclosureSignature=MCwCFHmvVleldPNDz9vR98+SAqW6rQVqAhQd/dtc3tOXVao2FjjjWIhQWCu/Lw==, DeltaSet=System.Collections.Generic.List`1[Updater.SparkleFileEntry], 
+my version number is 1.4.1804.44013 the update version is 1.4.1804
+Not a newer version - ignoring
+------------ GameMaker-Studio 1.4.1772.42005 --------------
+regCurr=SOFTWARE\5tudio\59CAEAA5, k=Addons, entry=AndroidTest.Windows.Windows8.Windows8RT.pro, plist[k]=AndroidTest.Windows.Windows8.Windows8RT.pro
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4, k=Answer, entry=1143136907, plist[k]=1143136907
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE, k=Email, entry=Sajid.sarker@gmail.com, plist[k]=Sajid.sarker@gmail.com
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB, k=License Type, entry=Full, plist[k]=Full
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF, k=Name, entry=Sajid.sarker@gmail.com, plist[k]=Sajid.sarker@gmail.com
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5, k=Pass Phrase, entry=5b2747beb8cbe0149002040ea595a86d, plist[k]=5b2747beb8cbe0149002040ea595a86d
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5\71B4, k=Product, entry=GameMaker:Studio, plist[k]=GameMaker:Studio
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5\71B4\03EE, k=Signature, entry=
+	YVk5LJ6i7vOKSDACbDqpWJVCsZDplWsYGwasNYGFKNMcKq7GWoGokGDjs8kIsQNxKm5C
+	AYBFSYMBg27sSEpOlHILdBqCyJO49Mi89RT+cY3xNSJu9dQfC/jb0NP0uOwV+F2uNHkN
+	CmKdayN967UMxS6q0N3zlnN+uKeoyELwMfM=
+	, plist[k]=
+	YVk5LJ6i7vOKSDACbDqpWJVCsZDplWsYGwasNYGFKNMcKq7GWoGokGDjs8kIsQNxKm5C
+	AYBFSYMBg27sSEpOlHILdBqCyJO49Mi89RT+cY3xNSJu9dQfC/jb0NP0uOwV+F2uNHkN
+	CmKdayN967UMxS6q0N3zlnN+uKeoyELwMfM=
+	
+Not running from the ApplicationData directory
+Checking the install receipt
+receipt has 0 elements
+Merge Flag set to "True"
+Deleting the upgrade Zip directory "C:\Users\Dell\AppData\Local\GameMaker-Studio\UpgradeZip"
+found --YYGMParams=""
+Starting the Application Data executable "C:\Users\Dell\AppData\Roaming\GameMaker-Studio\GameMaker-Studio.exe" --YYOriginalFilename="C:\Users\Dell\GameMaker-Studio 1.3\GameMaker-Studio.exe" --YYGMParams=""
+Exiting the original application - "C:\Users\Dell\GameMaker-Studio 1.3\GameMaker-Studio.exe"
+------------ GameMaker-Studio 1.4.1804.44013 --------------
+regCurr=SOFTWARE\5tudio\59CAEAA5, k=Addons, entry=AndroidTest.Windows.Windows8.Windows8RT.pro, plist[k]=AndroidTest.Windows.Windows8.Windows8RT.pro
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4, k=Answer, entry=1143136907, plist[k]=1143136907
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE, k=Email, entry=Sajid.sarker@gmail.com, plist[k]=Sajid.sarker@gmail.com
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB, k=License Type, entry=Full, plist[k]=Full
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF, k=Name, entry=Sajid.sarker@gmail.com, plist[k]=Sajid.sarker@gmail.com
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5, k=Pass Phrase, entry=5b2747beb8cbe0149002040ea595a86d, plist[k]=5b2747beb8cbe0149002040ea595a86d
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5\71B4, k=Product, entry=GameMaker:Studio, plist[k]=GameMaker:Studio
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5\71B4\03EE, k=Signature, entry=
+	YVk5LJ6i7vOKSDACbDqpWJVCsZDplWsYGwasNYGFKNMcKq7GWoGokGDjs8kIsQNxKm5C
+	AYBFSYMBg27sSEpOlHILdBqCyJO49Mi89RT+cY3xNSJu9dQfC/jb0NP0uOwV+F2uNHkN
+	CmKdayN967UMxS6q0N3zlnN+uKeoyELwMfM=
+	, plist[k]=
+	YVk5LJ6i7vOKSDACbDqpWJVCsZDplWsYGwasNYGFKNMcKq7GWoGokGDjs8kIsQNxKm5C
+	AYBFSYMBg27sSEpOlHILdBqCyJO49Mi89RT+cY3xNSJu9dQfC/jb0NP0uOwV+F2uNHkN
+	CmKdayN967UMxS6q0N3zlnN+uKeoyELwMfM=
+	
+Starting the ApplicationData executable
+found --YYOriginalFilename=C:\Users\Dell\GameMaker-Studio 1.3\GameMaker-Studio.exe
+Starting process for C:\Users\Dell\AppData\Roaming\GameMaker-Studio\5piceIDE.exe
+found --YYGMParams=""
+urlForUpdate = http://store.yoyogames.com/downloads/gm-studio/update-studio-stable.rss
+update file downloaded numEntries = 1
+FileEntry = Title=Version 1.4.1804, ReleaseNotesUri=http://store.yoyogames.com/downloads/gm-studio/release-notes-studio.html?__yoyo_relnotes=1126420662, PubDate=13-03-2018 05:39:04, EnclosureUri=https://updater.yoyogames.com/api/download/original?filename=Original-1.4.1804.zip, EnclosureVersion=1.4.1804, EnclosureType=application/octet-stream, EnclosureLength=82119886, EnclosureSignature=MCwCFHmvVleldPNDz9vR98+SAqW6rQVqAhQd/dtc3tOXVao2FjjjWIhQWCu/Lw==, DeltaSet=System.Collections.Generic.List`1[Updater.SparkleFileEntry], 
+my version number is 1.4.1804.44013 the update version is 1.4.1804
+Not a newer version - ignoring
+urlForUpdate = http://store.yoyogames.com/downloads/gm-studio/update-studio-stable.rss
+update file downloaded numEntries = 1
+FileEntry = Title=Version 1.4.1804, ReleaseNotesUri=http://store.yoyogames.com/downloads/gm-studio/release-notes-studio.html?__yoyo_relnotes=1491894932, PubDate=13-03-2018 05:39:04, EnclosureUri=https://updater.yoyogames.com/api/download/original?filename=Original-1.4.1804.zip, EnclosureVersion=1.4.1804, EnclosureType=application/octet-stream, EnclosureLength=82119886, EnclosureSignature=MCwCFHmvVleldPNDz9vR98+SAqW6rQVqAhQd/dtc3tOXVao2FjjjWIhQWCu/Lw==, DeltaSet=System.Collections.Generic.List`1[Updater.SparkleFileEntry], 
+my version number is 1.4.1804.44013 the update version is 1.4.1804
+Not a newer version - ignoring
+urlForUpdate = http://store.yoyogames.com/downloads/gm-studio/update-studio-stable.rss
+update file downloaded numEntries = 1
+FileEntry = Title=Version 1.4.1804, ReleaseNotesUri=http://store.yoyogames.com/downloads/gm-studio/release-notes-studio.html?__yoyo_relnotes=1869979122, PubDate=13-03-2018 05:39:04, EnclosureUri=https://updater.yoyogames.com/api/download/original?filename=Original-1.4.1804.zip, EnclosureVersion=1.4.1804, EnclosureType=application/octet-stream, EnclosureLength=82119886, EnclosureSignature=MCwCFHmvVleldPNDz9vR98+SAqW6rQVqAhQd/dtc3tOXVao2FjjjWIhQWCu/Lw==, DeltaSet=System.Collections.Generic.List`1[Updater.SparkleFileEntry], 
+my version number is 1.4.1804.44013 the update version is 1.4.1804
+Not a newer version - ignoring
+urlForUpdate = http://store.yoyogames.com/downloads/gm-studio/update-studio-stable.rss
+update file downloaded numEntries = 1
+FileEntry = Title=Version 1.4.1804, ReleaseNotesUri=http://store.yoyogames.com/downloads/gm-studio/release-notes-studio.html?__yoyo_relnotes=1684750154, PubDate=13-03-2018 05:39:04, EnclosureUri=https://updater.yoyogames.com/api/download/original?filename=Original-1.4.1804.zip, EnclosureVersion=1.4.1804, EnclosureType=application/octet-stream, EnclosureLength=82119886, EnclosureSignature=MCwCFHmvVleldPNDz9vR98+SAqW6rQVqAhQd/dtc3tOXVao2FjjjWIhQWCu/Lw==, DeltaSet=System.Collections.Generic.List`1[Updater.SparkleFileEntry], 
+my version number is 1.4.1804.44013 the update version is 1.4.1804
+Not a newer version - ignoring
+urlForUpdate = http://store.yoyogames.com/downloads/gm-studio/update-studio-stable.rss
+update file downloaded numEntries = 1
+FileEntry = Title=Version 1.4.1804, ReleaseNotesUri=http://store.yoyogames.com/downloads/gm-studio/release-notes-studio.html?__yoyo_relnotes=405278389, PubDate=13-03-2018 05:39:04, EnclosureUri=https://updater.yoyogames.com/api/download/original?filename=Original-1.4.1804.zip, EnclosureVersion=1.4.1804, EnclosureType=application/octet-stream, EnclosureLength=82119886, EnclosureSignature=MCwCFHmvVleldPNDz9vR98+SAqW6rQVqAhQd/dtc3tOXVao2FjjjWIhQWCu/Lw==, DeltaSet=System.Collections.Generic.List`1[Updater.SparkleFileEntry], 
+my version number is 1.4.1804.44013 the update version is 1.4.1804
+Not a newer version - ignoring
+------------ GameMaker-Studio 1.4.1772.42005 --------------
+regCurr=SOFTWARE\5tudio\59CAEAA5, k=Addons, entry=AndroidTest.Windows.Windows8.Windows8RT.pro, plist[k]=AndroidTest.Windows.Windows8.Windows8RT.pro
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4, k=Answer, entry=1143136907, plist[k]=1143136907
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE, k=Email, entry=Sajid.sarker@gmail.com, plist[k]=Sajid.sarker@gmail.com
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB, k=License Type, entry=Full, plist[k]=Full
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF, k=Name, entry=Sajid.sarker@gmail.com, plist[k]=Sajid.sarker@gmail.com
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5, k=Pass Phrase, entry=5b2747beb8cbe0149002040ea595a86d, plist[k]=5b2747beb8cbe0149002040ea595a86d
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5\71B4, k=Product, entry=GameMaker:Studio, plist[k]=GameMaker:Studio
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5\71B4\03EE, k=Signature, entry=
+	YVk5LJ6i7vOKSDACbDqpWJVCsZDplWsYGwasNYGFKNMcKq7GWoGokGDjs8kIsQNxKm5C
+	AYBFSYMBg27sSEpOlHILdBqCyJO49Mi89RT+cY3xNSJu9dQfC/jb0NP0uOwV+F2uNHkN
+	CmKdayN967UMxS6q0N3zlnN+uKeoyELwMfM=
+	, plist[k]=
+	YVk5LJ6i7vOKSDACbDqpWJVCsZDplWsYGwasNYGFKNMcKq7GWoGokGDjs8kIsQNxKm5C
+	AYBFSYMBg27sSEpOlHILdBqCyJO49Mi89RT+cY3xNSJu9dQfC/jb0NP0uOwV+F2uNHkN
+	CmKdayN967UMxS6q0N3zlnN+uKeoyELwMfM=
+	
+Not running from the ApplicationData directory
+Checking the install receipt
+receipt has 0 elements
+Merge Flag set to "True"
+Deleting the upgrade Zip directory "C:\Users\Dell\AppData\Local\GameMaker-Studio\UpgradeZip"
+found --YYGMParams=""
+Starting the Application Data executable "C:\Users\Dell\AppData\Roaming\GameMaker-Studio\GameMaker-Studio.exe" --YYOriginalFilename="C:\Users\Dell\GameMaker-Studio 1.3\GameMaker-Studio.exe" --YYGMParams=""
+Exiting the original application - "C:\Users\Dell\GameMaker-Studio 1.3\GameMaker-Studio.exe"
+------------ GameMaker-Studio 1.4.1804.44013 --------------
+regCurr=SOFTWARE\5tudio\59CAEAA5, k=Addons, entry=AndroidTest.Windows.Windows8.Windows8RT.pro, plist[k]=AndroidTest.Windows.Windows8.Windows8RT.pro
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4, k=Answer, entry=1143136907, plist[k]=1143136907
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE, k=Email, entry=Sajid.sarker@gmail.com, plist[k]=Sajid.sarker@gmail.com
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB, k=License Type, entry=Full, plist[k]=Full
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF, k=Name, entry=Sajid.sarker@gmail.com, plist[k]=Sajid.sarker@gmail.com
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5, k=Pass Phrase, entry=5b2747beb8cbe0149002040ea595a86d, plist[k]=5b2747beb8cbe0149002040ea595a86d
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5\71B4, k=Product, entry=GameMaker:Studio, plist[k]=GameMaker:Studio
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5\71B4\03EE, k=Signature, entry=
+	YVk5LJ6i7vOKSDACbDqpWJVCsZDplWsYGwasNYGFKNMcKq7GWoGokGDjs8kIsQNxKm5C
+	AYBFSYMBg27sSEpOlHILdBqCyJO49Mi89RT+cY3xNSJu9dQfC/jb0NP0uOwV+F2uNHkN
+	CmKdayN967UMxS6q0N3zlnN+uKeoyELwMfM=
+	, plist[k]=
+	YVk5LJ6i7vOKSDACbDqpWJVCsZDplWsYGwasNYGFKNMcKq7GWoGokGDjs8kIsQNxKm5C
+	AYBFSYMBg27sSEpOlHILdBqCyJO49Mi89RT+cY3xNSJu9dQfC/jb0NP0uOwV+F2uNHkN
+	CmKdayN967UMxS6q0N3zlnN+uKeoyELwMfM=
+	
+Starting the ApplicationData executable
+found --YYOriginalFilename=C:\Users\Dell\GameMaker-Studio 1.3\GameMaker-Studio.exe
+Starting process for C:\Users\Dell\AppData\Roaming\GameMaker-Studio\5piceIDE.exe
+found --YYGMParams=""
+urlForUpdate = http://store.yoyogames.com/downloads/gm-studio/update-studio-stable.rss
+update file downloaded numEntries = 1
+FileEntry = Title=Version 1.4.1804, ReleaseNotesUri=http://store.yoyogames.com/downloads/gm-studio/release-notes-studio.html?__yoyo_relnotes=1915002098, PubDate=13-03-2018 05:39:04, EnclosureUri=https://updater.yoyogames.com/api/download/original?filename=Original-1.4.1804.zip, EnclosureVersion=1.4.1804, EnclosureType=application/octet-stream, EnclosureLength=82119886, EnclosureSignature=MCwCFHmvVleldPNDz9vR98+SAqW6rQVqAhQd/dtc3tOXVao2FjjjWIhQWCu/Lw==, DeltaSet=System.Collections.Generic.List`1[Updater.SparkleFileEntry], 
+my version number is 1.4.1804.44013 the update version is 1.4.1804
+Not a newer version - ignoring
+urlForUpdate = http://store.yoyogames.com/downloads/gm-studio/update-studio-stable.rss
+System.Net.WebException: The remote name could not be resolved: 'store.yoyogames.com'
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadData(Uri address)
+   at Updater.SparkleDefaultHTTPUpdateDriver.DownloadUpdateFile(SparkleUpdate _update, String _urlforUpdate)
+urlForUpdate = http://store.yoyogames.com/downloads/gm-studio/update-studio-stable.rss
+System.Net.WebException: The remote name could not be resolved: 'store.yoyogames.com'
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadData(Uri address)
+   at Updater.SparkleDefaultHTTPUpdateDriver.DownloadUpdateFile(SparkleUpdate _update, String _urlforUpdate)
+------------ GameMaker-Studio 1.4.1772.42005 --------------
+regCurr=SOFTWARE\5tudio\59CAEAA5, k=Addons, entry=AndroidTest.Windows.Windows8.Windows8RT.pro, plist[k]=AndroidTest.Windows.Windows8.Windows8RT.pro
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4, k=Answer, entry=1143136907, plist[k]=1143136907
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE, k=Email, entry=Sajid.sarker@gmail.com, plist[k]=Sajid.sarker@gmail.com
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB, k=License Type, entry=Full, plist[k]=Full
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF, k=Name, entry=Sajid.sarker@gmail.com, plist[k]=Sajid.sarker@gmail.com
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5, k=Pass Phrase, entry=5b2747beb8cbe0149002040ea595a86d, plist[k]=5b2747beb8cbe0149002040ea595a86d
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5\71B4, k=Product, entry=GameMaker:Studio, plist[k]=GameMaker:Studio
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5\71B4\03EE, k=Signature, entry=
+	YVk5LJ6i7vOKSDACbDqpWJVCsZDplWsYGwasNYGFKNMcKq7GWoGokGDjs8kIsQNxKm5C
+	AYBFSYMBg27sSEpOlHILdBqCyJO49Mi89RT+cY3xNSJu9dQfC/jb0NP0uOwV+F2uNHkN
+	CmKdayN967UMxS6q0N3zlnN+uKeoyELwMfM=
+	, plist[k]=
+	YVk5LJ6i7vOKSDACbDqpWJVCsZDplWsYGwasNYGFKNMcKq7GWoGokGDjs8kIsQNxKm5C
+	AYBFSYMBg27sSEpOlHILdBqCyJO49Mi89RT+cY3xNSJu9dQfC/jb0NP0uOwV+F2uNHkN
+	CmKdayN967UMxS6q0N3zlnN+uKeoyELwMfM=
+	
+Not running from the ApplicationData directory
+Checking the install receipt
+receipt has 0 elements
+Merge Flag set to "True"
+Deleting the upgrade Zip directory "C:\Users\Dell\AppData\Local\GameMaker-Studio\UpgradeZip"
+found --YYGMParams=""
+Starting the Application Data executable "C:\Users\Dell\AppData\Roaming\GameMaker-Studio\GameMaker-Studio.exe" --YYOriginalFilename="C:\Users\Dell\GameMaker-Studio 1.3\GameMaker-Studio.exe" --YYGMParams=""
+Exiting the original application - "C:\Users\Dell\GameMaker-Studio 1.3\GameMaker-Studio.exe"
+------------ GameMaker-Studio 1.4.1804.44013 --------------
+regCurr=SOFTWARE\5tudio\59CAEAA5, k=Addons, entry=AndroidTest.Windows.Windows8.Windows8RT.pro, plist[k]=AndroidTest.Windows.Windows8.Windows8RT.pro
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4, k=Answer, entry=1143136907, plist[k]=1143136907
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE, k=Email, entry=Sajid.sarker@gmail.com, plist[k]=Sajid.sarker@gmail.com
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB, k=License Type, entry=Full, plist[k]=Full
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF, k=Name, entry=Sajid.sarker@gmail.com, plist[k]=Sajid.sarker@gmail.com
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5, k=Pass Phrase, entry=5b2747beb8cbe0149002040ea595a86d, plist[k]=5b2747beb8cbe0149002040ea595a86d
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5\71B4, k=Product, entry=GameMaker:Studio, plist[k]=GameMaker:Studio
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5\71B4\03EE, k=Signature, entry=
+	YVk5LJ6i7vOKSDACbDqpWJVCsZDplWsYGwasNYGFKNMcKq7GWoGokGDjs8kIsQNxKm5C
+	AYBFSYMBg27sSEpOlHILdBqCyJO49Mi89RT+cY3xNSJu9dQfC/jb0NP0uOwV+F2uNHkN
+	CmKdayN967UMxS6q0N3zlnN+uKeoyELwMfM=
+	, plist[k]=
+	YVk5LJ6i7vOKSDACbDqpWJVCsZDplWsYGwasNYGFKNMcKq7GWoGokGDjs8kIsQNxKm5C
+	AYBFSYMBg27sSEpOlHILdBqCyJO49Mi89RT+cY3xNSJu9dQfC/jb0NP0uOwV+F2uNHkN
+	CmKdayN967UMxS6q0N3zlnN+uKeoyELwMfM=
+	
+Starting the ApplicationData executable
+found --YYOriginalFilename=C:\Users\Dell\GameMaker-Studio 1.3\GameMaker-Studio.exe
+Starting process for C:\Users\Dell\AppData\Roaming\GameMaker-Studio\5piceIDE.exe
+found --YYGMParams=""
+urlForUpdate = http://store.yoyogames.com/downloads/gm-studio/update-studio-stable.rss
+update file downloaded numEntries = 1
+FileEntry = Title=Version 1.4.1804, ReleaseNotesUri=http://store.yoyogames.com/downloads/gm-studio/release-notes-studio.html?__yoyo_relnotes=829906074, PubDate=13-03-2018 05:39:04, EnclosureUri=https://updater.yoyogames.com/api/download/original?filename=Original-1.4.1804.zip, EnclosureVersion=1.4.1804, EnclosureType=application/octet-stream, EnclosureLength=82119886, EnclosureSignature=MCwCFHmvVleldPNDz9vR98+SAqW6rQVqAhQd/dtc3tOXVao2FjjjWIhQWCu/Lw==, DeltaSet=System.Collections.Generic.List`1[Updater.SparkleFileEntry], 
+my version number is 1.4.1804.44013 the update version is 1.4.1804
+Not a newer version - ignoring
+urlForUpdate = http://store.yoyogames.com/downloads/gm-studio/update-studio-stable.rss
+update file downloaded numEntries = 1
+FileEntry = Title=Version 1.4.1804, ReleaseNotesUri=http://store.yoyogames.com/downloads/gm-studio/release-notes-studio.html?__yoyo_relnotes=965670737, PubDate=13-03-2018 05:39:04, EnclosureUri=https://updater.yoyogames.com/api/download/original?filename=Original-1.4.1804.zip, EnclosureVersion=1.4.1804, EnclosureType=application/octet-stream, EnclosureLength=82119886, EnclosureSignature=MCwCFHmvVleldPNDz9vR98+SAqW6rQVqAhQd/dtc3tOXVao2FjjjWIhQWCu/Lw==, DeltaSet=System.Collections.Generic.List`1[Updater.SparkleFileEntry], 
+my version number is 1.4.1804.44013 the update version is 1.4.1804
+Not a newer version - ignoring
+urlForUpdate = http://store.yoyogames.com/downloads/gm-studio/update-studio-stable.rss
+update file downloaded numEntries = 1
+FileEntry = Title=Version 1.4.1804, ReleaseNotesUri=http://store.yoyogames.com/downloads/gm-studio/release-notes-studio.html?__yoyo_relnotes=643167284, PubDate=13-03-2018 05:39:04, EnclosureUri=https://updater.yoyogames.com/api/download/original?filename=Original-1.4.1804.zip, EnclosureVersion=1.4.1804, EnclosureType=application/octet-stream, EnclosureLength=82119886, EnclosureSignature=MCwCFHmvVleldPNDz9vR98+SAqW6rQVqAhQd/dtc3tOXVao2FjjjWIhQWCu/Lw==, DeltaSet=System.Collections.Generic.List`1[Updater.SparkleFileEntry], 
+my version number is 1.4.1804.44013 the update version is 1.4.1804
+Not a newer version - ignoring
+urlForUpdate = http://store.yoyogames.com/downloads/gm-studio/update-studio-stable.rss
+update file downloaded numEntries = 1
+FileEntry = Title=Version 1.4.1804, ReleaseNotesUri=http://store.yoyogames.com/downloads/gm-studio/release-notes-studio.html?__yoyo_relnotes=571264862, PubDate=13-03-2018 05:39:04, EnclosureUri=https://updater.yoyogames.com/api/download/original?filename=Original-1.4.1804.zip, EnclosureVersion=1.4.1804, EnclosureType=application/octet-stream, EnclosureLength=82119886, EnclosureSignature=MCwCFHmvVleldPNDz9vR98+SAqW6rQVqAhQd/dtc3tOXVao2FjjjWIhQWCu/Lw==, DeltaSet=System.Collections.Generic.List`1[Updater.SparkleFileEntry], 
+my version number is 1.4.1804.44013 the update version is 1.4.1804
+Not a newer version - ignoring
+urlForUpdate = http://store.yoyogames.com/downloads/gm-studio/update-studio-stable.rss
+update file downloaded numEntries = 1
+FileEntry = Title=Version 1.4.1804, ReleaseNotesUri=http://store.yoyogames.com/downloads/gm-studio/release-notes-studio.html?__yoyo_relnotes=1950151055, PubDate=13-03-2018 05:39:04, EnclosureUri=https://updater.yoyogames.com/api/download/original?filename=Original-1.4.1804.zip, EnclosureVersion=1.4.1804, EnclosureType=application/octet-stream, EnclosureLength=82119886, EnclosureSignature=MCwCFHmvVleldPNDz9vR98+SAqW6rQVqAhQd/dtc3tOXVao2FjjjWIhQWCu/Lw==, DeltaSet=System.Collections.Generic.List`1[Updater.SparkleFileEntry], 
+my version number is 1.4.1804.44013 the update version is 1.4.1804
+Not a newer version - ignoring
+urlForUpdate = http://store.yoyogames.com/downloads/gm-studio/update-studio-stable.rss
+update file downloaded numEntries = 1
+FileEntry = Title=Version 1.4.1804, ReleaseNotesUri=http://store.yoyogames.com/downloads/gm-studio/release-notes-studio.html?__yoyo_relnotes=198039511, PubDate=13-03-2018 05:39:04, EnclosureUri=https://updater.yoyogames.com/api/download/original?filename=Original-1.4.1804.zip, EnclosureVersion=1.4.1804, EnclosureType=application/octet-stream, EnclosureLength=82119886, EnclosureSignature=MCwCFHmvVleldPNDz9vR98+SAqW6rQVqAhQd/dtc3tOXVao2FjjjWIhQWCu/Lw==, DeltaSet=System.Collections.Generic.List`1[Updater.SparkleFileEntry], 
+my version number is 1.4.1804.44013 the update version is 1.4.1804
+Not a newer version - ignoring
+------------ GameMaker-Studio 1.4.1772.42005 --------------
+regCurr=SOFTWARE\5tudio\59CAEAA5, k=Addons, entry=AndroidTest.Windows.Windows8.Windows8RT.pro, plist[k]=AndroidTest.Windows.Windows8.Windows8RT.pro
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4, k=Answer, entry=1143136907, plist[k]=1143136907
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE, k=Email, entry=Sajid.sarker@gmail.com, plist[k]=Sajid.sarker@gmail.com
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB, k=License Type, entry=Full, plist[k]=Full
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF, k=Name, entry=Sajid.sarker@gmail.com, plist[k]=Sajid.sarker@gmail.com
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5, k=Pass Phrase, entry=5b2747beb8cbe0149002040ea595a86d, plist[k]=5b2747beb8cbe0149002040ea595a86d
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5\71B4, k=Product, entry=GameMaker:Studio, plist[k]=GameMaker:Studio
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5\71B4\03EE, k=Signature, entry=
+	YVk5LJ6i7vOKSDACbDqpWJVCsZDplWsYGwasNYGFKNMcKq7GWoGokGDjs8kIsQNxKm5C
+	AYBFSYMBg27sSEpOlHILdBqCyJO49Mi89RT+cY3xNSJu9dQfC/jb0NP0uOwV+F2uNHkN
+	CmKdayN967UMxS6q0N3zlnN+uKeoyELwMfM=
+	, plist[k]=
+	YVk5LJ6i7vOKSDACbDqpWJVCsZDplWsYGwasNYGFKNMcKq7GWoGokGDjs8kIsQNxKm5C
+	AYBFSYMBg27sSEpOlHILdBqCyJO49Mi89RT+cY3xNSJu9dQfC/jb0NP0uOwV+F2uNHkN
+	CmKdayN967UMxS6q0N3zlnN+uKeoyELwMfM=
+	
+Not running from the ApplicationData directory
+Checking the install receipt
+receipt has 0 elements
+Merge Flag set to "True"
+Deleting the upgrade Zip directory "C:\Users\Dell\AppData\Local\GameMaker-Studio\UpgradeZip"
+found --YYGMParams=""
+Starting the Application Data executable "C:\Users\Dell\AppData\Roaming\GameMaker-Studio\GameMaker-Studio.exe" --YYOriginalFilename="C:\Users\Dell\GameMaker-Studio 1.3\GameMaker-Studio.exe" --YYGMParams=""
+Exiting the original application - "C:\Users\Dell\GameMaker-Studio 1.3\GameMaker-Studio.exe"
+------------ GameMaker-Studio 1.4.1804.44013 --------------
+regCurr=SOFTWARE\5tudio\59CAEAA5, k=Addons, entry=AndroidTest.Windows.Windows8.Windows8RT.pro, plist[k]=AndroidTest.Windows.Windows8.Windows8RT.pro
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4, k=Answer, entry=1143136907, plist[k]=1143136907
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE, k=Email, entry=Sajid.sarker@gmail.com, plist[k]=Sajid.sarker@gmail.com
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB, k=License Type, entry=Full, plist[k]=Full
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF, k=Name, entry=Sajid.sarker@gmail.com, plist[k]=Sajid.sarker@gmail.com
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5, k=Pass Phrase, entry=5b2747beb8cbe0149002040ea595a86d, plist[k]=5b2747beb8cbe0149002040ea595a86d
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5\71B4, k=Product, entry=GameMaker:Studio, plist[k]=GameMaker:Studio
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5\71B4\03EE, k=Signature, entry=
+	YVk5LJ6i7vOKSDACbDqpWJVCsZDplWsYGwasNYGFKNMcKq7GWoGokGDjs8kIsQNxKm5C
+	AYBFSYMBg27sSEpOlHILdBqCyJO49Mi89RT+cY3xNSJu9dQfC/jb0NP0uOwV+F2uNHkN
+	CmKdayN967UMxS6q0N3zlnN+uKeoyELwMfM=
+	, plist[k]=
+	YVk5LJ6i7vOKSDACbDqpWJVCsZDplWsYGwasNYGFKNMcKq7GWoGokGDjs8kIsQNxKm5C
+	AYBFSYMBg27sSEpOlHILdBqCyJO49Mi89RT+cY3xNSJu9dQfC/jb0NP0uOwV+F2uNHkN
+	CmKdayN967UMxS6q0N3zlnN+uKeoyELwMfM=
+	
+Starting the ApplicationData executable
+found --YYOriginalFilename=C:\Users\Dell\GameMaker-Studio 1.3\GameMaker-Studio.exe
+Starting process for C:\Users\Dell\AppData\Roaming\GameMaker-Studio\5piceIDE.exe
+found --YYGMParams=""
+urlForUpdate = http://store.yoyogames.com/downloads/gm-studio/update-studio-stable.rss
+update file downloaded numEntries = 1
+FileEntry = Title=Version 1.4.1804, ReleaseNotesUri=http://store.yoyogames.com/downloads/gm-studio/release-notes-studio.html?__yoyo_relnotes=1847139364, PubDate=13-03-2018 05:39:04, EnclosureUri=https://updater.yoyogames.com/api/download/original?filename=Original-1.4.1804.zip, EnclosureVersion=1.4.1804, EnclosureType=application/octet-stream, EnclosureLength=82119886, EnclosureSignature=MCwCFHmvVleldPNDz9vR98+SAqW6rQVqAhQd/dtc3tOXVao2FjjjWIhQWCu/Lw==, DeltaSet=System.Collections.Generic.List`1[Updater.SparkleFileEntry], 
+my version number is 1.4.1804.44013 the update version is 1.4.1804
+Not a newer version - ignoring
+------------ GameMaker-Studio 1.4.1772.42005 --------------
+regCurr=SOFTWARE\5tudio\59CAEAA5, k=Addons, entry=AndroidTest.Windows.Windows8.Windows8RT.pro, plist[k]=AndroidTest.Windows.Windows8.Windows8RT.pro
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4, k=Answer, entry=1143136907, plist[k]=1143136907
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE, k=Email, entry=Sajid.sarker@gmail.com, plist[k]=Sajid.sarker@gmail.com
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB, k=License Type, entry=Full, plist[k]=Full
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF, k=Name, entry=Sajid.sarker@gmail.com, plist[k]=Sajid.sarker@gmail.com
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5, k=Pass Phrase, entry=5b2747beb8cbe0149002040ea595a86d, plist[k]=5b2747beb8cbe0149002040ea595a86d
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5\71B4, k=Product, entry=GameMaker:Studio, plist[k]=GameMaker:Studio
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5\71B4\03EE, k=Signature, entry=
+	YVk5LJ6i7vOKSDACbDqpWJVCsZDplWsYGwasNYGFKNMcKq7GWoGokGDjs8kIsQNxKm5C
+	AYBFSYMBg27sSEpOlHILdBqCyJO49Mi89RT+cY3xNSJu9dQfC/jb0NP0uOwV+F2uNHkN
+	CmKdayN967UMxS6q0N3zlnN+uKeoyELwMfM=
+	, plist[k]=
+	YVk5LJ6i7vOKSDACbDqpWJVCsZDplWsYGwasNYGFKNMcKq7GWoGokGDjs8kIsQNxKm5C
+	AYBFSYMBg27sSEpOlHILdBqCyJO49Mi89RT+cY3xNSJu9dQfC/jb0NP0uOwV+F2uNHkN
+	CmKdayN967UMxS6q0N3zlnN+uKeoyELwMfM=
+	
+Not running from the ApplicationData directory
+Checking the install receipt
+receipt has 0 elements
+Merge Flag set to "True"
+Deleting the upgrade Zip directory "C:\Users\Dell\AppData\Local\GameMaker-Studio\UpgradeZip"
+found --YYGMParams=""
+Starting the Application Data executable "C:\Users\Dell\AppData\Roaming\GameMaker-Studio\GameMaker-Studio.exe" --YYOriginalFilename="C:\Users\Dell\GameMaker-Studio 1.3\GameMaker-Studio.exe" --YYGMParams=""
+Exiting the original application - "C:\Users\Dell\GameMaker-Studio 1.3\GameMaker-Studio.exe"
+------------ GameMaker-Studio 1.4.1804.44013 --------------
+regCurr=SOFTWARE\5tudio\59CAEAA5, k=Addons, entry=AndroidTest.Windows.Windows8.Windows8RT.pro, plist[k]=AndroidTest.Windows.Windows8.Windows8RT.pro
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4, k=Answer, entry=1143136907, plist[k]=1143136907
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE, k=Email, entry=Sajid.sarker@gmail.com, plist[k]=Sajid.sarker@gmail.com
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB, k=License Type, entry=Full, plist[k]=Full
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF, k=Name, entry=Sajid.sarker@gmail.com, plist[k]=Sajid.sarker@gmail.com
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5, k=Pass Phrase, entry=5b2747beb8cbe0149002040ea595a86d, plist[k]=5b2747beb8cbe0149002040ea595a86d
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5\71B4, k=Product, entry=GameMaker:Studio, plist[k]=GameMaker:Studio
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5\71B4\03EE, k=Signature, entry=
+	YVk5LJ6i7vOKSDACbDqpWJVCsZDplWsYGwasNYGFKNMcKq7GWoGokGDjs8kIsQNxKm5C
+	AYBFSYMBg27sSEpOlHILdBqCyJO49Mi89RT+cY3xNSJu9dQfC/jb0NP0uOwV+F2uNHkN
+	CmKdayN967UMxS6q0N3zlnN+uKeoyELwMfM=
+	, plist[k]=
+	YVk5LJ6i7vOKSDACbDqpWJVCsZDplWsYGwasNYGFKNMcKq7GWoGokGDjs8kIsQNxKm5C
+	AYBFSYMBg27sSEpOlHILdBqCyJO49Mi89RT+cY3xNSJu9dQfC/jb0NP0uOwV+F2uNHkN
+	CmKdayN967UMxS6q0N3zlnN+uKeoyELwMfM=
+	
+Starting the ApplicationData executable
+found --YYOriginalFilename=C:\Users\Dell\GameMaker-Studio 1.3\GameMaker-Studio.exe
+Starting process for C:\Users\Dell\AppData\Roaming\GameMaker-Studio\5piceIDE.exe
+found --YYGMParams=""
+urlForUpdate = http://store.yoyogames.com/downloads/gm-studio/update-studio-stable.rss
+update file downloaded numEntries = 1
+FileEntry = Title=Version 1.4.1804, ReleaseNotesUri=http://store.yoyogames.com/downloads/gm-studio/release-notes-studio.html?__yoyo_relnotes=1595806688, PubDate=13-03-2018 05:39:04, EnclosureUri=https://updater.yoyogames.com/api/download/original?filename=Original-1.4.1804.zip, EnclosureVersion=1.4.1804, EnclosureType=application/octet-stream, EnclosureLength=82119886, EnclosureSignature=MCwCFHmvVleldPNDz9vR98+SAqW6rQVqAhQd/dtc3tOXVao2FjjjWIhQWCu/Lw==, DeltaSet=System.Collections.Generic.List`1[Updater.SparkleFileEntry], 
+my version number is 1.4.1804.44013 the update version is 1.4.1804
+Not a newer version - ignoring
+------------ GameMaker-Studio 1.4.1772.42005 --------------
+regCurr=SOFTWARE\5tudio\59CAEAA5, k=Addons, entry=AndroidTest.Windows.Windows8.Windows8RT.pro, plist[k]=AndroidTest.Windows.Windows8.Windows8RT.pro
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4, k=Answer, entry=1143136907, plist[k]=1143136907
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE, k=Email, entry=Sajid.sarker@gmail.com, plist[k]=Sajid.sarker@gmail.com
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB, k=License Type, entry=Full, plist[k]=Full
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF, k=Name, entry=Sajid.sarker@gmail.com, plist[k]=Sajid.sarker@gmail.com
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5, k=Pass Phrase, entry=5b2747beb8cbe0149002040ea595a86d, plist[k]=5b2747beb8cbe0149002040ea595a86d
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5\71B4, k=Product, entry=GameMaker:Studio, plist[k]=GameMaker:Studio
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5\71B4\03EE, k=Signature, entry=
+	YVk5LJ6i7vOKSDACbDqpWJVCsZDplWsYGwasNYGFKNMcKq7GWoGokGDjs8kIsQNxKm5C
+	AYBFSYMBg27sSEpOlHILdBqCyJO49Mi89RT+cY3xNSJu9dQfC/jb0NP0uOwV+F2uNHkN
+	CmKdayN967UMxS6q0N3zlnN+uKeoyELwMfM=
+	, plist[k]=
+	YVk5LJ6i7vOKSDACbDqpWJVCsZDplWsYGwasNYGFKNMcKq7GWoGokGDjs8kIsQNxKm5C
+	AYBFSYMBg27sSEpOlHILdBqCyJO49Mi89RT+cY3xNSJu9dQfC/jb0NP0uOwV+F2uNHkN
+	CmKdayN967UMxS6q0N3zlnN+uKeoyELwMfM=
+	
+Not running from the ApplicationData directory
+Checking the install receipt
+receipt has 0 elements
+Merge Flag set to "True"
+Deleting the upgrade Zip directory "C:\Users\Dell\AppData\Local\GameMaker-Studio\UpgradeZip"
+found --YYGMParams=""
+Starting the Application Data executable "C:\Users\Dell\AppData\Roaming\GameMaker-Studio\GameMaker-Studio.exe" --YYOriginalFilename="C:\Users\Dell\GameMaker-Studio 1.3\GameMaker-Studio.exe" --YYGMParams=""
+Exiting the original application - "C:\Users\Dell\GameMaker-Studio 1.3\GameMaker-Studio.exe"
+------------ GameMaker-Studio 1.4.1804.44013 --------------
+regCurr=SOFTWARE\5tudio\59CAEAA5, k=Addons, entry=AndroidTest.Windows.Windows8.Windows8RT.pro, plist[k]=AndroidTest.Windows.Windows8.Windows8RT.pro
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4, k=Answer, entry=1143136907, plist[k]=1143136907
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE, k=Email, entry=Sajid.sarker@gmail.com, plist[k]=Sajid.sarker@gmail.com
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB, k=License Type, entry=Full, plist[k]=Full
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF, k=Name, entry=Sajid.sarker@gmail.com, plist[k]=Sajid.sarker@gmail.com
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5, k=Pass Phrase, entry=5b2747beb8cbe0149002040ea595a86d, plist[k]=5b2747beb8cbe0149002040ea595a86d
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5\71B4, k=Product, entry=GameMaker:Studio, plist[k]=GameMaker:Studio
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5\71B4\03EE, k=Signature, entry=
+	YVk5LJ6i7vOKSDACbDqpWJVCsZDplWsYGwasNYGFKNMcKq7GWoGokGDjs8kIsQNxKm5C
+	AYBFSYMBg27sSEpOlHILdBqCyJO49Mi89RT+cY3xNSJu9dQfC/jb0NP0uOwV+F2uNHkN
+	CmKdayN967UMxS6q0N3zlnN+uKeoyELwMfM=
+	, plist[k]=
+	YVk5LJ6i7vOKSDACbDqpWJVCsZDplWsYGwasNYGFKNMcKq7GWoGokGDjs8kIsQNxKm5C
+	AYBFSYMBg27sSEpOlHILdBqCyJO49Mi89RT+cY3xNSJu9dQfC/jb0NP0uOwV+F2uNHkN
+	CmKdayN967UMxS6q0N3zlnN+uKeoyELwMfM=
+	
+Starting the ApplicationData executable
+found --YYOriginalFilename=C:\Users\Dell\GameMaker-Studio 1.3\GameMaker-Studio.exe
+Starting process for C:\Users\Dell\AppData\Roaming\GameMaker-Studio\5piceIDE.exe
+found --YYGMParams=""
+urlForUpdate = http://store.yoyogames.com/downloads/gm-studio/update-studio-stable.rss
+update file downloaded numEntries = 1
+FileEntry = Title=Version 1.4.1804, ReleaseNotesUri=http://store.yoyogames.com/downloads/gm-studio/release-notes-studio.html?__yoyo_relnotes=978670316, PubDate=13-03-2018 05:39:04, EnclosureUri=https://updater.yoyogames.com/api/download/original?filename=Original-1.4.1804.zip, EnclosureVersion=1.4.1804, EnclosureType=application/octet-stream, EnclosureLength=82119886, EnclosureSignature=MCwCFHmvVleldPNDz9vR98+SAqW6rQVqAhQd/dtc3tOXVao2FjjjWIhQWCu/Lw==, DeltaSet=System.Collections.Generic.List`1[Updater.SparkleFileEntry], 
+my version number is 1.4.1804.44013 the update version is 1.4.1804
+Not a newer version - ignoring
+------------ GameMaker-Studio 1.4.1772.42005 --------------
+regCurr=SOFTWARE\5tudio\59CAEAA5, k=Addons, entry=AndroidTest.Windows.Windows8.Windows8RT.pro, plist[k]=AndroidTest.Windows.Windows8.Windows8RT.pro
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4, k=Answer, entry=1143136907, plist[k]=1143136907
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE, k=Email, entry=Sajid.sarker@gmail.com, plist[k]=Sajid.sarker@gmail.com
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB, k=License Type, entry=Full, plist[k]=Full
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF, k=Name, entry=Sajid.sarker@gmail.com, plist[k]=Sajid.sarker@gmail.com
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5, k=Pass Phrase, entry=5b2747beb8cbe0149002040ea595a86d, plist[k]=5b2747beb8cbe0149002040ea595a86d
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5\71B4, k=Product, entry=GameMaker:Studio, plist[k]=GameMaker:Studio
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5\71B4\03EE, k=Signature, entry=
+	YVk5LJ6i7vOKSDACbDqpWJVCsZDplWsYGwasNYGFKNMcKq7GWoGokGDjs8kIsQNxKm5C
+	AYBFSYMBg27sSEpOlHILdBqCyJO49Mi89RT+cY3xNSJu9dQfC/jb0NP0uOwV+F2uNHkN
+	CmKdayN967UMxS6q0N3zlnN+uKeoyELwMfM=
+	, plist[k]=
+	YVk5LJ6i7vOKSDACbDqpWJVCsZDplWsYGwasNYGFKNMcKq7GWoGokGDjs8kIsQNxKm5C
+	AYBFSYMBg27sSEpOlHILdBqCyJO49Mi89RT+cY3xNSJu9dQfC/jb0NP0uOwV+F2uNHkN
+	CmKdayN967UMxS6q0N3zlnN+uKeoyELwMfM=
+	
+Not running from the ApplicationData directory
+Checking the install receipt
+receipt has 0 elements
+Merge Flag set to "True"
+Deleting the upgrade Zip directory "C:\Users\Dell\AppData\Local\GameMaker-Studio\UpgradeZip"
+found --YYGMParams=""
+Starting the Application Data executable "C:\Users\Dell\AppData\Roaming\GameMaker-Studio\GameMaker-Studio.exe" --YYOriginalFilename="C:\Users\Dell\GameMaker-Studio 1.3\GameMaker-Studio.exe" --YYGMParams=""
+Exiting the original application - "C:\Users\Dell\GameMaker-Studio 1.3\GameMaker-Studio.exe"
+------------ GameMaker-Studio 1.4.1804.44013 --------------
+regCurr=SOFTWARE\5tudio\59CAEAA5, k=Addons, entry=AndroidTest.Windows.Windows8.Windows8RT.pro, plist[k]=AndroidTest.Windows.Windows8.Windows8RT.pro
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4, k=Answer, entry=1143136907, plist[k]=1143136907
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE, k=Email, entry=Sajid.sarker@gmail.com, plist[k]=Sajid.sarker@gmail.com
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB, k=License Type, entry=Full, plist[k]=Full
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF, k=Name, entry=Sajid.sarker@gmail.com, plist[k]=Sajid.sarker@gmail.com
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5, k=Pass Phrase, entry=5b2747beb8cbe0149002040ea595a86d, plist[k]=5b2747beb8cbe0149002040ea595a86d
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5\71B4, k=Product, entry=GameMaker:Studio, plist[k]=GameMaker:Studio
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5\71B4\03EE, k=Signature, entry=
+	YVk5LJ6i7vOKSDACbDqpWJVCsZDplWsYGwasNYGFKNMcKq7GWoGokGDjs8kIsQNxKm5C
+	AYBFSYMBg27sSEpOlHILdBqCyJO49Mi89RT+cY3xNSJu9dQfC/jb0NP0uOwV+F2uNHkN
+	CmKdayN967UMxS6q0N3zlnN+uKeoyELwMfM=
+	, plist[k]=
+	YVk5LJ6i7vOKSDACbDqpWJVCsZDplWsYGwasNYGFKNMcKq7GWoGokGDjs8kIsQNxKm5C
+	AYBFSYMBg27sSEpOlHILdBqCyJO49Mi89RT+cY3xNSJu9dQfC/jb0NP0uOwV+F2uNHkN
+	CmKdayN967UMxS6q0N3zlnN+uKeoyELwMfM=
+	
+Starting the ApplicationData executable
+found --YYOriginalFilename=C:\Users\Dell\GameMaker-Studio 1.3\GameMaker-Studio.exe
+Starting process for C:\Users\Dell\AppData\Roaming\GameMaker-Studio\5piceIDE.exe
+found --YYGMParams=""
+urlForUpdate = http://store.yoyogames.com/downloads/gm-studio/update-studio-stable.rss
+update file downloaded numEntries = 1
+FileEntry = Title=Version 1.4.1804, ReleaseNotesUri=http://store.yoyogames.com/downloads/gm-studio/release-notes-studio.html?__yoyo_relnotes=264270238, PubDate=13-03-2018 05:39:04, EnclosureUri=https://updater.yoyogames.com/api/download/original?filename=Original-1.4.1804.zip, EnclosureVersion=1.4.1804, EnclosureType=application/octet-stream, EnclosureLength=82119886, EnclosureSignature=MCwCFHmvVleldPNDz9vR98+SAqW6rQVqAhQd/dtc3tOXVao2FjjjWIhQWCu/Lw==, DeltaSet=System.Collections.Generic.List`1[Updater.SparkleFileEntry], 
+my version number is 1.4.1804.44013 the update version is 1.4.1804
+Not a newer version - ignoring
+------------ GameMaker-Studio 1.4.1772.42005 --------------
+regCurr=SOFTWARE\5tudio\59CAEAA5, k=Addons, entry=AndroidTest.Windows.Windows8.Windows8RT.pro, plist[k]=AndroidTest.Windows.Windows8.Windows8RT.pro
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4, k=Answer, entry=1143136907, plist[k]=1143136907
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE, k=Email, entry=Sajid.sarker@gmail.com, plist[k]=Sajid.sarker@gmail.com
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB, k=License Type, entry=Full, plist[k]=Full
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF, k=Name, entry=Sajid.sarker@gmail.com, plist[k]=Sajid.sarker@gmail.com
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5, k=Pass Phrase, entry=5b2747beb8cbe0149002040ea595a86d, plist[k]=5b2747beb8cbe0149002040ea595a86d
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5\71B4, k=Product, entry=GameMaker:Studio, plist[k]=GameMaker:Studio
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5\71B4\03EE, k=Signature, entry=
+	YVk5LJ6i7vOKSDACbDqpWJVCsZDplWsYGwasNYGFKNMcKq7GWoGokGDjs8kIsQNxKm5C
+	AYBFSYMBg27sSEpOlHILdBqCyJO49Mi89RT+cY3xNSJu9dQfC/jb0NP0uOwV+F2uNHkN
+	CmKdayN967UMxS6q0N3zlnN+uKeoyELwMfM=
+	, plist[k]=
+	YVk5LJ6i7vOKSDACbDqpWJVCsZDplWsYGwasNYGFKNMcKq7GWoGokGDjs8kIsQNxKm5C
+	AYBFSYMBg27sSEpOlHILdBqCyJO49Mi89RT+cY3xNSJu9dQfC/jb0NP0uOwV+F2uNHkN
+	CmKdayN967UMxS6q0N3zlnN+uKeoyELwMfM=
+	
+Not running from the ApplicationData directory
+Checking the install receipt
+receipt has 0 elements
+Merge Flag set to "True"
+Deleting the upgrade Zip directory "C:\Users\Dell\AppData\Local\GameMaker-Studio\UpgradeZip"
+found --YYGMParams=""
+Starting the Application Data executable "C:\Users\Dell\AppData\Roaming\GameMaker-Studio\GameMaker-Studio.exe" --YYOriginalFilename="C:\Users\Dell\GameMaker-Studio 1.3\GameMaker-Studio.exe" --YYGMParams=""
+Exiting the original application - "C:\Users\Dell\GameMaker-Studio 1.3\GameMaker-Studio.exe"
+------------ GameMaker-Studio 1.4.1804.44013 --------------
+regCurr=SOFTWARE\5tudio\59CAEAA5, k=Addons, entry=AndroidTest.Windows.Windows8.Windows8RT.pro, plist[k]=AndroidTest.Windows.Windows8.Windows8RT.pro
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4, k=Answer, entry=1143136907, plist[k]=1143136907
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE, k=Email, entry=Sajid.sarker@gmail.com, plist[k]=Sajid.sarker@gmail.com
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB, k=License Type, entry=Full, plist[k]=Full
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF, k=Name, entry=Sajid.sarker@gmail.com, plist[k]=Sajid.sarker@gmail.com
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5, k=Pass Phrase, entry=5b2747beb8cbe0149002040ea595a86d, plist[k]=5b2747beb8cbe0149002040ea595a86d
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5\71B4, k=Product, entry=GameMaker:Studio, plist[k]=GameMaker:Studio
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5\71B4\03EE, k=Signature, entry=
+	YVk5LJ6i7vOKSDACbDqpWJVCsZDplWsYGwasNYGFKNMcKq7GWoGokGDjs8kIsQNxKm5C
+	AYBFSYMBg27sSEpOlHILdBqCyJO49Mi89RT+cY3xNSJu9dQfC/jb0NP0uOwV+F2uNHkN
+	CmKdayN967UMxS6q0N3zlnN+uKeoyELwMfM=
+	, plist[k]=
+	YVk5LJ6i7vOKSDACbDqpWJVCsZDplWsYGwasNYGFKNMcKq7GWoGokGDjs8kIsQNxKm5C
+	AYBFSYMBg27sSEpOlHILdBqCyJO49Mi89RT+cY3xNSJu9dQfC/jb0NP0uOwV+F2uNHkN
+	CmKdayN967UMxS6q0N3zlnN+uKeoyELwMfM=
+	
+Starting the ApplicationData executable
+found --YYOriginalFilename=C:\Users\Dell\GameMaker-Studio 1.3\GameMaker-Studio.exe
+Starting process for C:\Users\Dell\AppData\Roaming\GameMaker-Studio\5piceIDE.exe
+found --YYGMParams=""
+urlForUpdate = http://store.yoyogames.com/downloads/gm-studio/update-studio-stable.rss
+update file downloaded numEntries = 1
+FileEntry = Title=Version 1.4.1804, ReleaseNotesUri=http://store.yoyogames.com/downloads/gm-studio/release-notes-studio.html?__yoyo_relnotes=546575271, PubDate=13-03-2018 05:39:04, EnclosureUri=https://updater.yoyogames.com/api/download/original?filename=Original-1.4.1804.zip, EnclosureVersion=1.4.1804, EnclosureType=application/octet-stream, EnclosureLength=82119886, EnclosureSignature=MCwCFHmvVleldPNDz9vR98+SAqW6rQVqAhQd/dtc3tOXVao2FjjjWIhQWCu/Lw==, DeltaSet=System.Collections.Generic.List`1[Updater.SparkleFileEntry], 
+my version number is 1.4.1804.44013 the update version is 1.4.1804
+Not a newer version - ignoring
+urlForUpdate = http://store.yoyogames.com/downloads/gm-studio/update-studio-stable.rss
+urlForUpdate = http://store.yoyogames.com/downloads/gm-studio/update-studio-stable.rss
+update file downloaded numEntries = 1
+FileEntry = Title=Version 1.4.1804, ReleaseNotesUri=http://store.yoyogames.com/downloads/gm-studio/release-notes-studio.html?__yoyo_relnotes=1976158556, PubDate=13-03-2018 05:39:04, EnclosureUri=https://updater.yoyogames.com/api/download/original?filename=Original-1.4.1804.zip, EnclosureVersion=1.4.1804, EnclosureType=application/octet-stream, EnclosureLength=82119886, EnclosureSignature=MCwCFHmvVleldPNDz9vR98+SAqW6rQVqAhQd/dtc3tOXVao2FjjjWIhQWCu/Lw==, DeltaSet=System.Collections.Generic.List`1[Updater.SparkleFileEntry], 
+my version number is 1.4.1804.44013 the update version is 1.4.1804
+Not a newer version - ignoring
+System.Net.WebException: The remote name could not be resolved: 'store.yoyogames.com'
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadData(Uri address)
+   at Updater.SparkleDefaultHTTPUpdateDriver.DownloadUpdateFile(SparkleUpdate _update, String _urlforUpdate)
+urlForUpdate = http://store.yoyogames.com/downloads/gm-studio/update-studio-stable.rss
+update file downloaded numEntries = 1
+FileEntry = Title=Version 1.4.1804, ReleaseNotesUri=http://store.yoyogames.com/downloads/gm-studio/release-notes-studio.html?__yoyo_relnotes=3573795, PubDate=13-03-2018 05:39:04, EnclosureUri=https://updater.yoyogames.com/api/download/original?filename=Original-1.4.1804.zip, EnclosureVersion=1.4.1804, EnclosureType=application/octet-stream, EnclosureLength=82119886, EnclosureSignature=MCwCFHmvVleldPNDz9vR98+SAqW6rQVqAhQd/dtc3tOXVao2FjjjWIhQWCu/Lw==, DeltaSet=System.Collections.Generic.List`1[Updater.SparkleFileEntry], 
+my version number is 1.4.1804.44013 the update version is 1.4.1804
+Not a newer version - ignoring
+------------ GameMaker-Studio 1.4.1772.42005 --------------
+regCurr=SOFTWARE\5tudio\59CAEAA5, k=Addons, entry=AndroidTest.Windows.Windows8.Windows8RT.pro, plist[k]=AndroidTest.Windows.Windows8.Windows8RT.pro
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4, k=Answer, entry=1143136907, plist[k]=1143136907
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE, k=Email, entry=Sajid.sarker@gmail.com, plist[k]=Sajid.sarker@gmail.com
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB, k=License Type, entry=Full, plist[k]=Full
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF, k=Name, entry=Sajid.sarker@gmail.com, plist[k]=Sajid.sarker@gmail.com
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5, k=Pass Phrase, entry=5b2747beb8cbe0149002040ea595a86d, plist[k]=5b2747beb8cbe0149002040ea595a86d
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5\71B4, k=Product, entry=GameMaker:Studio, plist[k]=GameMaker:Studio
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5\71B4\03EE, k=Signature, entry=
+	YVk5LJ6i7vOKSDACbDqpWJVCsZDplWsYGwasNYGFKNMcKq7GWoGokGDjs8kIsQNxKm5C
+	AYBFSYMBg27sSEpOlHILdBqCyJO49Mi89RT+cY3xNSJu9dQfC/jb0NP0uOwV+F2uNHkN
+	CmKdayN967UMxS6q0N3zlnN+uKeoyELwMfM=
+	, plist[k]=
+	YVk5LJ6i7vOKSDACbDqpWJVCsZDplWsYGwasNYGFKNMcKq7GWoGokGDjs8kIsQNxKm5C
+	AYBFSYMBg27sSEpOlHILdBqCyJO49Mi89RT+cY3xNSJu9dQfC/jb0NP0uOwV+F2uNHkN
+	CmKdayN967UMxS6q0N3zlnN+uKeoyELwMfM=
+	
+Not running from the ApplicationData directory
+Checking the install receipt
+receipt has 0 elements
+Merge Flag set to "True"
+Deleting the upgrade Zip directory "C:\Users\Dell\AppData\Local\GameMaker-Studio\UpgradeZip"
+found --YYGMParams=""
+Starting the Application Data executable "C:\Users\Dell\AppData\Roaming\GameMaker-Studio\GameMaker-Studio.exe" --YYOriginalFilename="C:\Users\Dell\GameMaker-Studio 1.3\GameMaker-Studio.exe" --YYGMParams=""
+Exiting the original application - "C:\Users\Dell\GameMaker-Studio 1.3\GameMaker-Studio.exe"
+------------ GameMaker-Studio 1.4.1804.44013 --------------
+regCurr=SOFTWARE\5tudio\59CAEAA5, k=Addons, entry=AndroidTest.Windows.Windows8.Windows8RT.pro, plist[k]=AndroidTest.Windows.Windows8.Windows8RT.pro
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4, k=Answer, entry=1143136907, plist[k]=1143136907
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE, k=Email, entry=Sajid.sarker@gmail.com, plist[k]=Sajid.sarker@gmail.com
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB, k=License Type, entry=Full, plist[k]=Full
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF, k=Name, entry=Sajid.sarker@gmail.com, plist[k]=Sajid.sarker@gmail.com
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5, k=Pass Phrase, entry=5b2747beb8cbe0149002040ea595a86d, plist[k]=5b2747beb8cbe0149002040ea595a86d
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5\71B4, k=Product, entry=GameMaker:Studio, plist[k]=GameMaker:Studio
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5\71B4\03EE, k=Signature, entry=
+	YVk5LJ6i7vOKSDACbDqpWJVCsZDplWsYGwasNYGFKNMcKq7GWoGokGDjs8kIsQNxKm5C
+	AYBFSYMBg27sSEpOlHILdBqCyJO49Mi89RT+cY3xNSJu9dQfC/jb0NP0uOwV+F2uNHkN
+	CmKdayN967UMxS6q0N3zlnN+uKeoyELwMfM=
+	, plist[k]=
+	YVk5LJ6i7vOKSDACbDqpWJVCsZDplWsYGwasNYGFKNMcKq7GWoGokGDjs8kIsQNxKm5C
+	AYBFSYMBg27sSEpOlHILdBqCyJO49Mi89RT+cY3xNSJu9dQfC/jb0NP0uOwV+F2uNHkN
+	CmKdayN967UMxS6q0N3zlnN+uKeoyELwMfM=
+	
+Starting the ApplicationData executable
+found --YYOriginalFilename=C:\Users\Dell\GameMaker-Studio 1.3\GameMaker-Studio.exe
+Starting process for C:\Users\Dell\AppData\Roaming\GameMaker-Studio\5piceIDE.exe
+found --YYGMParams=""
+urlForUpdate = http://store.yoyogames.com/downloads/gm-studio/update-studio-stable.rss
+update file downloaded numEntries = 1
+FileEntry = Title=Version 1.4.1804, ReleaseNotesUri=http://store.yoyogames.com/downloads/gm-studio/release-notes-studio.html?__yoyo_relnotes=768269749, PubDate=13-03-2018 05:39:04, EnclosureUri=https://updater.yoyogames.com/api/download/original?filename=Original-1.4.1804.zip, EnclosureVersion=1.4.1804, EnclosureType=application/octet-stream, EnclosureLength=82119886, EnclosureSignature=MCwCFHmvVleldPNDz9vR98+SAqW6rQVqAhQd/dtc3tOXVao2FjjjWIhQWCu/Lw==, DeltaSet=System.Collections.Generic.List`1[Updater.SparkleFileEntry], 
+my version number is 1.4.1804.44013 the update version is 1.4.1804
+Not a newer version - ignoring
+------------ GameMaker-Studio 1.4.1772.42005 --------------
+regCurr=SOFTWARE\5tudio\59CAEAA5, k=Addons, entry=AndroidTest.Windows.Windows8.Windows8RT.pro, plist[k]=AndroidTest.Windows.Windows8.Windows8RT.pro
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4, k=Answer, entry=1143136907, plist[k]=1143136907
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE, k=Email, entry=Sajid.sarker@gmail.com, plist[k]=Sajid.sarker@gmail.com
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB, k=License Type, entry=Full, plist[k]=Full
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF, k=Name, entry=Sajid.sarker@gmail.com, plist[k]=Sajid.sarker@gmail.com
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5, k=Pass Phrase, entry=5b2747beb8cbe0149002040ea595a86d, plist[k]=5b2747beb8cbe0149002040ea595a86d
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5\71B4, k=Product, entry=GameMaker:Studio, plist[k]=GameMaker:Studio
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5\71B4\03EE, k=Signature, entry=
+	YVk5LJ6i7vOKSDACbDqpWJVCsZDplWsYGwasNYGFKNMcKq7GWoGokGDjs8kIsQNxKm5C
+	AYBFSYMBg27sSEpOlHILdBqCyJO49Mi89RT+cY3xNSJu9dQfC/jb0NP0uOwV+F2uNHkN
+	CmKdayN967UMxS6q0N3zlnN+uKeoyELwMfM=
+	, plist[k]=
+	YVk5LJ6i7vOKSDACbDqpWJVCsZDplWsYGwasNYGFKNMcKq7GWoGokGDjs8kIsQNxKm5C
+	AYBFSYMBg27sSEpOlHILdBqCyJO49Mi89RT+cY3xNSJu9dQfC/jb0NP0uOwV+F2uNHkN
+	CmKdayN967UMxS6q0N3zlnN+uKeoyELwMfM=
+	
+Not running from the ApplicationData directory
+Checking the install receipt
+receipt has 0 elements
+Merge Flag set to "True"
+Deleting the upgrade Zip directory "C:\Users\Dell\AppData\Local\GameMaker-Studio\UpgradeZip"
+found --YYGMParams=""
+Starting the Application Data executable "C:\Users\Dell\AppData\Roaming\GameMaker-Studio\GameMaker-Studio.exe" --YYOriginalFilename="C:\Users\Dell\GameMaker-Studio 1.3\GameMaker-Studio.exe" --YYGMParams=""
+Exiting the original application - "C:\Users\Dell\GameMaker-Studio 1.3\GameMaker-Studio.exe"
+------------ GameMaker-Studio 1.4.1804.44013 --------------
+regCurr=SOFTWARE\5tudio\59CAEAA5, k=Addons, entry=AndroidTest.Windows.Windows8.Windows8RT.pro, plist[k]=AndroidTest.Windows.Windows8.Windows8RT.pro
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4, k=Answer, entry=1143136907, plist[k]=1143136907
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE, k=Email, entry=Sajid.sarker@gmail.com, plist[k]=Sajid.sarker@gmail.com
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB, k=License Type, entry=Full, plist[k]=Full
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF, k=Name, entry=Sajid.sarker@gmail.com, plist[k]=Sajid.sarker@gmail.com
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5, k=Pass Phrase, entry=5b2747beb8cbe0149002040ea595a86d, plist[k]=5b2747beb8cbe0149002040ea595a86d
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5\71B4, k=Product, entry=GameMaker:Studio, plist[k]=GameMaker:Studio
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5\71B4\03EE, k=Signature, entry=
+	YVk5LJ6i7vOKSDACbDqpWJVCsZDplWsYGwasNYGFKNMcKq7GWoGokGDjs8kIsQNxKm5C
+	AYBFSYMBg27sSEpOlHILdBqCyJO49Mi89RT+cY3xNSJu9dQfC/jb0NP0uOwV+F2uNHkN
+	CmKdayN967UMxS6q0N3zlnN+uKeoyELwMfM=
+	, plist[k]=
+	YVk5LJ6i7vOKSDACbDqpWJVCsZDplWsYGwasNYGFKNMcKq7GWoGokGDjs8kIsQNxKm5C
+	AYBFSYMBg27sSEpOlHILdBqCyJO49Mi89RT+cY3xNSJu9dQfC/jb0NP0uOwV+F2uNHkN
+	CmKdayN967UMxS6q0N3zlnN+uKeoyELwMfM=
+	
+Starting the ApplicationData executable
+found --YYOriginalFilename=C:\Users\Dell\GameMaker-Studio 1.3\GameMaker-Studio.exe
+Starting process for C:\Users\Dell\AppData\Roaming\GameMaker-Studio\5piceIDE.exe
+found --YYGMParams=""
+urlForUpdate = http://store.yoyogames.com/downloads/gm-studio/update-studio-stable.rss
+update file downloaded numEntries = 1
+FileEntry = Title=Version 1.4.1804, ReleaseNotesUri=http://store.yoyogames.com/downloads/gm-studio/release-notes-studio.html?__yoyo_relnotes=25900519, PubDate=13-03-2018 05:39:04, EnclosureUri=https://updater.yoyogames.com/api/download/original?filename=Original-1.4.1804.zip, EnclosureVersion=1.4.1804, EnclosureType=application/octet-stream, EnclosureLength=82119886, EnclosureSignature=MCwCFHmvVleldPNDz9vR98+SAqW6rQVqAhQd/dtc3tOXVao2FjjjWIhQWCu/Lw==, DeltaSet=System.Collections.Generic.List`1[Updater.SparkleFileEntry], 
+my version number is 1.4.1804.44013 the update version is 1.4.1804
+Not a newer version - ignoring
+------------ GameMaker-Studio 1.4.1772.42005 --------------
+regCurr=SOFTWARE\5tudio\59CAEAA5, k=Addons, entry=AndroidTest.Windows.Windows8.Windows8RT.pro, plist[k]=AndroidTest.Windows.Windows8.Windows8RT.pro
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4, k=Answer, entry=1143136907, plist[k]=1143136907
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE, k=Email, entry=Sajid.sarker@gmail.com, plist[k]=Sajid.sarker@gmail.com
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB, k=License Type, entry=Full, plist[k]=Full
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF, k=Name, entry=Sajid.sarker@gmail.com, plist[k]=Sajid.sarker@gmail.com
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5, k=Pass Phrase, entry=5b2747beb8cbe0149002040ea595a86d, plist[k]=5b2747beb8cbe0149002040ea595a86d
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5\71B4, k=Product, entry=GameMaker:Studio, plist[k]=GameMaker:Studio
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5\71B4\03EE, k=Signature, entry=
+	YVk5LJ6i7vOKSDACbDqpWJVCsZDplWsYGwasNYGFKNMcKq7GWoGokGDjs8kIsQNxKm5C
+	AYBFSYMBg27sSEpOlHILdBqCyJO49Mi89RT+cY3xNSJu9dQfC/jb0NP0uOwV+F2uNHkN
+	CmKdayN967UMxS6q0N3zlnN+uKeoyELwMfM=
+	, plist[k]=
+	YVk5LJ6i7vOKSDACbDqpWJVCsZDplWsYGwasNYGFKNMcKq7GWoGokGDjs8kIsQNxKm5C
+	AYBFSYMBg27sSEpOlHILdBqCyJO49Mi89RT+cY3xNSJu9dQfC/jb0NP0uOwV+F2uNHkN
+	CmKdayN967UMxS6q0N3zlnN+uKeoyELwMfM=
+	
+Not running from the ApplicationData directory
+Checking the install receipt
+receipt has 0 elements
+Merge Flag set to "True"
+Deleting the upgrade Zip directory "C:\Users\Dell\AppData\Local\GameMaker-Studio\UpgradeZip"
+found --YYGMParams=""
+Starting the Application Data executable "C:\Users\Dell\AppData\Roaming\GameMaker-Studio\GameMaker-Studio.exe" --YYOriginalFilename="C:\Users\Dell\GameMaker-Studio 1.3\GameMaker-Studio.exe" --YYGMParams=""
+Exiting the original application - "C:\Users\Dell\GameMaker-Studio 1.3\GameMaker-Studio.exe"
+------------ GameMaker-Studio 1.4.1804.44013 --------------
+regCurr=SOFTWARE\5tudio\59CAEAA5, k=Addons, entry=AndroidTest.Windows.Windows8.Windows8RT.pro, plist[k]=AndroidTest.Windows.Windows8.Windows8RT.pro
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4, k=Answer, entry=1143136907, plist[k]=1143136907
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE, k=Email, entry=Sajid.sarker@gmail.com, plist[k]=Sajid.sarker@gmail.com
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB, k=License Type, entry=Full, plist[k]=Full
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF, k=Name, entry=Sajid.sarker@gmail.com, plist[k]=Sajid.sarker@gmail.com
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5, k=Pass Phrase, entry=5b2747beb8cbe0149002040ea595a86d, plist[k]=5b2747beb8cbe0149002040ea595a86d
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5\71B4, k=Product, entry=GameMaker:Studio, plist[k]=GameMaker:Studio
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5\71B4\03EE, k=Signature, entry=
+	YVk5LJ6i7vOKSDACbDqpWJVCsZDplWsYGwasNYGFKNMcKq7GWoGokGDjs8kIsQNxKm5C
+	AYBFSYMBg27sSEpOlHILdBqCyJO49Mi89RT+cY3xNSJu9dQfC/jb0NP0uOwV+F2uNHkN
+	CmKdayN967UMxS6q0N3zlnN+uKeoyELwMfM=
+	, plist[k]=
+	YVk5LJ6i7vOKSDACbDqpWJVCsZDplWsYGwasNYGFKNMcKq7GWoGokGDjs8kIsQNxKm5C
+	AYBFSYMBg27sSEpOlHILdBqCyJO49Mi89RT+cY3xNSJu9dQfC/jb0NP0uOwV+F2uNHkN
+	CmKdayN967UMxS6q0N3zlnN+uKeoyELwMfM=
+	
+Starting the ApplicationData executable
+found --YYOriginalFilename=C:\Users\Dell\GameMaker-Studio 1.3\GameMaker-Studio.exe
+Starting process for C:\Users\Dell\AppData\Roaming\GameMaker-Studio\5piceIDE.exe
+found --YYGMParams=""
+urlForUpdate = http://store.yoyogames.com/downloads/gm-studio/update-studio-stable.rss
+update file downloaded numEntries = 1
+FileEntry = Title=Version 1.4.1804, ReleaseNotesUri=http://store.yoyogames.com/downloads/gm-studio/release-notes-studio.html?__yoyo_relnotes=1956855822, PubDate=13-03-2018 05:39:04, EnclosureUri=https://updater.yoyogames.com/api/download/original?filename=Original-1.4.1804.zip, EnclosureVersion=1.4.1804, EnclosureType=application/octet-stream, EnclosureLength=82119886, EnclosureSignature=MCwCFHmvVleldPNDz9vR98+SAqW6rQVqAhQd/dtc3tOXVao2FjjjWIhQWCu/Lw==, DeltaSet=System.Collections.Generic.List`1[Updater.SparkleFileEntry], 
+my version number is 1.4.1804.44013 the update version is 1.4.1804
+Not a newer version - ignoring
+------------ GameMaker-Studio 1.4.1772.42005 --------------
+regCurr=SOFTWARE\5tudio\59CAEAA5, k=Addons, entry=AndroidTest.Windows.Windows8.Windows8RT.pro, plist[k]=AndroidTest.Windows.Windows8.Windows8RT.pro
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4, k=Answer, entry=1143136907, plist[k]=1143136907
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE, k=Email, entry=Sajid.sarker@gmail.com, plist[k]=Sajid.sarker@gmail.com
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB, k=License Type, entry=Full, plist[k]=Full
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF, k=Name, entry=Sajid.sarker@gmail.com, plist[k]=Sajid.sarker@gmail.com
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5, k=Pass Phrase, entry=5b2747beb8cbe0149002040ea595a86d, plist[k]=5b2747beb8cbe0149002040ea595a86d
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5\71B4, k=Product, entry=GameMaker:Studio, plist[k]=GameMaker:Studio
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5\71B4\03EE, k=Signature, entry=
+	YVk5LJ6i7vOKSDACbDqpWJVCsZDplWsYGwasNYGFKNMcKq7GWoGokGDjs8kIsQNxKm5C
+	AYBFSYMBg27sSEpOlHILdBqCyJO49Mi89RT+cY3xNSJu9dQfC/jb0NP0uOwV+F2uNHkN
+	CmKdayN967UMxS6q0N3zlnN+uKeoyELwMfM=
+	, plist[k]=
+	YVk5LJ6i7vOKSDACbDqpWJVCsZDplWsYGwasNYGFKNMcKq7GWoGokGDjs8kIsQNxKm5C
+	AYBFSYMBg27sSEpOlHILdBqCyJO49Mi89RT+cY3xNSJu9dQfC/jb0NP0uOwV+F2uNHkN
+	CmKdayN967UMxS6q0N3zlnN+uKeoyELwMfM=
+	
+Not running from the ApplicationData directory
+Checking the install receipt
+receipt has 0 elements
+Merge Flag set to "True"
+Deleting the upgrade Zip directory "C:\Users\Dell\AppData\Local\GameMaker-Studio\UpgradeZip"
+found --YYGMParams=""
+Starting the Application Data executable "C:\Users\Dell\AppData\Roaming\GameMaker-Studio\GameMaker-Studio.exe" --YYOriginalFilename="C:\Users\Dell\GameMaker-Studio 1.3\GameMaker-Studio.exe" --YYGMParams=""
+Exiting the original application - "C:\Users\Dell\GameMaker-Studio 1.3\GameMaker-Studio.exe"
+------------ GameMaker-Studio 1.4.1804.44013 --------------
+regCurr=SOFTWARE\5tudio\59CAEAA5, k=Addons, entry=AndroidTest.Windows.Windows8.Windows8RT.pro, plist[k]=AndroidTest.Windows.Windows8.Windows8RT.pro
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4, k=Answer, entry=1143136907, plist[k]=1143136907
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE, k=Email, entry=Sajid.sarker@gmail.com, plist[k]=Sajid.sarker@gmail.com
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB, k=License Type, entry=Full, plist[k]=Full
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF, k=Name, entry=Sajid.sarker@gmail.com, plist[k]=Sajid.sarker@gmail.com
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5, k=Pass Phrase, entry=5b2747beb8cbe0149002040ea595a86d, plist[k]=5b2747beb8cbe0149002040ea595a86d
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5\71B4, k=Product, entry=GameMaker:Studio, plist[k]=GameMaker:Studio
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5\71B4\03EE, k=Signature, entry=
+	YVk5LJ6i7vOKSDACbDqpWJVCsZDplWsYGwasNYGFKNMcKq7GWoGokGDjs8kIsQNxKm5C
+	AYBFSYMBg27sSEpOlHILdBqCyJO49Mi89RT+cY3xNSJu9dQfC/jb0NP0uOwV+F2uNHkN
+	CmKdayN967UMxS6q0N3zlnN+uKeoyELwMfM=
+	, plist[k]=
+	YVk5LJ6i7vOKSDACbDqpWJVCsZDplWsYGwasNYGFKNMcKq7GWoGokGDjs8kIsQNxKm5C
+	AYBFSYMBg27sSEpOlHILdBqCyJO49Mi89RT+cY3xNSJu9dQfC/jb0NP0uOwV+F2uNHkN
+	CmKdayN967UMxS6q0N3zlnN+uKeoyELwMfM=
+	
+Starting the ApplicationData executable
+found --YYOriginalFilename=C:\Users\Dell\GameMaker-Studio 1.3\GameMaker-Studio.exe
+Starting process for C:\Users\Dell\AppData\Roaming\GameMaker-Studio\5piceIDE.exe
+found --YYGMParams=""
+urlForUpdate = http://store.yoyogames.com/downloads/gm-studio/update-studio-stable.rss
+update file downloaded numEntries = 1
+FileEntry = Title=Version 1.4.1804, ReleaseNotesUri=http://store.yoyogames.com/downloads/gm-studio/release-notes-studio.html?__yoyo_relnotes=1549845183, PubDate=13-03-2018 05:39:04, EnclosureUri=https://updater.yoyogames.com/api/download/original?filename=Original-1.4.1804.zip, EnclosureVersion=1.4.1804, EnclosureType=application/octet-stream, EnclosureLength=82119886, EnclosureSignature=MCwCFHmvVleldPNDz9vR98+SAqW6rQVqAhQd/dtc3tOXVao2FjjjWIhQWCu/Lw==, DeltaSet=System.Collections.Generic.List`1[Updater.SparkleFileEntry], 
+my version number is 1.4.1804.44013 the update version is 1.4.1804
+Not a newer version - ignoring
+urlForUpdate = http://store.yoyogames.com/downloads/gm-studio/update-studio-stable.rss
+update file downloaded numEntries = 1
+FileEntry = Title=Version 1.4.1804, ReleaseNotesUri=http://store.yoyogames.com/downloads/gm-studio/release-notes-studio.html?__yoyo_relnotes=2062822318, PubDate=13-03-2018 05:39:04, EnclosureUri=https://updater.yoyogames.com/api/download/original?filename=Original-1.4.1804.zip, EnclosureVersion=1.4.1804, EnclosureType=application/octet-stream, EnclosureLength=82119886, EnclosureSignature=MCwCFHmvVleldPNDz9vR98+SAqW6rQVqAhQd/dtc3tOXVao2FjjjWIhQWCu/Lw==, DeltaSet=System.Collections.Generic.List`1[Updater.SparkleFileEntry], 
+my version number is 1.4.1804.44013 the update version is 1.4.1804
+Not a newer version - ignoring
+urlForUpdate = http://store.yoyogames.com/downloads/gm-studio/update-studio-stable.rss
+update file downloaded numEntries = 1
+FileEntry = Title=Version 1.4.1804, ReleaseNotesUri=http://store.yoyogames.com/downloads/gm-studio/release-notes-studio.html?__yoyo_relnotes=241934700, PubDate=13-03-2018 05:39:04, EnclosureUri=https://updater.yoyogames.com/api/download/original?filename=Original-1.4.1804.zip, EnclosureVersion=1.4.1804, EnclosureType=application/octet-stream, EnclosureLength=82119886, EnclosureSignature=MCwCFHmvVleldPNDz9vR98+SAqW6rQVqAhQd/dtc3tOXVao2FjjjWIhQWCu/Lw==, DeltaSet=System.Collections.Generic.List`1[Updater.SparkleFileEntry], 
+my version number is 1.4.1804.44013 the update version is 1.4.1804
+Not a newer version - ignoring
+------------ GameMaker-Studio 1.4.1772.42005 --------------
+regCurr=SOFTWARE\5tudio\59CAEAA5, k=Addons, entry=AndroidTest.Windows.Windows8.Windows8RT.pro, plist[k]=AndroidTest.Windows.Windows8.Windows8RT.pro
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4, k=Answer, entry=1143136907, plist[k]=1143136907
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE, k=Email, entry=Sajid.sarker@gmail.com, plist[k]=Sajid.sarker@gmail.com
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB, k=License Type, entry=Full, plist[k]=Full
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF, k=Name, entry=Sajid.sarker@gmail.com, plist[k]=Sajid.sarker@gmail.com
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5, k=Pass Phrase, entry=5b2747beb8cbe0149002040ea595a86d, plist[k]=5b2747beb8cbe0149002040ea595a86d
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5\71B4, k=Product, entry=GameMaker:Studio, plist[k]=GameMaker:Studio
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5\71B4\03EE, k=Signature, entry=
+	YVk5LJ6i7vOKSDACbDqpWJVCsZDplWsYGwasNYGFKNMcKq7GWoGokGDjs8kIsQNxKm5C
+	AYBFSYMBg27sSEpOlHILdBqCyJO49Mi89RT+cY3xNSJu9dQfC/jb0NP0uOwV+F2uNHkN
+	CmKdayN967UMxS6q0N3zlnN+uKeoyELwMfM=
+	, plist[k]=
+	YVk5LJ6i7vOKSDACbDqpWJVCsZDplWsYGwasNYGFKNMcKq7GWoGokGDjs8kIsQNxKm5C
+	AYBFSYMBg27sSEpOlHILdBqCyJO49Mi89RT+cY3xNSJu9dQfC/jb0NP0uOwV+F2uNHkN
+	CmKdayN967UMxS6q0N3zlnN+uKeoyELwMfM=
+	
+Not running from the ApplicationData directory
+Checking the install receipt
+receipt has 0 elements
+Merge Flag set to "True"
+Deleting the upgrade Zip directory "C:\Users\Dell\AppData\Local\GameMaker-Studio\UpgradeZip"
+found --YYGMParams=""
+Starting the Application Data executable "C:\Users\Dell\AppData\Roaming\GameMaker-Studio\GameMaker-Studio.exe" --YYOriginalFilename="C:\Users\Dell\GameMaker-Studio 1.3\GameMaker-Studio.exe" --YYGMParams=""
+Exiting the original application - "C:\Users\Dell\GameMaker-Studio 1.3\GameMaker-Studio.exe"
+------------ GameMaker-Studio 1.4.1804.44013 --------------
+regCurr=SOFTWARE\5tudio\59CAEAA5, k=Addons, entry=AndroidTest.Windows.Windows8.Windows8RT.pro, plist[k]=AndroidTest.Windows.Windows8.Windows8RT.pro
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4, k=Answer, entry=1143136907, plist[k]=1143136907
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE, k=Email, entry=Sajid.sarker@gmail.com, plist[k]=Sajid.sarker@gmail.com
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB, k=License Type, entry=Full, plist[k]=Full
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF, k=Name, entry=Sajid.sarker@gmail.com, plist[k]=Sajid.sarker@gmail.com
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5, k=Pass Phrase, entry=5b2747beb8cbe0149002040ea595a86d, plist[k]=5b2747beb8cbe0149002040ea595a86d
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5\71B4, k=Product, entry=GameMaker:Studio, plist[k]=GameMaker:Studio
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5\71B4\03EE, k=Signature, entry=
+	YVk5LJ6i7vOKSDACbDqpWJVCsZDplWsYGwasNYGFKNMcKq7GWoGokGDjs8kIsQNxKm5C
+	AYBFSYMBg27sSEpOlHILdBqCyJO49Mi89RT+cY3xNSJu9dQfC/jb0NP0uOwV+F2uNHkN
+	CmKdayN967UMxS6q0N3zlnN+uKeoyELwMfM=
+	, plist[k]=
+	YVk5LJ6i7vOKSDACbDqpWJVCsZDplWsYGwasNYGFKNMcKq7GWoGokGDjs8kIsQNxKm5C
+	AYBFSYMBg27sSEpOlHILdBqCyJO49Mi89RT+cY3xNSJu9dQfC/jb0NP0uOwV+F2uNHkN
+	CmKdayN967UMxS6q0N3zlnN+uKeoyELwMfM=
+	
+Starting the ApplicationData executable
+found --YYOriginalFilename=C:\Users\Dell\GameMaker-Studio 1.3\GameMaker-Studio.exe
+Starting process for C:\Users\Dell\AppData\Roaming\GameMaker-Studio\5piceIDE.exe
+found --YYGMParams=""
+urlForUpdate = http://store.yoyogames.com/downloads/gm-studio/update-studio-stable.rss
+update file downloaded numEntries = 1
+FileEntry = Title=Version 1.4.1804, ReleaseNotesUri=http://store.yoyogames.com/downloads/gm-studio/release-notes-studio.html?__yoyo_relnotes=994153255, PubDate=13-03-2018 05:39:04, EnclosureUri=https://updater.yoyogames.com/api/download/original?filename=Original-1.4.1804.zip, EnclosureVersion=1.4.1804, EnclosureType=application/octet-stream, EnclosureLength=82119886, EnclosureSignature=MCwCFHmvVleldPNDz9vR98+SAqW6rQVqAhQd/dtc3tOXVao2FjjjWIhQWCu/Lw==, DeltaSet=System.Collections.Generic.List`1[Updater.SparkleFileEntry], 
+my version number is 1.4.1804.44013 the update version is 1.4.1804
+Not a newer version - ignoring
+------------ GameMaker-Studio 1.4.1772.42005 --------------
+regCurr=SOFTWARE\5tudio\59CAEAA5, k=Addons, entry=AndroidTest.Windows.Windows8.Windows8RT.pro, plist[k]=AndroidTest.Windows.Windows8.Windows8RT.pro
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4, k=Answer, entry=1143136907, plist[k]=1143136907
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE, k=Email, entry=Sajid.sarker@gmail.com, plist[k]=Sajid.sarker@gmail.com
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB, k=License Type, entry=Full, plist[k]=Full
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF, k=Name, entry=Sajid.sarker@gmail.com, plist[k]=Sajid.sarker@gmail.com
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5, k=Pass Phrase, entry=5b2747beb8cbe0149002040ea595a86d, plist[k]=5b2747beb8cbe0149002040ea595a86d
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5\71B4, k=Product, entry=GameMaker:Studio, plist[k]=GameMaker:Studio
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5\71B4\03EE, k=Signature, entry=
+	YVk5LJ6i7vOKSDACbDqpWJVCsZDplWsYGwasNYGFKNMcKq7GWoGokGDjs8kIsQNxKm5C
+	AYBFSYMBg27sSEpOlHILdBqCyJO49Mi89RT+cY3xNSJu9dQfC/jb0NP0uOwV+F2uNHkN
+	CmKdayN967UMxS6q0N3zlnN+uKeoyELwMfM=
+	, plist[k]=
+	YVk5LJ6i7vOKSDACbDqpWJVCsZDplWsYGwasNYGFKNMcKq7GWoGokGDjs8kIsQNxKm5C
+	AYBFSYMBg27sSEpOlHILdBqCyJO49Mi89RT+cY3xNSJu9dQfC/jb0NP0uOwV+F2uNHkN
+	CmKdayN967UMxS6q0N3zlnN+uKeoyELwMfM=
+	
+Not running from the ApplicationData directory
+Checking the install receipt
+receipt has 0 elements
+Merge Flag set to "True"
+Deleting the upgrade Zip directory "C:\Users\Dell\AppData\Local\GameMaker-Studio\UpgradeZip"
+found --YYGMParams=""
+Starting the Application Data executable "C:\Users\Dell\AppData\Roaming\GameMaker-Studio\GameMaker-Studio.exe" --YYOriginalFilename="C:\Users\Dell\GameMaker-Studio 1.3\GameMaker-Studio.exe" --YYGMParams=""
+Exiting the original application - "C:\Users\Dell\GameMaker-Studio 1.3\GameMaker-Studio.exe"
+------------ GameMaker-Studio 1.4.1804.44013 --------------
+regCurr=SOFTWARE\5tudio\59CAEAA5, k=Addons, entry=AndroidTest.Windows.Windows8.Windows8RT.pro, plist[k]=AndroidTest.Windows.Windows8.Windows8RT.pro
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4, k=Answer, entry=1143136907, plist[k]=1143136907
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE, k=Email, entry=Sajid.sarker@gmail.com, plist[k]=Sajid.sarker@gmail.com
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB, k=License Type, entry=Full, plist[k]=Full
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF, k=Name, entry=Sajid.sarker@gmail.com, plist[k]=Sajid.sarker@gmail.com
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5, k=Pass Phrase, entry=5b2747beb8cbe0149002040ea595a86d, plist[k]=5b2747beb8cbe0149002040ea595a86d
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5\71B4, k=Product, entry=GameMaker:Studio, plist[k]=GameMaker:Studio
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5\71B4\03EE, k=Signature, entry=
+	YVk5LJ6i7vOKSDACbDqpWJVCsZDplWsYGwasNYGFKNMcKq7GWoGokGDjs8kIsQNxKm5C
+	AYBFSYMBg27sSEpOlHILdBqCyJO49Mi89RT+cY3xNSJu9dQfC/jb0NP0uOwV+F2uNHkN
+	CmKdayN967UMxS6q0N3zlnN+uKeoyELwMfM=
+	, plist[k]=
+	YVk5LJ6i7vOKSDACbDqpWJVCsZDplWsYGwasNYGFKNMcKq7GWoGokGDjs8kIsQNxKm5C
+	AYBFSYMBg27sSEpOlHILdBqCyJO49Mi89RT+cY3xNSJu9dQfC/jb0NP0uOwV+F2uNHkN
+	CmKdayN967UMxS6q0N3zlnN+uKeoyELwMfM=
+	
+Starting the ApplicationData executable
+found --YYOriginalFilename=C:\Users\Dell\GameMaker-Studio 1.3\GameMaker-Studio.exe
+Starting process for C:\Users\Dell\AppData\Roaming\GameMaker-Studio\5piceIDE.exe
+found --YYGMParams=""
+urlForUpdate = http://store.yoyogames.com/downloads/gm-studio/update-studio-stable.rss
+update file downloaded numEntries = 1
+FileEntry = Title=Version 1.4.1804, ReleaseNotesUri=http://store.yoyogames.com/downloads/gm-studio/release-notes-studio.html?__yoyo_relnotes=1459402441, PubDate=13-03-2018 05:39:04, EnclosureUri=https://updater.yoyogames.com/api/download/original?filename=Original-1.4.1804.zip, EnclosureVersion=1.4.1804, EnclosureType=application/octet-stream, EnclosureLength=82119886, EnclosureSignature=MCwCFHmvVleldPNDz9vR98+SAqW6rQVqAhQd/dtc3tOXVao2FjjjWIhQWCu/Lw==, DeltaSet=System.Collections.Generic.List`1[Updater.SparkleFileEntry], 
+my version number is 1.4.1804.44013 the update version is 1.4.1804
+Not a newer version - ignoring
+urlForUpdate = http://store.yoyogames.com/downloads/gm-studio/update-studio-stable.rss
+update file downloaded numEntries = 1
+FileEntry = Title=Version 1.4.1804, ReleaseNotesUri=http://store.yoyogames.com/downloads/gm-studio/release-notes-studio.html?__yoyo_relnotes=63932057, PubDate=13-03-2018 05:39:04, EnclosureUri=https://updater.yoyogames.com/api/download/original?filename=Original-1.4.1804.zip, EnclosureVersion=1.4.1804, EnclosureType=application/octet-stream, EnclosureLength=82119886, EnclosureSignature=MCwCFHmvVleldPNDz9vR98+SAqW6rQVqAhQd/dtc3tOXVao2FjjjWIhQWCu/Lw==, DeltaSet=System.Collections.Generic.List`1[Updater.SparkleFileEntry], 
+my version number is 1.4.1804.44013 the update version is 1.4.1804
+Not a newer version - ignoring
+------------ GameMaker-Studio 1.4.1772.42005 --------------
+regCurr=SOFTWARE\5tudio\59CAEAA5, k=Addons, entry=AndroidTest.Windows.Windows8.Windows8RT.pro, plist[k]=AndroidTest.Windows.Windows8.Windows8RT.pro
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4, k=Answer, entry=1143136907, plist[k]=1143136907
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE, k=Email, entry=Sajid.sarker@gmail.com, plist[k]=Sajid.sarker@gmail.com
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB, k=License Type, entry=Full, plist[k]=Full
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF, k=Name, entry=Sajid.sarker@gmail.com, plist[k]=Sajid.sarker@gmail.com
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5, k=Pass Phrase, entry=5b2747beb8cbe0149002040ea595a86d, plist[k]=5b2747beb8cbe0149002040ea595a86d
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5\71B4, k=Product, entry=GameMaker:Studio, plist[k]=GameMaker:Studio
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5\71B4\03EE, k=Signature, entry=
+	YVk5LJ6i7vOKSDACbDqpWJVCsZDplWsYGwasNYGFKNMcKq7GWoGokGDjs8kIsQNxKm5C
+	AYBFSYMBg27sSEpOlHILdBqCyJO49Mi89RT+cY3xNSJu9dQfC/jb0NP0uOwV+F2uNHkN
+	CmKdayN967UMxS6q0N3zlnN+uKeoyELwMfM=
+	, plist[k]=
+	YVk5LJ6i7vOKSDACbDqpWJVCsZDplWsYGwasNYGFKNMcKq7GWoGokGDjs8kIsQNxKm5C
+	AYBFSYMBg27sSEpOlHILdBqCyJO49Mi89RT+cY3xNSJu9dQfC/jb0NP0uOwV+F2uNHkN
+	CmKdayN967UMxS6q0N3zlnN+uKeoyELwMfM=
+	
+Not running from the ApplicationData directory
+Checking the install receipt
+receipt has 0 elements
+Merge Flag set to "True"
+Deleting the upgrade Zip directory "C:\Users\Dell\AppData\Local\GameMaker-Studio\UpgradeZip"
+found --YYGMParams="C:\Users\Dell\Documents\Development\Projects 2 - GML\PVE Isometric Shooter.gmx\PVE Isometric Shooter.project.gmx"
+Starting the Application Data executable "C:\Users\Dell\AppData\Roaming\GameMaker-Studio\GameMaker-Studio.exe" --YYOriginalFilename="C:\Users\Dell\GameMaker-Studio 1.3\GameMaker-Studio.exe" --YYGMParams="C:\Users\Dell\Documents\Development\Projects 2 - GML\PVE Isometric Shooter.gmx\PVE Isometric Shooter.project.gmx"
+Exiting the original application - "C:\Users\Dell\GameMaker-Studio 1.3\GameMaker-Studio.exe"
+------------ GameMaker-Studio 1.4.1804.44013 --------------
+regCurr=SOFTWARE\5tudio\59CAEAA5, k=Addons, entry=AndroidTest.Windows.Windows8.Windows8RT.pro, plist[k]=AndroidTest.Windows.Windows8.Windows8RT.pro
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4, k=Answer, entry=1143136907, plist[k]=1143136907
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE, k=Email, entry=Sajid.sarker@gmail.com, plist[k]=Sajid.sarker@gmail.com
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB, k=License Type, entry=Full, plist[k]=Full
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF, k=Name, entry=Sajid.sarker@gmail.com, plist[k]=Sajid.sarker@gmail.com
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5, k=Pass Phrase, entry=5b2747beb8cbe0149002040ea595a86d, plist[k]=5b2747beb8cbe0149002040ea595a86d
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5\71B4, k=Product, entry=GameMaker:Studio, plist[k]=GameMaker:Studio
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5\71B4\03EE, k=Signature, entry=
+	YVk5LJ6i7vOKSDACbDqpWJVCsZDplWsYGwasNYGFKNMcKq7GWoGokGDjs8kIsQNxKm5C
+	AYBFSYMBg27sSEpOlHILdBqCyJO49Mi89RT+cY3xNSJu9dQfC/jb0NP0uOwV+F2uNHkN
+	CmKdayN967UMxS6q0N3zlnN+uKeoyELwMfM=
+	, plist[k]=
+	YVk5LJ6i7vOKSDACbDqpWJVCsZDplWsYGwasNYGFKNMcKq7GWoGokGDjs8kIsQNxKm5C
+	AYBFSYMBg27sSEpOlHILdBqCyJO49Mi89RT+cY3xNSJu9dQfC/jb0NP0uOwV+F2uNHkN
+	CmKdayN967UMxS6q0N3zlnN+uKeoyELwMfM=
+	
+Starting the ApplicationData executable
+found --YYOriginalFilename=C:\Users\Dell\GameMaker-Studio 1.3\GameMaker-Studio.exe
+Starting process for C:\Users\Dell\AppData\Roaming\GameMaker-Studio\5piceIDE.exe
+found --YYGMParams="C:\Users\Dell\Documents\Development\Projects 2 - GML\PVE Isometric Shooter.gmx\PVE Isometric Shooter.project.gmx"
+urlForUpdate = http://store.yoyogames.com/downloads/gm-studio/update-studio-stable.rss
+update file downloaded numEntries = 1
+FileEntry = Title=Version 1.4.1804, ReleaseNotesUri=http://store.yoyogames.com/downloads/gm-studio/release-notes-studio.html?__yoyo_relnotes=584483860, PubDate=13-03-2018 05:39:04, EnclosureUri=https://updater.yoyogames.com/api/download/original?filename=Original-1.4.1804.zip, EnclosureVersion=1.4.1804, EnclosureType=application/octet-stream, EnclosureLength=82119886, EnclosureSignature=MCwCFHmvVleldPNDz9vR98+SAqW6rQVqAhQd/dtc3tOXVao2FjjjWIhQWCu/Lw==, DeltaSet=System.Collections.Generic.List`1[Updater.SparkleFileEntry], 
+my version number is 1.4.1804.44013 the update version is 1.4.1804
+Not a newer version - ignoring
+------------ GameMaker-Studio 1.4.1772.42005 --------------
+regCurr=SOFTWARE\5tudio\59CAEAA5, k=Addons, entry=AndroidTest.Windows.Windows8.Windows8RT.pro, plist[k]=AndroidTest.Windows.Windows8.Windows8RT.pro
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4, k=Answer, entry=1143136907, plist[k]=1143136907
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE, k=Email, entry=Sajid.sarker@gmail.com, plist[k]=Sajid.sarker@gmail.com
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB, k=License Type, entry=Full, plist[k]=Full
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF, k=Name, entry=Sajid.sarker@gmail.com, plist[k]=Sajid.sarker@gmail.com
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5, k=Pass Phrase, entry=5b2747beb8cbe0149002040ea595a86d, plist[k]=5b2747beb8cbe0149002040ea595a86d
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5\71B4, k=Product, entry=GameMaker:Studio, plist[k]=GameMaker:Studio
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5\71B4\03EE, k=Signature, entry=
+	YVk5LJ6i7vOKSDACbDqpWJVCsZDplWsYGwasNYGFKNMcKq7GWoGokGDjs8kIsQNxKm5C
+	AYBFSYMBg27sSEpOlHILdBqCyJO49Mi89RT+cY3xNSJu9dQfC/jb0NP0uOwV+F2uNHkN
+	CmKdayN967UMxS6q0N3zlnN+uKeoyELwMfM=
+	, plist[k]=
+	YVk5LJ6i7vOKSDACbDqpWJVCsZDplWsYGwasNYGFKNMcKq7GWoGokGDjs8kIsQNxKm5C
+	AYBFSYMBg27sSEpOlHILdBqCyJO49Mi89RT+cY3xNSJu9dQfC/jb0NP0uOwV+F2uNHkN
+	CmKdayN967UMxS6q0N3zlnN+uKeoyELwMfM=
+	
+Not running from the ApplicationData directory
+Checking the install receipt
+receipt has 0 elements
+Merge Flag set to "True"
+Deleting the upgrade Zip directory "C:\Users\Dell\AppData\Local\GameMaker-Studio\UpgradeZip"
+found --YYGMParams="C:\Users\Dell\Documents\Development\Projects 2 - GML\MP_Engine.gmx\MP_Engine.project.gmx"
+Starting the Application Data executable "C:\Users\Dell\AppData\Roaming\GameMaker-Studio\GameMaker-Studio.exe" --YYOriginalFilename="C:\Users\Dell\GameMaker-Studio 1.3\GameMaker-Studio.exe" --YYGMParams="C:\Users\Dell\Documents\Development\Projects 2 - GML\MP_Engine.gmx\MP_Engine.project.gmx"
+Exiting the original application - "C:\Users\Dell\GameMaker-Studio 1.3\GameMaker-Studio.exe"
+------------ GameMaker-Studio 1.4.1804.44013 --------------
+regCurr=SOFTWARE\5tudio\59CAEAA5, k=Addons, entry=AndroidTest.Windows.Windows8.Windows8RT.pro, plist[k]=AndroidTest.Windows.Windows8.Windows8RT.pro
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4, k=Answer, entry=1143136907, plist[k]=1143136907
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE, k=Email, entry=Sajid.sarker@gmail.com, plist[k]=Sajid.sarker@gmail.com
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB, k=License Type, entry=Full, plist[k]=Full
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF, k=Name, entry=Sajid.sarker@gmail.com, plist[k]=Sajid.sarker@gmail.com
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5, k=Pass Phrase, entry=5b2747beb8cbe0149002040ea595a86d, plist[k]=5b2747beb8cbe0149002040ea595a86d
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5\71B4, k=Product, entry=GameMaker:Studio, plist[k]=GameMaker:Studio
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5\71B4\03EE, k=Signature, entry=
+	YVk5LJ6i7vOKSDACbDqpWJVCsZDplWsYGwasNYGFKNMcKq7GWoGokGDjs8kIsQNxKm5C
+	AYBFSYMBg27sSEpOlHILdBqCyJO49Mi89RT+cY3xNSJu9dQfC/jb0NP0uOwV+F2uNHkN
+	CmKdayN967UMxS6q0N3zlnN+uKeoyELwMfM=
+	, plist[k]=
+	YVk5LJ6i7vOKSDACbDqpWJVCsZDplWsYGwasNYGFKNMcKq7GWoGokGDjs8kIsQNxKm5C
+	AYBFSYMBg27sSEpOlHILdBqCyJO49Mi89RT+cY3xNSJu9dQfC/jb0NP0uOwV+F2uNHkN
+	CmKdayN967UMxS6q0N3zlnN+uKeoyELwMfM=
+	
+Starting the ApplicationData executable
+found --YYOriginalFilename=C:\Users\Dell\GameMaker-Studio 1.3\GameMaker-Studio.exe
+Starting process for C:\Users\Dell\AppData\Roaming\GameMaker-Studio\5piceIDE.exe
+found --YYGMParams="C:\Users\Dell\Documents\Development\Projects 2 - GML\MP_Engine.gmx\MP_Engine.project.gmx"
+urlForUpdate = http://store.yoyogames.com/downloads/gm-studio/update-studio-stable.rss
+update file downloaded numEntries = 1
+FileEntry = Title=Version 1.4.1804, ReleaseNotesUri=http://store.yoyogames.com/downloads/gm-studio/release-notes-studio.html?__yoyo_relnotes=1091130998, PubDate=13-03-2018 05:39:04, EnclosureUri=https://updater.yoyogames.com/api/download/original?filename=Original-1.4.1804.zip, EnclosureVersion=1.4.1804, EnclosureType=application/octet-stream, EnclosureLength=82119886, EnclosureSignature=MCwCFHmvVleldPNDz9vR98+SAqW6rQVqAhQd/dtc3tOXVao2FjjjWIhQWCu/Lw==, DeltaSet=System.Collections.Generic.List`1[Updater.SparkleFileEntry], 
+my version number is 1.4.1804.44013 the update version is 1.4.1804
+Not a newer version - ignoring
+------------ GameMaker-Studio 1.4.1772.42005 --------------
+regCurr=SOFTWARE\5tudio\59CAEAA5, k=Addons, entry=AndroidTest.Windows.Windows8.Windows8RT.pro, plist[k]=AndroidTest.Windows.Windows8.Windows8RT.pro
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4, k=Answer, entry=1143136907, plist[k]=1143136907
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE, k=Email, entry=Sajid.sarker@gmail.com, plist[k]=Sajid.sarker@gmail.com
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB, k=License Type, entry=Full, plist[k]=Full
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF, k=Name, entry=Sajid.sarker@gmail.com, plist[k]=Sajid.sarker@gmail.com
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5, k=Pass Phrase, entry=5b2747beb8cbe0149002040ea595a86d, plist[k]=5b2747beb8cbe0149002040ea595a86d
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5\71B4, k=Product, entry=GameMaker:Studio, plist[k]=GameMaker:Studio
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5\71B4\03EE, k=Signature, entry=
+	YVk5LJ6i7vOKSDACbDqpWJVCsZDplWsYGwasNYGFKNMcKq7GWoGokGDjs8kIsQNxKm5C
+	AYBFSYMBg27sSEpOlHILdBqCyJO49Mi89RT+cY3xNSJu9dQfC/jb0NP0uOwV+F2uNHkN
+	CmKdayN967UMxS6q0N3zlnN+uKeoyELwMfM=
+	, plist[k]=
+	YVk5LJ6i7vOKSDACbDqpWJVCsZDplWsYGwasNYGFKNMcKq7GWoGokGDjs8kIsQNxKm5C
+	AYBFSYMBg27sSEpOlHILdBqCyJO49Mi89RT+cY3xNSJu9dQfC/jb0NP0uOwV+F2uNHkN
+	CmKdayN967UMxS6q0N3zlnN+uKeoyELwMfM=
+	
+Not running from the ApplicationData directory
+Checking the install receipt
+receipt has 0 elements
+Merge Flag set to "True"
+Deleting the upgrade Zip directory "C:\Users\Dell\AppData\Local\GameMaker-Studio\UpgradeZip"
+found --YYGMParams="C:\Users\Dell\Documents\Development\Projects 2 - GML\Thunderbird.gmx\Thunderbird.project.gmx"
+Starting the Application Data executable "C:\Users\Dell\AppData\Roaming\GameMaker-Studio\GameMaker-Studio.exe" --YYOriginalFilename="C:\Users\Dell\GameMaker-Studio 1.3\GameMaker-Studio.exe" --YYGMParams="C:\Users\Dell\Documents\Development\Projects 2 - GML\Thunderbird.gmx\Thunderbird.project.gmx"
+Exiting the original application - "C:\Users\Dell\GameMaker-Studio 1.3\GameMaker-Studio.exe"
+------------ GameMaker-Studio 1.4.1804.44013 --------------
+regCurr=SOFTWARE\5tudio\59CAEAA5, k=Addons, entry=AndroidTest.Windows.Windows8.Windows8RT.pro, plist[k]=AndroidTest.Windows.Windows8.Windows8RT.pro
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4, k=Answer, entry=1143136907, plist[k]=1143136907
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE, k=Email, entry=Sajid.sarker@gmail.com, plist[k]=Sajid.sarker@gmail.com
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB, k=License Type, entry=Full, plist[k]=Full
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF, k=Name, entry=Sajid.sarker@gmail.com, plist[k]=Sajid.sarker@gmail.com
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5, k=Pass Phrase, entry=5b2747beb8cbe0149002040ea595a86d, plist[k]=5b2747beb8cbe0149002040ea595a86d
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5\71B4, k=Product, entry=GameMaker:Studio, plist[k]=GameMaker:Studio
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5\71B4\03EE, k=Signature, entry=
+	YVk5LJ6i7vOKSDACbDqpWJVCsZDplWsYGwasNYGFKNMcKq7GWoGokGDjs8kIsQNxKm5C
+	AYBFSYMBg27sSEpOlHILdBqCyJO49Mi89RT+cY3xNSJu9dQfC/jb0NP0uOwV+F2uNHkN
+	CmKdayN967UMxS6q0N3zlnN+uKeoyELwMfM=
+	, plist[k]=
+	YVk5LJ6i7vOKSDACbDqpWJVCsZDplWsYGwasNYGFKNMcKq7GWoGokGDjs8kIsQNxKm5C
+	AYBFSYMBg27sSEpOlHILdBqCyJO49Mi89RT+cY3xNSJu9dQfC/jb0NP0uOwV+F2uNHkN
+	CmKdayN967UMxS6q0N3zlnN+uKeoyELwMfM=
+	
+Starting the ApplicationData executable
+found --YYOriginalFilename=C:\Users\Dell\GameMaker-Studio 1.3\GameMaker-Studio.exe
+Starting process for C:\Users\Dell\AppData\Roaming\GameMaker-Studio\5piceIDE.exe
+found --YYGMParams="C:\Users\Dell\Documents\Development\Projects 2 - GML\Thunderbird.gmx\Thunderbird.project.gmx"
+urlForUpdate = http://store.yoyogames.com/downloads/gm-studio/update-studio-stable.rss
+update file downloaded numEntries = 1
+FileEntry = Title=Version 1.4.1804, ReleaseNotesUri=http://store.yoyogames.com/downloads/gm-studio/release-notes-studio.html?__yoyo_relnotes=2130012931, PubDate=13-03-2018 05:39:04, EnclosureUri=https://updater.yoyogames.com/api/download/original?filename=Original-1.4.1804.zip, EnclosureVersion=1.4.1804, EnclosureType=application/octet-stream, EnclosureLength=82119886, EnclosureSignature=MCwCFHmvVleldPNDz9vR98+SAqW6rQVqAhQd/dtc3tOXVao2FjjjWIhQWCu/Lw==, DeltaSet=System.Collections.Generic.List`1[Updater.SparkleFileEntry], 
+my version number is 1.4.1804.44013 the update version is 1.4.1804
+Not a newer version - ignoring
+------------ GameMaker-Studio 1.4.1772.42005 --------------
+regCurr=SOFTWARE\5tudio\59CAEAA5, k=Addons, entry=AndroidTest.Windows.Windows8.Windows8RT.pro, plist[k]=AndroidTest.Windows.Windows8.Windows8RT.pro
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4, k=Answer, entry=1143136907, plist[k]=1143136907
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE, k=Email, entry=Sajid.sarker@gmail.com, plist[k]=Sajid.sarker@gmail.com
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB, k=License Type, entry=Full, plist[k]=Full
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF, k=Name, entry=Sajid.sarker@gmail.com, plist[k]=Sajid.sarker@gmail.com
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5, k=Pass Phrase, entry=5b2747beb8cbe0149002040ea595a86d, plist[k]=5b2747beb8cbe0149002040ea595a86d
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5\71B4, k=Product, entry=GameMaker:Studio, plist[k]=GameMaker:Studio
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5\71B4\03EE, k=Signature, entry=
+	YVk5LJ6i7vOKSDACbDqpWJVCsZDplWsYGwasNYGFKNMcKq7GWoGokGDjs8kIsQNxKm5C
+	AYBFSYMBg27sSEpOlHILdBqCyJO49Mi89RT+cY3xNSJu9dQfC/jb0NP0uOwV+F2uNHkN
+	CmKdayN967UMxS6q0N3zlnN+uKeoyELwMfM=
+	, plist[k]=
+	YVk5LJ6i7vOKSDACbDqpWJVCsZDplWsYGwasNYGFKNMcKq7GWoGokGDjs8kIsQNxKm5C
+	AYBFSYMBg27sSEpOlHILdBqCyJO49Mi89RT+cY3xNSJu9dQfC/jb0NP0uOwV+F2uNHkN
+	CmKdayN967UMxS6q0N3zlnN+uKeoyELwMfM=
+	
+Not running from the ApplicationData directory
+Checking the install receipt
+receipt has 0 elements
+Merge Flag set to "True"
+Deleting the upgrade Zip directory "C:\Users\Dell\AppData\Local\GameMaker-Studio\UpgradeZip"
+found --YYGMParams=""
+Starting the Application Data executable "C:\Users\Dell\AppData\Roaming\GameMaker-Studio\GameMaker-Studio.exe" --YYOriginalFilename="C:\Users\Dell\GameMaker-Studio 1.3\GameMaker-Studio.exe" --YYGMParams=""
+Exiting the original application - "C:\Users\Dell\GameMaker-Studio 1.3\GameMaker-Studio.exe"
+------------ GameMaker-Studio 1.4.1804.44013 --------------
+regCurr=SOFTWARE\5tudio\59CAEAA5, k=Addons, entry=AndroidTest.Windows.Windows8.Windows8RT.pro, plist[k]=AndroidTest.Windows.Windows8.Windows8RT.pro
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4, k=Answer, entry=1143136907, plist[k]=1143136907
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE, k=Email, entry=Sajid.sarker@gmail.com, plist[k]=Sajid.sarker@gmail.com
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB, k=License Type, entry=Full, plist[k]=Full
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF, k=Name, entry=Sajid.sarker@gmail.com, plist[k]=Sajid.sarker@gmail.com
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5, k=Pass Phrase, entry=5b2747beb8cbe0149002040ea595a86d, plist[k]=5b2747beb8cbe0149002040ea595a86d
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5\71B4, k=Product, entry=GameMaker:Studio, plist[k]=GameMaker:Studio
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5\71B4\03EE, k=Signature, entry=
+	YVk5LJ6i7vOKSDACbDqpWJVCsZDplWsYGwasNYGFKNMcKq7GWoGokGDjs8kIsQNxKm5C
+	AYBFSYMBg27sSEpOlHILdBqCyJO49Mi89RT+cY3xNSJu9dQfC/jb0NP0uOwV+F2uNHkN
+	CmKdayN967UMxS6q0N3zlnN+uKeoyELwMfM=
+	, plist[k]=
+	YVk5LJ6i7vOKSDACbDqpWJVCsZDplWsYGwasNYGFKNMcKq7GWoGokGDjs8kIsQNxKm5C
+	AYBFSYMBg27sSEpOlHILdBqCyJO49Mi89RT+cY3xNSJu9dQfC/jb0NP0uOwV+F2uNHkN
+	CmKdayN967UMxS6q0N3zlnN+uKeoyELwMfM=
+	
+Starting the ApplicationData executable
+found --YYOriginalFilename=C:\Users\Dell\GameMaker-Studio 1.3\GameMaker-Studio.exe
+Starting process for C:\Users\Dell\AppData\Roaming\GameMaker-Studio\5piceIDE.exe
+found --YYGMParams=""
+urlForUpdate = http://store.yoyogames.com/downloads/gm-studio/update-studio-stable.rss
+update file downloaded numEntries = 1
+FileEntry = Title=Version 1.4.1804, ReleaseNotesUri=http://store.yoyogames.com/downloads/gm-studio/release-notes-studio.html?__yoyo_relnotes=1141198485, PubDate=13-03-2018 05:39:04, EnclosureUri=https://updater.yoyogames.com/api/download/original?filename=Original-1.4.1804.zip, EnclosureVersion=1.4.1804, EnclosureType=application/octet-stream, EnclosureLength=82119886, EnclosureSignature=MCwCFHmvVleldPNDz9vR98+SAqW6rQVqAhQd/dtc3tOXVao2FjjjWIhQWCu/Lw==, DeltaSet=System.Collections.Generic.List`1[Updater.SparkleFileEntry], 
+my version number is 1.4.1804.44013 the update version is 1.4.1804
+Not a newer version - ignoring
+urlForUpdate = http://store.yoyogames.com/downloads/gm-studio/update-studio-stable.rss
+update file downloaded numEntries = 1
+FileEntry = Title=Version 1.4.1804, ReleaseNotesUri=http://store.yoyogames.com/downloads/gm-studio/release-notes-studio.html?__yoyo_relnotes=866996852, PubDate=13-03-2018 05:39:04, EnclosureUri=https://updater.yoyogames.com/api/download/original?filename=Original-1.4.1804.zip, EnclosureVersion=1.4.1804, EnclosureType=application/octet-stream, EnclosureLength=82119886, EnclosureSignature=MCwCFHmvVleldPNDz9vR98+SAqW6rQVqAhQd/dtc3tOXVao2FjjjWIhQWCu/Lw==, DeltaSet=System.Collections.Generic.List`1[Updater.SparkleFileEntry], 
+my version number is 1.4.1804.44013 the update version is 1.4.1804
+Not a newer version - ignoring
+------------ GameMaker-Studio 1.4.1772.42005 --------------
+regCurr=SOFTWARE\5tudio\59CAEAA5, k=Addons, entry=AndroidTest.Windows.Windows8.Windows8RT.pro, plist[k]=AndroidTest.Windows.Windows8.Windows8RT.pro
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4, k=Answer, entry=1143136907, plist[k]=1143136907
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE, k=Email, entry=Sajid.sarker@gmail.com, plist[k]=Sajid.sarker@gmail.com
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB, k=License Type, entry=Full, plist[k]=Full
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF, k=Name, entry=Sajid.sarker@gmail.com, plist[k]=Sajid.sarker@gmail.com
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5, k=Pass Phrase, entry=5b2747beb8cbe0149002040ea595a86d, plist[k]=5b2747beb8cbe0149002040ea595a86d
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5\71B4, k=Product, entry=GameMaker:Studio, plist[k]=GameMaker:Studio
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5\71B4\03EE, k=Signature, entry=
+	YVk5LJ6i7vOKSDACbDqpWJVCsZDplWsYGwasNYGFKNMcKq7GWoGokGDjs8kIsQNxKm5C
+	AYBFSYMBg27sSEpOlHILdBqCyJO49Mi89RT+cY3xNSJu9dQfC/jb0NP0uOwV+F2uNHkN
+	CmKdayN967UMxS6q0N3zlnN+uKeoyELwMfM=
+	, plist[k]=
+	YVk5LJ6i7vOKSDACbDqpWJVCsZDplWsYGwasNYGFKNMcKq7GWoGokGDjs8kIsQNxKm5C
+	AYBFSYMBg27sSEpOlHILdBqCyJO49Mi89RT+cY3xNSJu9dQfC/jb0NP0uOwV+F2uNHkN
+	CmKdayN967UMxS6q0N3zlnN+uKeoyELwMfM=
+	
+Not running from the ApplicationData directory
+Checking the install receipt
+receipt has 0 elements
+Merge Flag set to "True"
+Deleting the upgrade Zip directory "C:\Users\Dell\AppData\Local\GameMaker-Studio\UpgradeZip"
+found --YYGMParams=""
+Starting the Application Data executable "C:\Users\Dell\AppData\Roaming\GameMaker-Studio\GameMaker-Studio.exe" --YYOriginalFilename="C:\Users\Dell\GameMaker-Studio 1.3\GameMaker-Studio.exe" --YYGMParams=""
+Exiting the original application - "C:\Users\Dell\GameMaker-Studio 1.3\GameMaker-Studio.exe"
+------------ GameMaker-Studio 1.4.1804.44013 --------------
+regCurr=SOFTWARE\5tudio\59CAEAA5, k=Addons, entry=AndroidTest.Windows.Windows8.Windows8RT.pro, plist[k]=AndroidTest.Windows.Windows8.Windows8RT.pro
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4, k=Answer, entry=1143136907, plist[k]=1143136907
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE, k=Email, entry=Sajid.sarker@gmail.com, plist[k]=Sajid.sarker@gmail.com
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB, k=License Type, entry=Full, plist[k]=Full
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF, k=Name, entry=Sajid.sarker@gmail.com, plist[k]=Sajid.sarker@gmail.com
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5, k=Pass Phrase, entry=5b2747beb8cbe0149002040ea595a86d, plist[k]=5b2747beb8cbe0149002040ea595a86d
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5\71B4, k=Product, entry=GameMaker:Studio, plist[k]=GameMaker:Studio
+regCurr=SOFTWARE\5tudio\59CAEAA5\71B4\03EE\08FB\AAE0EC9F3ECF\59CAEAA5\71B4\03EE, k=Signature, entry=
+	YVk5LJ6i7vOKSDACbDqpWJVCsZDplWsYGwasNYGFKNMcKq7GWoGokGDjs8kIsQNxKm5C
+	AYBFSYMBg27sSEpOlHILdBqCyJO49Mi89RT+cY3xNSJu9dQfC/jb0NP0uOwV+F2uNHkN
+	CmKdayN967UMxS6q0N3zlnN+uKeoyELwMfM=
+	, plist[k]=
+	YVk5LJ6i7vOKSDACbDqpWJVCsZDplWsYGwasNYGFKNMcKq7GWoGokGDjs8kIsQNxKm5C
+	AYBFSYMBg27sSEpOlHILdBqCyJO49Mi89RT+cY3xNSJu9dQfC/jb0NP0uOwV+F2uNHkN
+	CmKdayN967UMxS6q0N3zlnN+uKeoyELwMfM=
+	
+Starting the ApplicationData executable
+found --YYOriginalFilename=C:\Users\Dell\GameMaker-Studio 1.3\GameMaker-Studio.exe
+Starting process for C:\Users\Dell\AppData\Roaming\GameMaker-Studio\5piceIDE.exe
+found --YYGMParams=""
+urlForUpdate = http://store.yoyogames.com/downloads/gm-studio/update-studio-stable.rss
+update file downloaded numEntries = 1
+FileEntry = Title=Version 1.4.1804, ReleaseNotesUri=http://store.yoyogames.com/downloads/gm-studio/release-notes-studio.html?__yoyo_relnotes=2075836320, PubDate=13-03-2018 05:39:04, EnclosureUri=https://updater.yoyogames.com/api/download/original?filename=Original-1.4.1804.zip, EnclosureVersion=1.4.1804, EnclosureType=application/octet-stream, EnclosureLength=82119886, EnclosureSignature=MCwCFHmvVleldPNDz9vR98+SAqW6rQVqAhQd/dtc3tOXVao2FjjjWIhQWCu/Lw==, DeltaSet=System.Collections.Generic.List`1[Updater.SparkleFileEntry], 
+my version number is 1.4.1804.44013 the update version is 1.4.1804
+Not a newer version - ignoring

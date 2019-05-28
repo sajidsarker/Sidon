@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<rss version="2.0">
+<channel>
+	<title>YoYo Demos</title>
+	<description>Demo feed for GameMaker: Studio</description>
+	<media>http://store.yoyogames.com/downloads/gm-studio/RSS/Tutorials/Media/FeedImage.html</media>
+	<item>
+		<title>Veg_Ninja_Swipe_Demo</title>
+		<description>This game is designed for mobile devices and demonstrates touch controls and swiping. </description>
+		<link>http://store.yoyogames.com/downloads/gm-studio/RSS/Demos/VegNinja.7z</link>
+		<category>Beginner</category>	
+		<media>http://store.yoyogames.com/downloads/gm-studio/RSS/Demos/Media/VegNinjaPreview.html</media>		
+		<pubDate>04/10/2013</pubDate>
+	</item>
+	<item>
+		<title>Angry_Cats_Physics_Demo</title>
+		<description>This fun demo illustrates the ease with which you can use GameMaker: Studio to re-create a well known game. Shows basic physics as well as touch controls.</description>
+		<link>http://store.yoyogames.com/downloads/gm-studio/RSS/Demos/AngryCats.7z</link>
+		<category>Intermediate</category>	
+		<media>http://store.yoyogames.com/downloads/gm-studio/RSS/Demos/Media/AngryCats.html</media>		
+		<pubDate>04/10/2013</pubDate>
+	</item>
+	<item>
+		<title>Angry_Cats_Space_Demo</title>
+		<description>This version of Angry Cats adds to the original, showing how to make gravity a part of the game.</description>
+		<link>http://store.yoyogames.com/downloads/gm-studio/RSS/Demos/AngryCatsSpace.7z</link>
+		<category>Intermediate</category>	
+		<media>http://store.yoyogames.com/downloads/gm-studio/RSS/Demos/Media/AngryCatsSpace.html</media>				
+		<pubDate>04/10/2013</pubDate>
+	</item>
+	<item>
+		<title>Asynchronous_Events_Example</title>
+		<description>In this basic demo you can see how to use the asynchronous events to load images into GameMaker: Studio</description>
+		<link>http://store.yoyogames.com/downloads/gm-studio/RSS/Demos/AsyncEvents.7z</link>
+		<category>Intermediate</category>	
+		<media>http://store.yoyogames.com/downloads/gm-studio/RSS/Demos/Media/AsyncEvents.html</media>				
+		<pubDate>04/10/2013</pubDate>
+	</item>
+	<item>
+		<title>HTML5_Custom_Loading_Bar</title>
+		<description>This HTML5 only demo shows how to use a simple JavaScript extension to create a custom loading bar for your game</description>
+		<link>http://store.yoyogames.com/downloads/gm-studio/RSS/Demos/CustomLoadBar.7z</link>
+		<category>Intermediate</category>	
+		<media>http://store.yoyogames.com/downloads/gm-studio/RSS/Demos/Media/CustomLoadBar.html</media>		
+		<pubDate>04/10/2013</pubDate>
+	</item>
+	<item>
+		<title>Tile_Based_Platformer</title>
+		<description>In this demo you can see how to create a very basic platformer using tile maps for collisions instead of more traditional methods.</description>
+		<link>http://store.yoyogames.com/downloads/gm-studio/RSS/Demos/Platformer.7z</link>
+		<category>Intermediate</category>	
+		<media>http://store.yoyogames.com/downloads/gm-studio/RSS/Demos/Media/Platformer.html</media>		
+		<pubDate>04/10/2013</pubDate>
+	</item>
+	<item>
+		<title>Windows_8_Functions_Demo</title>
+		<description>This Windows 8 (JS and Native) only demo is designed to show you how to get the most out of the unique functions that the platform offers.</description>
+		<link>http://store.yoyogames.com/downloads/gm-studio/RSS/Demos/Windows8.7z</link>
+		<category>Intermediate</category>	
+		<media>http://store.yoyogames.com/downloads/gm-studio/RSS/Demos/Media/Windows8.html</media>		
+		<pubDate>04/10/2013</pubDate>
+	</item>
+	<item>
+		<title>Card_Control_Demo</title>
+		<description>When making card games it can often be complicated to get the positioning and selection of overlapping cards correct and this demo shows one way in which you can do it.</description>
+		<link>http://store.yoyogames.com/downloads/gm-studio/RSS/Demos/Cards.7z</link>
+		<category>Advanced</category>
+		<media>http://store.yoyogames.com/downloads/gm-studio/RSS/Demos/Media/Cards.html</media>		
+		<pubDate>04/10/2013</pubDate>
+	</item>
+	<item>
+		<title>Depth_Ordered_Starfield</title>
+		<description>Here we show you how to create a starfield effect where the individual "stars" have been ordered by depth. Note that this is a VERY intensive demo and a good performance benchmark.</description>
+		<link>http://store.yoyogames.com/downloads/gm-studio/RSS/Demos/Starfield.7z</link>
+		<category>Advanced</category>
+		<media>http://store.yoyogames.com/downloads/gm-studio/RSS/Demos/Media/Starfield.html</media>		
+		<pubDate>04/10/2013</pubDate>
+	</item>
+	<item>
+		<title>Generic_Extensions_Demo</title>
+		<description>This demo contains examples of GML extensions, Windows DLL extensions, and iOS/Android extensions to help get you started creating your own.</description>
+		<link>http://store.yoyogames.com/downloads/gm-studio/RSS/Demos/GenericExtensions_Demo.7z</link>
+		<category>Advanced</category>	
+		<media>http://store.yoyogames.com/downloads/gm-studio/RSS/Demos/Media/ExtensionsDemo.html</media>		
+		<pubDate>25/06/2014</pubDate>
+	</item>
+	<item>
+		<title>High_Polygon_3D_Model</title>
+		<description>In this demo you can see how GameMaker: Studio deals with 3D and models.</description>
+		<link>http://store.yoyogames.com/downloads/gm-studio/RSS/Demos/3DModel.7z</link>
+		<category>Advanced</category>
+		<media>http://store.yoyogames.com/downloads/gm-studio/RSS/Demos/Media/3DModel.html</media>
+		<pubDate>04/10/2013</pubDate>
+	</item>
+	<item>
+		<title>HTML5_Multi_Canvas_Example</title>
+		<description>This demo is for the HTML5 target only and shows how to use multiple canvas elements by mapping them to surfaces, thus enabling non-standard shapes for displaying your game.</description>
+		<link>http://store.yoyogames.com/downloads/gm-studio/RSS/Demos/MultiCanvasPlatformer.7z</link>
+		<category>Advanced</category>
+		<media>http://store.yoyogames.com/downloads/gm-studio/RSS/Demos/Media/MultiCanvasPlatformer.html</media>		
+		<pubDate>04/10/2013</pubDate>
+	</item>
+	<item>
+		<title>Isometric_Demo</title>
+		<description>This demo shows how to create a simple isometric game. Includes how a level is created, rendered, and how objects are moved and rendered into the scene correctly.</description>
+		<link>http://store.yoyogames.com/downloads/gm-studio/RSS/Demos/IsometricDemo.7z</link>
+		<category>Advanced</category>
+		<media>http://store.yoyogames.com/downloads/gm-studio/RSS/Demos/Media/IsometricDemo.html</media>		
+		<pubDate>27/06/2014</pubDate>
+	</item>
+	<item>
+		<title>LAN_Platformer</title>
+		<description>This demo is based on the Platformer Demo, only now it permits you to connect various users in the same game. Useful to see how a basic local network can be set up.</description>
+		<link>http://store.yoyogames.com/downloads/gm-studio/RSS/Demos/LANPlatformer.7z</link>
+		<category>Advanced</category>
+		<media>http://store.yoyogames.com/downloads/gm-studio/RSS/Demos/Media/NetworkExample.html</media>		
+		<pubDate>04/10/2013</pubDate>
+	</item>
+	<item>
+		<title>Physics_Joints_Demo</title>
+		<description>This demo shows various examples of physics joints being created and used in a single room.</description>
+		<link>http://store.yoyogames.com/downloads/gm-studio/RSS/Demos/PhysicsJoints.7z</link>
+		<category>Advanced</category>
+		<media>http://store.yoyogames.com/downloads/gm-studio/RSS/Demos/Media/PhysicsJointsPreview.html</media>		
+		<pubDate>04/10/2013</pubDate>
+	</item>
+	<item>
+		<title>Simple_Shader_Examples</title>
+		<description>In this demo you can find multiple examples of simple shaders that can be directly integrated into your games.</description>
+		<link>http://store.yoyogames.com/downloads/gm-studio/RSS/Demos/SimpleShaderExamples.7z</link>
+		<category>Advanced</category>
+		<media>http://store.yoyogames.com/downloads/gm-studio/RSS/Demos/Media/SimpleShaderExamples.html</media>		
+		<pubDate>04/10/2013</pubDate>
+	</item>
+	<item>
+		<title>Transition_Demo</title>
+		<description>The demo shows off some simple transition effects achieved using the application_surface</description>
+		<link>http://store.yoyogames.com/downloads/gm-studio/RSS/Demos/TransitionDemo.7z</link>
+		<category>Advanced</category>
+		<media>http://store.yoyogames.com/downloads/gm-studio/RSS/Demos/Media/TransitionDemo.html</media>
+		<pubDate>23/01/2014</pubDate>
+	</item>
+	<item>
+		<title>Window_Dragging</title>
+		<description>This demo shows how to control the window dragging and resizing directly so that the game does not pause while the window is being moved.</description>
+		<link>http://store.yoyogames.com/downloads/gm-studio/RSS/Demos/WindowDragging.7z</link>
+		<category>Advanced</category>
+		<media>http://store.yoyogames.com/downloads/gm-studio/RSS/Demos/Media/WindowDragging.html</media>
+		<pubDate>25/06/2015</pubDate>
+	</item>
+	<item>
+		<title>Ad_Colony</title>
+		<description>18/10/2016 - An introduction to using this ad provider on Android and iOS. See the readme in Included Files!</description>
+		<link>http://store.yoyogames.com/downloads/gm-studio/RSS/Demos/AdProvider-AdColony.7z</link>
+		<category>SDKs</category>	
+		<media>http://store.yoyogames.com/downloads/gm-studio/RSS/Demos/Media/FeedImage.html</media>		
+		<pubDate>27/09/2016</pubDate>
+	</item>
+	<item>
+		<title>Amazon_Game_Circle</title>
+		<description>18/05/2017 - Amazon Game Circle demo for Amazon Fire and Google Android devices. Test your settings out, and then export the extension as a .gmez and import it into your own project.</description>
+		<link>http://store.yoyogames.com/downloads/gm-studio/RSS/Demos/AmazonGameCircle.7z</link>
+		<category>SDKs</category>	
+		<media>http://store.yoyogames.com/downloads/gm-studio/RSS/Demos/Media/FeedImage.html</media>		
+		<pubDate>27/09/2016</pubDate>
+	</item>
+	<item>
+		<title>Facebook</title>
+		<description>27/09/2016 - Facebook demo for Android and iOS. Test your settings out, and then export the extension as a .gmez and import it into your own project.</description>
+		<link>http://store.yoyogames.com/downloads/gm-studio/RSS/Demos/Facebook.7z</link>
+		<category>SDKs</category>	
+		<media>http://store.yoyogames.com/downloads/gm-studio/RSS/Demos/Media/FeedImage.html</media>		
+		<pubDate>27/09/2016</pubDate>
+	</item>
+	<item>
+		<title>Flurry_Analytics</title>
+		<description>27/09/2016 - Flurry Analytics demo for Android and iOS. Test your settings out, and then export the extension as a .gmez and import it into your own project.</description>
+		<link>http://store.yoyogames.com/downloads/gm-studio/RSS/Demos/FlurryAnalyticsTestExt.7z</link>
+		<category>SDKs</category>	
+		<media>http://store.yoyogames.com/downloads/gm-studio/RSS/Demos/Media/FeedImage.html</media>		
+		<pubDate>27/09/2016</pubDate>
+	</item>
+	<item>
+		<title>Google_Analytics</title>
+		<description>27/09/2016 - Google Analytics demo for Android and iOS. Test your settings out, and then export the extension as a .gmez and import it into your own project.</description>
+		<link>http://store.yoyogames.com/downloads/gm-studio/RSS/Demos/GoogleAnalyticsTestExt.7z</link>
+		<category>SDKs</category>	
+		<media>http://store.yoyogames.com/downloads/gm-studio/RSS/Demos/Media/FeedImage.html</media>		
+		<pubDate>27/09/2016</pubDate>
+	</item>
+	<item>
+		<title>Google_Mobile_Ads</title>
+		<description>18/10/2016 - An introduction to using this ad provider on Android (v9.6.1) and iOS (v7.10.1). Test your settings out, and then export the extension as a .gmez and import it into your own project - note requirement to use test account details now!</description>
+		<link>http://store.yoyogames.com/downloads/gm-studio/RSS/Demos/AdProvider-GoogleMobileAds.7z</link>
+		<category>SDKs</category>	
+		<media>http://store.yoyogames.com/downloads/gm-studio/RSS/Demos/Media/FeedImage.html</media>		
+		<pubDate>27/09/2016</pubDate>
+	</item>
+	<item>
+		<title>Google_Play_Services</title>
+		<description>18/10/2016 - Google Play Services demo for Android (v9.6.1) and iOS (v7.10.1). Test your settings out, and then export the extension as a .gmez and import it into your own project.</description>
+		<link>http://store.yoyogames.com/downloads/gm-studio/RSS/Demos/GooglePlayServices.7z</link>
+		<category>SDKs</category>	
+		<media>http://store.yoyogames.com/downloads/gm-studio/RSS/Demos/Media/FeedImage.html</media>		
+		<pubDate>28/09/2016</pubDate>
+	</item>
+	<item>
+		<title>MMedia</title>
+		<description>18/10/2016 - An introduction to using this ad provider on Android and iOS. Test your settings out, and then export the extension as a .gmez and import it into your own project. NOTE: This is not updated to match "ONE by AOL" version.</description>
+		<link>http://store.yoyogames.com/downloads/gm-studio/RSS/Demos/AdProvider-MMedia.7z</link>
+		<category>SDKs</category>	
+		<media>http://store.yoyogames.com/downloads/gm-studio/RSS/Demos/Media/FeedImage.html</media>		
+		<pubDate>27/09/2016</pubDate>
+	</item>
+	<item>
+		<title>Moga</title>
+		<description>27/09/2016 - Moga pad demo for Android. Test out, and then export the extension as a .gmez and import it into your own project.</description>
+		<link>http://store.yoyogames.com/downloads/gm-studio/RSS/Demos/Moga.7z</link>
+		<category>SDKs</category>	
+		<media>http://store.yoyogames.com/downloads/gm-studio/RSS/Demos/Media/FeedImage.html</media>		
+		<pubDate>27/09/2016</pubDate>
+	</item>
+	<item>
+		<title>MoPub</title>
+		<description>18/10/2016 - An introduction to using this ad provider on Android and iOS. Test your settings out, and then export the extension as a .gmez and import it into your own project.</description>
+		<link>http://store.yoyogames.com/downloads/gm-studio/RSS/Demos/AdProvider-MoPub.7z</link>
+		<category>SDKs</category>	
+		<media>http://store.yoyogames.com/downloads/gm-studio/RSS/Demos/Media/FeedImage.html</media>		
+		<pubDate>27/09/2016</pubDate>
+	</item>
+	<item>
+		<title>Coding_BreakOut</title>
+		<description>This demo is the final version of the tutorial with the same name. You can use this to compare what you have done after finishing the tutorial with how it should be.</description>
+		<link>http://store.yoyogames.com/downloads/gm-studio/RSS/Demos/CodingAGame.7z</link>
+		<category>Completed Tutorials</category>
+		<media>http://store.yoyogames.com/downloads/gm-studio/RSS/Demos/Media/CompletedTut03-CodingAGame.html</media>				
+		<pubDate>04/10/2013</pubDate>
+	</item>
+	<item>
+		<title>My_First_Game</title>
+		<description>This demo is the final version of the tutorial with the same name. You can use this to compare what you have done after finishing the tutorial with how it should be.</description>
+		<link>http://store.yoyogames.com/downloads/gm-studio/RSS/Demos/MyFirstGame.7z</link>
+		<category>Completed Tutorials</category>	
+		<media>http://store.yoyogames.com/downloads/gm-studio/RSS/Demos/Media/CompletedTut01-MyFirstGame.html</media>				
+		<pubDate>04/10/2013</pubDate>
+	</item>
+	<item>
+		<title>HTML5_Scaling_Demo</title>
+		<description>This demo is for the HTML5 and JS targets only and is the final version of the tutorial with the same name. You can use this to compare what you have done after finishing the tutorial with how it should be.</description>
+		<link>http://store.yoyogames.com/downloads/gm-studio/RSS/Demos/HTML5_Scaling_Demo.7z</link>
+		<category>Completed Tutorials</category>
+		<media>http://store.yoyogames.com/downloads/gm-studio/RSS/Demos/Media/HTML5_Scaling.html</media>		
+		<pubDate>30/04/2014</pubDate>
+	</item>
+	<item>
+		<title>Optimise_Draw_Pipeline</title>
+		<description>This demo is the final version of the tutorial with the same name. You can use this to compare what you have done after finishing the tutorial with how it should be.</description>
+		<link>http://store.yoyogames.com/downloads/gm-studio/RSS/Demos/OptimiseDrawPipeline.7z</link>
+		<category>Completed Tutorials</category>	
+		<media>http://store.yoyogames.com/downloads/gm-studio/RSS/Demos/Media/OptimiseDrawPipeline.html</media>				
+		<pubDate>27/04/2014</pubDate>
+	</item>
+	<item>
+		<title>Particles</title>
+		<description>This demo is the final version of the tutorial with the same name. You can use this to compare what you have done after finishing the tutorial with how it should be.</description>
+		<link>http://store.yoyogames.com/downloads/gm-studio/RSS/Demos/Particles.7z</link>
+		<category>Completed Tutorials</category>	
+		<media>http://store.yoyogames.com/downloads/gm-studio/RSS/Demos/Media/CompletedTut05-ParticleTutorial.html</media>				
+		<pubDate>04/10/2013</pubDate>
+	</item>
+	<item>
+		<title>Physics_Basics_1</title>
+		<description>This demo is to accompany the tutorial of the same name, and shows an example of the final project from that tutorial.</description>
+		<link>http://store.yoyogames.com/downloads/gm-studio/RSS/Demos/PhysicsBasics_1.7z</link>
+		<category>Completed Tutorials</category>	
+		<media>http://store.yoyogames.com/downloads/gm-studio/RSS/Demos/Media/PhysicsBasics_1.html</media>		
+		<pubDate>12/01/2014</pubDate>
+	</item>
+	<item>
+		<title>Physics_Basics_2</title>
+		<description>This demo is to accompany the tutorial of the same name, and shows an example of the final project from that tutorial.</description>
+		<link>http://store.yoyogames.com/downloads/gm-studio/RSS/Demos/PhysicsBasics_2.7z</link>
+		<category>Completed Tutorials</category>	
+		<media>http://store.yoyogames.com/downloads/gm-studio/RSS/Demos/Media/PhysicsBasics_2.html</media>		
+		<pubDate>27/01/2014</pubDate>
+	</item>
+	<item>
+		<title>Physics_Basics_3</title>
+		<description>This demo is to accompany the tutorial of the same name, and shows an example of the final project from that tutorial.</description>
+		<link>http://store.yoyogames.com/downloads/gm-studio/RSS/Demos/PhysicsBasics_3.7z</link>
+		<category>Completed Tutorials</category>	
+		<media>http://store.yoyogames.com/downloads/gm-studio/RSS/Demos/Media/PhysicsBasics_3.html</media>		
+		<pubDate>27/01/2014</pubDate>
+	</item>
+	<item>
+		<title>Saving_And_Loading</title>
+		<description>This demo is the final version of the tutorial with the same name. You can use this to compare what you have done after finishing the tutorial with how it should be.</description>
+		<link>http://store.yoyogames.com/downloads/gm-studio/RSS/Demos/SavingAndLoading.7z</link>
+		<category>Completed Tutorials</category>	
+		<media>http://store.yoyogames.com/downloads/gm-studio/RSS/Demos/Media/CompletedTut07-SavingAndLoadingTutorial.html</media>				
+		<pubDate>04/10/2013</pubDate>
+	</item>
+	<item>
+		<title>Scrolling_Shooter_Part1</title>
+		<description>This demo is the final version of the tutorial with the same name. You can use this to compare what you have done after finishing the tutorial with how it should be.</description>
+		<link>http://store.yoyogames.com/downloads/gm-studio/RSS/Demos/ScrollingShooterPart1.7z</link>
+		<category>Completed Tutorials</category>	
+		<media>http://store.yoyogames.com/downloads/gm-studio/RSS/Demos/Media/ScrollingShooter.html</media>				
+		<pubDate>27/04/2014</pubDate>
+	</item>
+	<item>
+		<title>Scrolling_Shooter_Part2</title>
+		<description>This demo is the final version of the tutorial with the same name. You can use this to compare what you have done after finishing the tutorial with how it should be.</description>
+		<link>http://store.yoyogames.com/downloads/gm-studio/RSS/Demos/ScrollingShooterPart2.7z</link>
+		<category>Completed Tutorials</category>	
+		<media>http://store.yoyogames.com/downloads/gm-studio/RSS/Demos/Media/ScrollingShooter.html</media>				
+		<pubDate>27/04/2014</pubDate>
+	</item>
+	<item>
+		<title>Skeletal_Animation_With_Spine</title>
+		<description>This demo is the final version of the tutorial with the same name. You can use this to compare what you have done after finishing the tutorial with how it should be.</description>
+		<link>http://store.yoyogames.com/downloads/gm-studio/RSS/Demos/SkeletalAnimation.7z</link>
+		<category>Completed Tutorials</category>	
+		<media>http://store.yoyogames.com/downloads/gm-studio/RSS/Demos/Media/SkeletalAnimation.html</media>				
+		<pubDate>27/04/2014</pubDate>
+	</item>
+	<item>
+		<title>Surfaces_Part1</title>
+		<description>This demo is the final version of the tutorial with the same name. You can use this to compare what you have done after finishing the tutorial with how it should be.</description>
+		<link>http://store.yoyogames.com/downloads/gm-studio/RSS/Demos/Surfaces_Part1.7z</link>
+		<category>Completed Tutorials</category>	
+		<media>http://store.yoyogames.com/downloads/gm-studio/RSS/Demos/Media/CompletedTut06-SurfacesTutorial.html</media>				
+		<pubDate>04/10/2013</pubDate>
+	</item>
+	<item>
+		<title>Surfaces_Part2</title>
+		<description>This demo is the final version of the tutorial with the same name. You can use this to compare what you have done after finishing the tutorial with how it should be.</description>
+		<link>http://store.yoyogames.com/downloads/gm-studio/RSS/Demos/Surfaces_Part2.7z</link>
+		<category>Completed Tutorials</category>	
+		<media>http://store.yoyogames.com/downloads/gm-studio/RSS/Demos/Media/CompletedTut06-SurfacesTutorial.html</media>				
+		<pubDate>04/10/2013</pubDate>
+	</item>
+</channel>
+</rss>

@@ -1,0 +1,10 @@
+<entries>
+	<!-- Picture to be used in Tutorials dialog box -->
+	<Bitmap>3DModel.png</Bitmap>
+	<!-- Text to be used in Tutorials dialog box -->
+	<Text>High_Polygon_3D_Model</Text>
+	<!-- GMZ to be used as template -->
+	<GMZ>3DModel.gmz</GMZ>
+	<!-- parent node to be used in demos box -->
+	<Parent>Advanced</Parent>
+</entries>
