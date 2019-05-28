@@ -1,0 +1,237 @@
+Map Intro Cinematic
+Objective Transition
+Player Unit Placement
+> Player Unit Turn
+> Conditional Cinematic
+> Enemy Unit Turn
+Objective Completion Transition
+Loot Message
+Map Outro Cinematic
+
+[roster]
+Sort by:
+- No.
+- Clan
+- Class
+- Level
+
+[stats]
+lv
+str
+def
+pow
+res
+
+***
+Phys. Accuracy:
+***
+[1]:
+if s(status) == {sleep, stun}
+	accuracy = 100%
+[2]:
+t(evade)=evade-0.75*e(weight)
+clamp(t(evade), 0, 100)
+
+[3]:
+s(face) && o(face)
+	frontal		t(evade) /= 1
+	rear		t(evade) /= 4
+	side		t(evade) /= 2
+
+[4]:
+if s(status) == {disable}
+	t(evade) -= 20
+if o(status) == {blind}
+	t(evade) += 50
+
+[5]:
+clamp(t(evade), 5, 95)
+
+[6]:
+accuracy = 100 - t(evade)
+***
+
+Attack:
+***
+[1]:
+if (physical)
+	att = str
+if (magical)
+	att = pow
+
+***
+
+[status]
+- Sleep
+- Stun
+- Disable
+- Blind
+- Poison
+- Silence
+
+Food gives Buffs
+Item use is necessary (lower marginal cost of item use)
+
+[class_id]
+- Scholar (White Mage) [000001]; Knives, Staves
+- Warrior [000010]; Swords, Flails
+- Alchemist (Dark Mage) [000100]; Clubs, Staves
+- Mercenary (Rogue) [001000]; Knives, Axes
+- Hunter (Archer + Gunner) [010000]; Bows, Knives
+- Lancer [100000]; Polearms, Clubs
+
+[item_id]
+{n in N}
+[item_binary]
+- Consumable [0001]
+	[type_binary]
+	- ...
+		- [target] self, other, all
+		- [stat]   / [status]
+		- [amount] / [probability]
+		- [name]
+		- [price]
+		- [description]
+	- Restorative [001]
+	- Curative [010]
+	- Restorative + Curative [011]
+	- Crafting [100]
+- Weapon [0010]
+	[type_binary]:[10101010]; which of 8 weapon categories it belongs
+	- ...
+		- [class_binary]:[101010]; which of 6 classes can use
+		- [atk]
+		- [pow]
+		- [attack_range_min]
+		- [attack_range_max]
+		- [attack_type]
+		- [attack_binary]:[111]; bludgeon/pierce/slash
+		- [name]
+		- [price]
+		- [description]
+	- Bows [00000001]
+		- Shortbow
+		- Hunting Bow
+		- Longbow
+		- Yayi (Turkic Bow)
+		- Crossbow
+		- Gastraphetes
+		- Bowgun
+		- Rifle
+		- Shepherd's Sling
+		- Flax Sling
+		- Kestros (Sling)
+	- Axes [00000010]
+		- Axe
+		- Greataxe
+		- Battle Axe
+		- Tabarzin (Persian Battle Axe)
+		- Parashu (Deccan Axe)
+		- Sajarish Persian (Riding Axe)
+		- Keteriya (Sri Lankan Battle Axe)
+		- Maul
+		- Tabar (Deccan Maul)
+		- Zappa (Congo Axe)
+	- Polearms [00000100]
+		- Spear
+		- Bone Spear
+		- Pilum
+		- Cedar Pole
+		- Ivory Pole
+		- Lance
+		- Bone Lance
+		- Tusk
+		- Javelin
+		- Falerica (Phoenician Javelin)
+		- Vel (Deccan Javelin)
+	- Clubs [00001000]
+		- Mace
+		- Spiked Mace
+		- Shishpar (Flanged Mace)
+		- Sharur (Mythic Mace)
+		- Mudgar (Wooden Mace)
+		- Gadae (Deccan Mace)
+		- Mallet
+		- Hammer
+		- Zagnal (War Hammer)
+		- Rungu (Club)
+		- Nulla (Waddy Club)
+	- Flails [00010000]
+		- Bullwhip
+		- Sjambok (Hippo Leather Whip)
+		- Kourbaj (Arabic Whip)
+		- Chain Whip
+		- Morning Star
+		- Leather Flail
+		- Spiked Flail
+		- Nekhakha (Pharaonic Flail)
+		- 
+	- Staves [00100000]
+		- Rod
+		- Yew Rod
+		- Wand
+		- Coral Wand
+		- Quarterstaff
+		- Staff
+		- Cypress Staff
+		- Cane
+		- Crook
+		- Shepherd's Crook
+		- Sceptre
+		- Sekhem
+		- Jewelled Sceptre
+	- Knives [01000000]
+		- Khanjar
+		- Jambiya
+		- Khukri
+		- Jile
+		- Dagger
+		- Seme (Masaai Dagger)
+		- Sickle
+		- Mambele (Spiked Knife-Axe Hybrid)
+	- Swords [10000000]
+		- Jladis
+		- Saif
+		- Talwar
+		- Sabar
+		- Battar
+		- Kilij
+		- Shamshir
+		- Mathor
+		- Takoba (Hausa Sword)
+		- Nimcha
+		- Khopesh
+		- Scythe
+		- Akrafena (Ashanti Sword)
+- Equipment [0100]
+	[type_binary]:[1010]; which of J equipment categories it belongs
+	- ...
+		- [class_binary]:[101010]; which of 6 classes can use
+		- [def]
+		- [res]
+		- [weight]
+		- [defence_binary]:[111]; bludgeon/pierce/slash
+		- [name]
+		- [price]
+		- [description]
+	- Robe [000001]
+		- Thoub
+		- Djilaba
+		- 
+	- Plate [000010]
+		- Steel Breastplate
+		- 
+	- Mail [000100]
+		- Mail Shirt
+		- 
+	- Hide [001000]
+		-
+- Chronicle [1000]
+	[type_binary]
+	- ...
+		- [name]
+		- [description]
+		- [content]
+	- Report [001]
+	- Scripture [010]
+	- Literature [100]
