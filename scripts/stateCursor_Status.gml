@@ -80,6 +80,7 @@
             instance_destroy();
         }
         UpdateMap(TILE_MAP, 0);
+        audio_play_sound(res_snd_deny, 1, false);
         fsm_enterState(stateCursor_Command);
         return (state_next);
     }

@@ -60,11 +60,11 @@
             <kind>1</kind>
             <string>{
     // Debug
-    show_debug_overlay(true);
+    show_debug_overlay(false);
     debugMe = false;
 
     // Music
-    audio_play_sound( res_bgm_battle2, 1, true );
+    //audio_play_sound( res_bgm_battle2, 1, true );
 
     // Timer
     theTimer = 0;
@@ -79,12 +79,14 @@
     SceneChoice  = 0;
     SceneCounter = 0;
     SceneChoiceActive = false;
+    /*
     SceneName[0] = "Call of Dreams";
     SceneName[1] = "Wedding Under the Stars";
     SceneName[2] = "The Caravan";
     SceneName[3] = "Ways of Life";
     SceneName[4] = "Sand and Steel";
     SceneName[5] = "Nations the Dunes Swallowed";
+    */
 
     // Input
     //globalvar myInput;
@@ -106,14 +108,20 @@
     fsm_createStateMachine(stateSystem_Update);
 
     // Turn
-    myTurn  = true;
-    myPhase = 0;
-    myUnitInfo[0] = noone;
-    myUnitInfo[1] = noone;
+    myTurn         = true;
+    myPhase        = 0;
+    turnCounter[0] = 0;
+    turnCounter[1] = 0;
+    turnOrder      = ds_list_create();
+    turnChoice     = 0;
+    turnScroll     = 0;
+    actorPointer   = ds_list_create();
+    actorSpeed     = ds_list_create();
+    myUnitInfo[0]  = noone;
+    myUnitInfo[1]  = noone;
 
     // Faction
     myFaction = 0;
-
 
     // Map
     myMap = instance_create(0, 0, CMap);
@@ -262,7 +270,8 @@
             <kind>1</kind>
             <string>{
     // Garbage Collection
-    audio_stop_sound(res_bgm_battle2);
+    //audio_stop_sound(res_bgm_battle2);
+    ClearTurnOrder();
     ds_list_destroy(myCache);
 }
 </string>
@@ -287,9 +296,11 @@
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>{
+            <string>///Finite State Machine
+{
     //draw_text(128, 16, string(CoordToIsoX(mouse_x, mouse_y)) + ", " + string(CoordToIsoY(mouse_x, mouse_y)));
     if (state_index == stateSystem_Pause) {
+        show_debug_overlay(false);
         draw_set_alpha(0.8);
         draw_set_colour(c_deepblue);
         draw_rectangle(0, 0, view_wport[0], view_hport[0], false);
@@ -306,6 +317,24 @@
         DrawHeading(16, 112, 128, "Controls", true);
         DrawString( 16, 132, 32, "[?]", "[D] Debug Mode#[S] Cutscene Selection (in Debug Mode)#[C] Spawn Actor#[V] Spawn Enemy Actor#[B] Spawn Prop" );
     }
+    
+    if (state_index == stateSystem_TurnOrder) {
+        draw_set_colour(c_black);
+        draw_set_font(Font_H1);
+        draw_text(view_wport[0] - 64, 32, CCursor.vecPosition[| Z]);
+        DrawValue(view_wport[0] - 70, 44, 0, "Elevation");
+        
+        DrawMenu(view_wview[0] * 0.5 - 150, 32, 300, min(ds_list_size(turnOrder), 15), turnChoice, "Turn Order");
+
+        //DrawHeading(view_wview[0] * 0.5, 32, 128, "Turn Order", true);
+        var i;
+        for (i=0; i&lt;ds_list_size(actorPointer); i++) {
+            if (i == turnCounter[0]) {
+                DrawString( view_wview[0] * 0.5 - 150 + 16, 52 + (i + 1) * 16, 16, "[!]", "" );
+            }
+            DrawString( view_wview[0] * 0.5 - 150 + 42, 52 + (i + 1) * 16, 50, "[" + string(actorSpeed[| i]) + "]", actorPointer[| i].myName );
+        }
+    }
 
     if (state_index == stateSystem_Update) {
         draw_set_colour(c_black);
@@ -315,15 +344,27 @@
 
         if (keyboard_check_pressed(ord("D"))) {
             debugMe = !debugMe;
+            show_debug_overlay(debugMe);
+        }
+
+        if (myPhase == 1) {
+            //DrawHeading(view_wview[0] - 16 - string_width("Unit Placement Phase"), 128, 4 + string_width("Unit Placement Phase"), "Unit Placement Phase", true);
+            //DrawValueColour(view_wview[0] - 16 - string_width("Unit Placement Phase"), 128 + 16, 128, "Place desired Units on the Battlefield before progressing on to the next Phase.", c_black);
+        }
+        if (myPhase == 2) {
+            //DrawHeading(view_wview[0] - 16 - string_width("Battle Phase"), 128, 4 + string_width("Battle Phase"), "Battle Phase", true);
+            //DrawValueColour(view_wview[0] - 16 - string_width("Unit Placement Phase"), 128 + 16, 128, "Place desired Units on the Battlefield before progressing on to the next Phase.", c_black);
         }
 
         if (debugMe) {
+            /*
             if ( SceneChoiceActive ) {
                 DrawMenu(32 + 128 + 128 + 16, 32, 256, min(14, SceneCount), SceneChoice, "Cutscene");
                 for (var i = 0; i &lt; min(14, SceneCount); i++) {
                     draw_text(32 + 128 + 128 + 16 + 20, 32 + 24 + 16 * (i + 1), SceneName[i + SceneCounter]);
                 }
             }
+            */
 
             DrawHeading(16, 32, 128, "Camera", true);
             DrawVariable(16, 48 + 4, 128, "Position X: ", myCursor.vecPosition[| X]);
@@ -376,10 +417,11 @@
             <string>/// Unit Info
 {
     if ( state_index == stateSystem_Update ) {
-        if ( myUnitInfo[0] != noone ) {
-            if ( myUnitInfo[0].object_index != CWorldObject ) {
-                DrawUnitInfo( myUnitInfo[0] );
-                //DrawMenu( 32, view_hview[0] - 128 - 16, 128, 3, 0, myUnitInfo[0].myName );
+        for (var i=0; i&lt;2; i++) {
+            if ( myUnitInfo[i] != noone ) {
+                if ( myUnitInfo[i].object_index != CWorldObject ) {
+                    DrawUnitInfo( myUnitInfo[i], i );
+                }
             }
         }
     }

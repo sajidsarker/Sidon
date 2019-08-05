@@ -13,6 +13,7 @@
      or myInput.keySelect) {
         theScroll[5] = 1;
         theScroll[6] = 0;
+        audio_play_sound(res_snd_deny, 1, false);
         fsm_enterState(stateLoop_Roster_1);
         return (state_next);
     }

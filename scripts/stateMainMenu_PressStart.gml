@@ -5,7 +5,7 @@
 
     if (myInput.keyStart
      or myInput.keyA) {
-        //audio_play_sound(res_snd_cursor, 1, false);
+        audio_play_sound(res_snd_load, 1, false);
         fsm_enterState(stateMainMenu_Update);
         return (state_next);
     }

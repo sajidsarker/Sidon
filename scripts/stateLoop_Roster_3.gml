@@ -12,6 +12,7 @@
      or myInput.keySelect) {
         theScroll[6] = 0;
         theScroll[5] = 1;
+        audio_play_sound(res_snd_deny, 1, false);
         fsm_enterState(stateLoop_Roster_1);
         return (state_next);
     }
@@ -47,6 +48,7 @@
                         ds_list_add(temp_equipment, ds_list_find_value(Storage[ITEM_ID], i));
                     }
                 }
+                audio_play_sound(res_snd_confirm, 1, false);
                 fsm_enterState(stateLoop_Roster_3a);
                 return (state_next);
             break;
@@ -61,6 +63,7 @@
                         ds_list_add(temp_equipment, ds_list_find_value(Storage[ITEM_ID], i));
                     }
                 }
+                audio_play_sound(res_snd_confirm, 1, false);
                 fsm_enterState(stateLoop_Roster_3b);
                 return (state_next);
             break;
@@ -74,6 +77,7 @@
                         //ds_list_add(temp_equipment, ds_list_find_value(Storage[ITEM_ID], i));
                     //}
                 }
+                audio_play_sound(res_snd_confirm, 1, false);
             break;
         }
     }

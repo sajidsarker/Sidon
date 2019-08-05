@@ -46,9 +46,21 @@
 
     }
 
+    // Deselection
+    if (myInput.keyB) {
+        myInput.keyA = false;
+        myInput.keyB = false;
+        ResetCursor(prevX, prevY);
+        UpdateMap(TILE_MAP, 0);
+        audio_play_sound(res_snd_deny, 1, false);
+        fsm_enterState(stateCursor_Command);
+        return (state_next);
+    }
+
     // Selection
     if (myInput.keyA) {
         myInput.keyA = false;
+        myInput.keyB = false;
         if (ds_grid_get(CMap.myMap[TILE_MAP], vecPosition[| X], vecPosition[| Y]).myFlag[REACHABLE] == true
         and ds_grid_get(CMap.myMap[TILE_MAP], vecPosition[| X], vecPosition[| Y]).myFlag[ALLY_OCCUPIES] == false) {
             // Cutscene Manager for Movement
@@ -68,23 +80,22 @@
                 //ds_list_clear(theMenu[0]);
                 //isSelected[0] = noone;
                 //isSelected[1] = noone;
+            _X_ = prevX;
+            _Y_ = prevY;
             prevX = vecPosition[| X];
             prevY = vecPosition[| Y];
             UpdateMap(TILE_MAP, 0);
             UpdateMap(TILE_MAP, 1);
+            audio_play_sound(res_snd_confirm, 1, false);
+            isSelected[0].canMove = false;
+            ds_list_delete(theMenu[0], ds_list_find_index(theMenu[0], 0));
+            if (!isSelected[0].canAct) {
+                fsm_enterState(stateCursor_Wait);
+                return (state_next);
+            }
             fsm_enterState(stateCursor_Command);
-            //fsm_enterState(stateCursor_Wait);
             return (state_next);
         }
-    }
-
-    // Deselection
-    if (myInput.keyB) {
-        myInput.keyB = false;
-        ResetCursor(prevX, prevY);
-        UpdateMap(TILE_MAP, 0);
-        fsm_enterState(stateCursor_Command);
-        return (state_next);
     }
 
     return (state_continue);

@@ -11,7 +11,7 @@
     }
 
     //_crawltext = "Early in the 21st Century, THE TYRELL CORPORATION advanced robot evolution into the NEXUS phase - a being virtually identical to a human - known as a Replicant. The NEXUS 6 Replicants were superior in strength and agility, and at least equal in intelligence, to the genetic engineers who created them.##Replicants were used Off-World as slave labor, in the hazardous exploration and colonization of other planets. After a bloody mutiny by a NEXUS 6 combat team in an Off-World colony, Replicants were declared illegal on earth - under penalty of death. Special police squads - BLADE RUNNER UNITS - had orders to shoot to kill, upon detection, any trespassing Replicant##This was not called execution.##It was called retirement.";
-    _crawltext = "The enlightenment bestowed by God upon mankind in the Year of the Elephant had long since faded.##In this age of decline, the differences over which men fought grew unchecked until the people of the desert who were once united, were now fractured into many tribes scattered across the sands.";
+    _crawltext = "The age of enlightenment bestowed by God upon mankind in the Year of the Elephant had long since faded.##In this age of decline, the differences over which men fought grew unchecked until the people of the desert, once united, fractured into many tribes and were scattered across the sands.";
     _crawl = string_height_ext( _crawltext, -1, 250 );
     _pan = ScenePanner( 0, _actor[0].y - 3 * TILE_HEIGHT - Seconds(46) - 4 * (view_hview[0] + _crawl), 0, _actor[0].y - 3 * TILE_HEIGHT, 0 );
 
@@ -83,8 +83,9 @@
     SceneWait(2);
     SceneChangeTarget( _actor[0] );
     SceneSpeak( "1_Sidonis_God willing." );
-    SceneWait(2);
     */
+    SceneBanner("BATTLE START!");
+    SceneWait(0.05);
 
     SceneRun();
 }

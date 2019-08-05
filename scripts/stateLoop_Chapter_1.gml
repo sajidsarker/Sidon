@@ -10,6 +10,9 @@
 
     if (myInput.keyB
      or myInput.keySelect) {
+        x = ds_list_find_value(Node[0], LoadNode(theScroll[1] + theChoice[1]));
+        y = ds_list_find_value(Node[1], LoadNode(theScroll[1] + theChoice[1])) + 100;
+        audio_play_sound(res_snd_deny, 1, false);
         fsm_enterState(stateLoop_Update);
         return (state_next);
     }
@@ -60,17 +63,22 @@
         }
     }
 
+    x = ds_list_find_value(Node[0], LoadNode(theScroll[1] + theChoice[1])) + 224;
+    y = ds_list_find_value(Node[1], LoadNode(theScroll[1] + theChoice[1])) + 124;
+    theCounter = LoadNode(theScroll[1] + theChoice[1]);
+
     if (myInput.keyStart
      or myInput.keyA) {
         myInput.keyStart = false;
         myInput.keyA = false;
         /// Load Chapter Data
-        LoadMap( theChoice[1] )
-        //theMap = "map_1_" + string(theChoice[1] + 1) + ".txt";
+        LoadMap( theScroll[1] + theChoice[1] )
+        //theMap = "map_1_" + string(theChoice[1] + 1) + ".dat";
         SaveGame();
         ds_list_destroy(Node[0]);
         ds_list_destroy(Node[1]);
         ds_list_destroy(Node[2]);
+        audio_play_sound(res_snd_confirm, 1, false);
         room_goto(test_map);
         /*
         switch (ds_list_find_value(theMenu[1], theChoice[1])) {

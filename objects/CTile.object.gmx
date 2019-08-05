@@ -80,6 +80,16 @@
     if (myFlag[ENEMY_OCCUPIES]) {
         //image_index = 1;
     }
+    
+    if (CGame.myPhase == 1) {
+        if (CGame.state_index != stateScene_Update and
+            CGame.state_index != stateSystem_Prompt) {
+            if (ds_grid_get(CMap.myMap[SPAWN_MAP], myX, myY) == true) {
+                visible = true;
+                image_index = 0;
+            }
+        }
+    }
 }
 </string>
           </argument>
@@ -106,6 +116,14 @@
             <string>{
     if (visible) {
         draw_sprite(sprite_index, image_index, x, y - z - TILE_HEIGHT);
+        if (CGame.myPhase == 1) {
+            if (CGame.state_index != stateScene_Update and
+                CGame.state_index != stateSystem_Prompt) {
+                if (ds_grid_get(CMap.myMap[SPAWN_MAP], myX, myY)) {
+                    draw_sprite(res_msk_tile, 0, x, y - z - TILE_HEIGHT);
+                }
+            }
+        }
     }
 }
 </string>

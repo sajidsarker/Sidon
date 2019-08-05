@@ -12,6 +12,7 @@
      or myInput.keySelect) {
         theChoice[3] = 0;
         theScroll[3] = 0;
+        audio_play_sound(res_snd_deny, 1, false);
         fsm_enterState(stateLoop_Update);
         return (state_next);
     }
@@ -63,9 +64,11 @@
             if (_a > 0) {
                 myInput.keyStart = false;
                 myInput.keyA = false;
+                audio_play_sound(res_snd_confirm, 1, false);
                 fsm_enterState(stateLoop_Inventory_2);
                 return (state_next);
             } else {
+                audio_play_sound(res_snd_deny, 1, false);
                 BufferPrompt("0_You do not hold a minimum amount of item in your [Armoury] in order to sell.");
                 DisplayPrompt();
             }
@@ -73,7 +76,7 @@
     }
 
     // Debug::Inventory
-    if (keyboard_check_pressed(ord("M"))) {
+    if (keyboard_check_pressed(ord("H"))) {
         repeat (5) {
             AddStorage(irandom_range(0, 200), 1);
         }
