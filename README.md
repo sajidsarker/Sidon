@@ -1,6 +1,6 @@
 # Sidon
 > Source Code for "Sidon".
-> Source Code for "BeirutEngine".
-> Source Code for "BeirutMapEdit".
+
+Contains Source Code and datafiles for "BeirutEngine", "BeirutMapEdit", and "Sidon".
 
 Programming and writing by Sajid Al Sanai.
