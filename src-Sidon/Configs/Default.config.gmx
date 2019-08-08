@@ -704,7 +704,7 @@
     <option_xbone_title_id></option_xbone_title_id>
   </Options>
   <ConfigConstants>
-    <constants number="78">
+    <constants number="77">
       <constant name="c_deepblue">make_colour_rgb(50, 73, 87)</constant>
       <constant name="X">0</constant>
       <constant name="Y">1</constant>
@@ -715,7 +715,6 @@
       <constant name="HEIGHT_MAP">1</constant>
       <constant name="TERRAIN_MAP">2</constant>
       <constant name="ENTITY_MAP">3</constant>
-      <constant name="SPAWN_MAP">4</constant>
       <constant name="PROMPT_MESSAGE">0</constant>
       <constant name="PROMPT_DIALOGUE">1</constant>
       <constant name="PROMPT_NOTIFICATION">2</constant>

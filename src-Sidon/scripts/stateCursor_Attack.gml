@@ -61,7 +61,6 @@
             */
             UpdateMap(TILE_MAP, 0);
             UpdateMap(TILE_MAP, 1);
-            audio_play_sound(res_snd_confirm, 1, false);
             fsm_enterState(stateCursor_Command);
             //fsm_enterState(stateCursor_Facing);
             return (state_next);
@@ -73,7 +72,6 @@
         myInput.keyB = false;
         ResetCursor(prevX, prevY);
         UpdateMap(TILE_MAP, 0);
-        audio_play_sound(res_snd_deny, 1, false);
         fsm_enterState(stateCursor_Command);
         return (state_next);
     }

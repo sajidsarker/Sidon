@@ -12,7 +12,6 @@
      or myInput.keySelect) {
         theChoice[4] = 0;
         theScroll[4] = 0;
-        audio_play_sound(res_snd_deny, 1, false);
         fsm_enterState(stateLoop_Update);
         return (state_next);
     }
@@ -67,17 +66,14 @@
         if (theMax > 0 and thePrice <= Storage[GOLD]) {
             myInput.keyStart = false;
             myInput.keyA = false;
-            audio_play_sound(res_snd_confirm, 1, false);
             fsm_enterState(stateLoop_Shop_2);
             return (state_next);
         }
         if (thePrice > Storage[GOLD]) {
-            audio_play_sound(res_snd_deny, 1, false);
             BufferPrompt("0_You do not have enough Denari to make a purchase.");
             DisplayPrompt();
         }
         if (theMax <= 0) {
-            audio_play_sound(res_snd_deny, 1, false);
             BufferPrompt("0_You have reached the maximum number of this item you can hold in your [Armoury].");
             DisplayPrompt();
         }

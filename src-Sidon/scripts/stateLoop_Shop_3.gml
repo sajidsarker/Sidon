@@ -11,7 +11,6 @@
     if (myInput.keyB
      or myInput.keySelect) {
         theScroll[6] = 0;
-        audio_play_sound(res_snd_deny, 1, false);
         fsm_enterState(stateLoop_Shop_2);
         return (state_next);
     }
@@ -42,12 +41,10 @@
             theScroll[5] = 1;
             theScroll[6] = 0;
             DisplayPrompt();
-            audio_play_sound(res_snd_confirm, 1, false);
             fsm_enterState(stateLoop_Shop_1);
             return (state_next);
         } else {
             theScroll[6] = 0;
-            audio_play_sound(res_snd_deny, 1, false);
             fsm_enterState(stateLoop_Shop_2);
             return (state_next);
         }

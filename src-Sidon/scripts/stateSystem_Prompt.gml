@@ -5,7 +5,6 @@
 
     if (myInput.keyA) {
         if (instance_exists(CPrompt)) {
-            audio_play_sound(res_snd_confirm, 1, false);
             if (CPrompt._id == PROMPT_DIALOGUE) {
                 if (CPrompt.Counter != string_length(CPrompt.Content)) {
                     CPrompt.Counter = string_length(CPrompt.Content);

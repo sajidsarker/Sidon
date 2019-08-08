@@ -26,19 +26,15 @@
           <argument>
             <kind>1</kind>
             <string>{
-    var f = file_text_open_read(theMap[1]);
-
     // Map
-    myWidth  = file_text_read_real(f);
-    myHeight = file_text_read_real(f);
+    myWidth  = 25;
+    myHeight = 25;
 
     var i, j;
     var theTile;
-    
-    file_text_readln(f);
 
     // Layers
-    for (i = TILE_MAP; i &lt; SPAWN_MAP + 1; i++) {
+    for (i = TILE_MAP; i &lt; ENTITY_MAP + 1; i++) {
         myMap[i] = ds_grid_create(myWidth, myHeight);
     }
     /*
@@ -46,64 +42,31 @@
         Height
         Terrain
         Entity
-        Spawn
     */
 
-    // Height               Reads Elevation Data
+    // Height
     ds_grid_set_region(myMap[HEIGHT_MAP], 0, 0, myWidth - 1, myHeight - 1, 1);
-    ds_grid_read(myMap[HEIGHT_MAP], file_text_read_string(f));
-    file_text_readln(f);
 
-    // Entities             Reads Props Data
-    ds_grid_set_region(myMap[ENTITY_MAP], 0, 0, myWidth - 1, myHeight - 1, noone);
-    var o = ds_grid_create(myWidth, myHeight);
-    ds_grid_set_region(o, 0, 0, myWidth - 1, myHeight - 1, -1);
-    ds_grid_read(o, file_text_read_string(f));
-    file_text_readln(f);
-    for (j=0; j&lt;myHeight; j++) {
-        for (i=0; i&lt;myWidth; i++) {
-            if (o[# i, j] != -1) {
-                SpawnWorldObject(i, j, LoadWorldObject(o[# i, j]));
-            }
-        }
+    {
+        var f = file_text_open_read(theMap[1]);
+            ds_grid_read(myMap[HEIGHT_MAP], file_text_read_string(f));
+        file_text_close(f);
     }
-    ds_grid_destroy(o);
-    
-    // Spawn                Reads Spawn Data
-    ds_grid_set_region(myMap[SPAWN_MAP], 0, 0, myWidth - 1, myHeight - 1, false);
-    ds_grid_read(myMap[SPAWN_MAP], file_text_read_string(f));
-    file_text_readln(f);
-
-    // Terrain              Reads Terrain Slice Data
-    ds_grid_set_region(myMap[TERRAIN_MAP], 0, 0, myWidth - 1, myHeight - 1, -1);    
-    for (j=0; j&lt;myHeight; j++) {
-        for (i=0; i&lt;myWidth; i++) {
-            //var h = ds_list_create();
-            //ds_list_read(h, file_text_read_string(f));
-            //var h = ds_grid_get(myMap[TERRAIN_MAP], i, j);
-            ds_grid_set(myMap[TERRAIN_MAP], i, j, file_text_read_string(f));
-            file_text_readln(f);
-        }
-    }
-    file_text_close(f);
 
     // Tiles
     for (j=0; j&lt;myHeight; j++) {
         for (i=0; i&lt;myWidth; i++) {
             theTile = instance_create(IsoToCoordX(i, j), IsoToCoordY(i, j), CTile);
             ds_grid_set(myMap[TILE_MAP], i, j, theTile);
-            var h = ds_list_create();
-            ds_list_read(h, ds_grid_get(myMap[TERRAIN_MAP], i, j));
             theTile.myX = i;
             theTile.myY = j;
-            theTile.myZ = ds_list_size(h);
-            ds_list_destroy(h);
+            theTile.myZ = ds_grid_get(myMap[HEIGHT_MAP], i, j);
             theTile.z = theTile.myZ * TILE_HEIGHT;
             theTile.depth = -theTile.y;
             theTile = noone;
         }
     }
-
+    
     for (j=0; j&lt;myHeight; j++) {
         for (i=0; i&lt;myWidth; i++) {
             with (ds_grid_get(myMap[TILE_MAP], i, j)) {
@@ -139,6 +102,12 @@
             }
         }
     }
+
+    // Terrain
+    ds_grid_set_region(myMap[TERRAIN_MAP], 0, 0, myWidth - 1, myHeight - 1, -1);
+
+    // Entities
+    ds_grid_set_region(myMap[ENTITY_MAP], 0, 0, myWidth - 1, myHeight - 1, noone);
 
     SpawnMap();
 }

@@ -1,12 +1,15 @@
 /// stateScene_Update()
 {
-    //show_debug_message("Entered Cutscene State...");
+    show_debug_message("Entered Cutscene State...");
 
     // Input
     DetectInputDevice();
 
     if (ds_list_size(Scene) < 1) {
         SceneEnd();
+        if (instance_exists(CCharacterCreation)) {
+            fsm_enterState(stateCharacterCreation_Update);
+        }
         if (instance_exists(CGame)) {
             fsm_enterState(stateSystem_Update);
         }
@@ -83,15 +86,8 @@
                 c.theColour = c_black;
                 c.theBGColour = -1;
             }
-            c.theWidth = real( Extract(Scene[| 0], 1, "_") );
+            c.theWidth  = real( Extract(Scene[| 0], 1, "_") );
             SceneTimer = Seconds(16) + 4 * ( view_hview[0] + string_height_ext( c.theText, -1, c.theWidth ) );
-            ds_list_delete(Scene, 0);
-        return (state_continue);
-
-        case "BANNER":
-            var c = instance_create(0, 0, TBanner);
-            c.theText = Extract(Scene[| 0], 1, "_");
-            SceneTimer = Seconds(8);
             ds_list_delete(Scene, 0);
         return (state_continue);
 

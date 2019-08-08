@@ -39,8 +39,6 @@
     // Flags
     prevX = 0;
     prevY = 0;
-    _X_ = 0;
-    _Y_ = 0;
     isSelected[0] = noone;
     isSelected[1] = noone;
     theChoice[0] = 0;
@@ -53,8 +51,6 @@
     menu[4] = "Item";
     menu[5] = "Status";
     menu[6] = "Wait";
-    menu[7] = "End Turn";
-    menu[8] = "Place Companion";
     theMenu[1] = ds_list_create();
     // Abilities, Items
 
@@ -149,8 +145,7 @@
             <string>/// Cursor Command
 {
     if (CGame.state_index == stateSystem_Update) {
-        if (state_index == stateCursor_Command and ds_list_size(CGame.Scene) == 0) {
-            //!(prev_state == stateCursor_Move and CGame.state_index == stateScene_Update)) {
+        if (state_index == stateCursor_Command) {
             DrawMenu(32 + 128 * (CGame.debugMe), 32, 128, ds_list_size(theMenu[0]), theChoice[0], "Menu");
             for (var i = 0; i &lt; ds_list_size(theMenu[0]); i++) {
                 draw_text(32 + 128 * (CGame.debugMe) + 20, 32 + 24 + 16 * (i + 1), menu[ds_list_find_value(theMenu[0],i)]);

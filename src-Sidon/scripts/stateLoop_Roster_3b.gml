@@ -13,7 +13,6 @@
         theScroll[6] = 1;
         theScroll[5] = 1;
         ds_list_destroy(temp_equipment);
-        audio_play_sound(res_snd_deny, 1, false);
         fsm_enterState(stateLoop_Roster_3);
         return (state_next);
     }
@@ -58,7 +57,6 @@
      or myInput.keyA) {
         myInput.keyStart = false;
         myInput.keyA = false;
-        audio_play_sound(res_snd_confirm, 1, false);
         EquipStorage(theScroll[2] + theChoice[2], SLOT2, temp_equipment[| theScroll[5] + theScroll[6]]);
         //ds_list_destroy(temp_equipment);
         //theScroll[6] = 0;

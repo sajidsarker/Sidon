@@ -1,8 +1,11 @@
 /// stateCamera_Update()
 {
+    if (instance_exists(CCharacterCreation)) {
+        return (state_continue);
+    }
+
     if (instance_exists(CGame)) {
         if (CGame.state_index != stateSystem_Update
-        and CGame.state_index != stateSystem_TurnOrder
         and CGame.state_index != stateSystem_Prompt
         and CGame.state_index != stateScene_Update) {
             return (state_continue);

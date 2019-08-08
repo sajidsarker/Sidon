@@ -12,7 +12,6 @@
      or myInput.keySelect) {
         theScroll[6] = 0;
         theScroll[5] = 1;
-        audio_play_sound(res_snd_deny, 1, false);
         fsm_enterState(stateLoop_Roster_1);
         return (state_next);
     }
@@ -38,7 +37,6 @@
      or myInput.keyA) {
         myInput.keyStart = false;
         myInput.keyA = false;
-        audio_play_sound(res_snd_confirm, 1, false);
     }
 
     return (state_continue);
