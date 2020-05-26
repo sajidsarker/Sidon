@@ -3,7 +3,7 @@
   <Configs name="configs">
     <Config>Configs\Default</Config>
   </Configs>
-  <datafiles number="8" name="datafiles">
+  <datafiles number="9" name="datafiles">
     <datafile>
       <name>unisav.txt</name>
       <exists>-1</exists>
@@ -106,20 +106,46 @@
       </ConfigOptions>
       <filename>map_1_5.txt</filename>
     </datafile>
+    <datafile>
+      <name>map_1_99.dat</name>
+      <exists>-1</exists>
+      <size>77388</size>
+      <exportAction>2</exportAction>
+      <exportDir></exportDir>
+      <overwrite>0</overwrite>
+      <freeData>-1</freeData>
+      <removeEnd>0</removeEnd>
+      <store>0</store>
+      <ConfigOptions>
+        <Config name="Default">
+          <CopyToMask>9223372036854775807</CopyToMask>
+        </Config>
+      </ConfigOptions>
+      <filename>map_1_99.dat</filename>
+    </datafile>
   </datafiles>
   <NewExtensions/>
   <sounds name="sound">
-    <sound>sound\res_snd_cursor</sound>
-    <sound>sound\res_bgm_mainmenu</sound>
-    <sound>sound\res_bgm_loop1</sound>
-    <sound>sound\res_bgm_battle1</sound>
-    <sound>sound\res_bgm_battle2</sound>
+    <sounds name="ui">
+      <sound>sound\res_snd_cursor</sound>
+      <sound>sound\res_snd_confirm</sound>
+      <sound>sound\res_snd_deny</sound>
+      <sound>sound\res_snd_save</sound>
+      <sound>sound\res_snd_load</sound>
+    </sounds>
+    <sounds name="bgm">
+      <sound>sound\res_bgm_mainmenu</sound>
+      <sound>sound\res_bgm_loop1</sound>
+      <sound>sound\res_bgm_battle1</sound>
+      <sound>sound\res_bgm_battle2</sound>
+    </sounds>
   </sounds>
   <sprites name="sprites">
     <sprite>sprites\res_spr_unit</sprite>
     <sprite>sprites\res_spr_roles</sprite>
     <sprites name="ISO">
       <sprite>sprites\res_msk_tile</sprite>
+      <sprite>sprites\res_iso_spawn</sprite>
       <sprite>sprites\res_iso_cursor</sprite>
       <sprite>sprites\res_iso_cursor_gem</sprite>
     </sprites>
@@ -171,9 +197,6 @@
           <script>scripts\stateMainMenu_Update.gml</script>
           <script>scripts\stateMainMenu_Credits.gml</script>
         </scripts>
-        <scripts name="Character Creation">
-          <script>scripts\stateCharacterCreation_Update.gml</script>
-        </scripts>
         <scripts name="Loop">
           <script>scripts\stateLoop_Update.gml</script>
           <script>scripts\stateLoop_Chapter_1.gml</script>
@@ -194,6 +217,7 @@
         <scripts name="System">
           <script>scripts\stateSystem_Update.gml</script>
           <script>scripts\stateSystem_Pause.gml</script>
+          <script>scripts\stateSystem_TurnOrder.gml</script>
           <script>scripts\stateSystem_Prompt.gml</script>
           <scripts name="Functions">
             <script>scripts\DetectInputDevice.gml</script>
@@ -221,9 +245,11 @@
         <scripts name="Unit">
           <scripts name="Functions">
             <script>scripts\SpawnUnit.gml</script>
+            <script>scripts\DespawnUnit.gml</script>
             <script>scripts\ConstructUnit.gml</script>
             <script>scripts\DrawUnit.gml</script>
             <script>scripts\SpawnWorldObject.gml</script>
+            <script>scripts\LoadWorldObject.gml</script>
           </scripts>
         </scripts>
         <scripts name="RPG">
@@ -254,6 +280,11 @@
             <script>scripts\SaveGame.gml</script>
             <script>scripts\LoadGame.gml</script>
           </scripts>
+          <scripts name="Turn Order">
+            <script>scripts\CreateTurnOrder.gml</script>
+            <script>scripts\UpdateTurnOrder.gml</script>
+            <script>scripts\ClearTurnOrder.gml</script>
+          </scripts>
         </scripts>
         <scripts name="Cutscenes">
           <script>scripts\stateScene_Update.gml</script>
@@ -268,6 +299,7 @@
             <script>scripts\SceneFade.gml</script>
             <script>scripts\SceneText.gml</script>
             <script>scripts\SceneTextCrawl.gml</script>
+            <script>scripts\SceneBanner.gml</script>
             <script>scripts\SceneChangeBackground.gml</script>
             <script>scripts\SceneChangeSprite.gml</script>
             <script>scripts\SceneChangeFacing.gml</script>
@@ -275,8 +307,7 @@
             <script>scripts\SceneMove.gml</script>
             <script>scripts\ScenePanner.gml</script>
           </scripts>
-          <scripts name="scene_1">
-            <script>scripts\run_cutscene_intro.gml</script>
+          <scripts name="a1_ch1_sc1">
             <script>scripts\spawn_cutscene_a1_ch1_sc1.gml</script>
             <script>scripts\run_cutscene_a1_ch1_sc1.gml</script>
             <script>scripts\run_cutscene_a1_ch1_sc2.gml</script>
@@ -295,6 +326,7 @@
         <script>scripts\UpdateMap.gml</script>
         <script>scripts\CreateNodeMap.gml</script>
         <script>scripts\SpawnNode.gml</script>
+        <script>scripts\LoadNode.gml</script>
       </scripts>
       <scripts name="Pathfinding">
         <script>scripts\IsoToCoordX.gml</script>
@@ -318,12 +350,8 @@
     <font>fonts\Font_P</font>
   </fonts>
   <objects name="objects">
-    <objects name="Editor">
-      <object>objects\CEditor</object>
-    </objects>
     <objects name="Singletons">
       <object>objects\CSplashTransition</object>
-      <object>objects\CCharacterCreation</object>
       <object>objects\CMainMenu</object>
       <object>objects\CLoop</object>
       <object>objects\CGame</object>
@@ -355,15 +383,14 @@
       <object>objects\TFadeIn</object>
       <object>objects\TText</object>
       <object>objects\TTextCrawl</object>
+      <object>objects\TBanner</object>
     </objects>
   </objects>
   <rooms name="rooms">
-    <room>rooms\test_splash1</room>
     <room>rooms\test_mainmenu</room>
     <room>rooms\test_loop</room>
     <room>rooms\test_map</room>
-    <room>rooms\test_charactercreation</room>
-    <room>rooms\BEIRUT_ENGINE_LEVELEDIT</room>
+    <room>rooms\test_splash1</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>

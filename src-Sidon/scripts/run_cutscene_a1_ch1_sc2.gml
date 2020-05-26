@@ -2,6 +2,7 @@
 {
     show_debug_message("Running Cutscene...");
 
+    /*
     random_set_seed( current_time * current_time );
     
     var i, _actor;
@@ -10,15 +11,24 @@
         _actor[i] = instance_find( CUnit, i );
     }
 
-    _pan = ScenePanner( 0, _actor[0].y - Seconds(24), 0, _actor[0].y, 0 );
+    //_crawltext = "Early in the 21st Century, THE TYRELL CORPORATION advanced robot evolution into the NEXUS phase - a being virtually identical to a human - known as a Replicant. The NEXUS 6 Replicants were superior in strength and agility, and at least equal in intelligence, to the genetic engineers who created them.##Replicants were used Off-World as slave labor, in the hazardous exploration and colonization of other planets. After a bloody mutiny by a NEXUS 6 combat team in an Off-World colony, Replicants were declared illegal on earth - under penalty of death. Special police squads - BLADE RUNNER UNITS - had orders to shoot to kill, upon detection, any trespassing Replicant##This was not called execution.##It was called retirement.";
+    _crawltext = "The age of enlightenment bestowed by God upon mankind in the Year of the Elephant had long since faded.##In this age of decline, the differences over which men fought grew unchecked until the people of the desert, once united, fractured into many tribes and were scattered across the sands.";
+    _crawl = string_height_ext( _crawltext, -1, 250 );
+    _pan = ScenePanner( 0, _actor[0].y - 3 * TILE_HEIGHT - Seconds(46) - 4 * (view_hview[0] + _crawl), 0, _actor[0].y - 3 * TILE_HEIGHT, 0 );
+    */
 
     SceneBegin();
+
+    /*
+    SceneTextCrawl("250_" + string(_crawltext) + "_white_black");
 
     SceneFade();
 
     SceneChangeTarget( _pan );
     SceneWait(6);
-    SceneText( "32_32_5_Altitude Presents_black" );
+    SceneText( "32_32_5_[Publisher] Presents_black" );
+    SceneWait(6);
+    SceneText( "32_32_5_An Altitude Production_black" );
     SceneWait(6);
     SceneText( "32_32_5_A Sajid Sarker Game_black" );
     SceneWait(6);
@@ -34,6 +44,7 @@
     SceneSpeak( "1_Abel_I didn’t expect you to be with the sheep today." );
     SceneSpeak( "1_Abel_The womenfolk didn’t want you around “helping”, did they?" );
     SceneWait(1);
+
     SceneChangeTarget( _actor[0] );
     SceneSpeak( "1_Sidonis_Asma said I’d just get in the way." );
     SceneChangeTarget( _actor[3] );
@@ -76,6 +87,9 @@
     SceneChangeTarget( _actor[0] );
     SceneSpeak( "1_Sidonis_God willing." );
     SceneWait(2);
+    */
+    SceneBanner("VICTORY!");
+    SceneWait(0.05);
 
     SceneRun();
 }

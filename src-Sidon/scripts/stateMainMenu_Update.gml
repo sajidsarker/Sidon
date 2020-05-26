@@ -5,6 +5,7 @@
 
     if (myInput.keyB
      or myInput.keySelect) {
+        audio_play_sound(res_snd_deny, 1, false);
         fsm_enterState(stateMainMenu_PressStart);
         return (state_next);
     }
@@ -30,14 +31,15 @@
             case "Play":
                 myInput.keyStart = false;
                 myInput.keyA = false;
+                audio_play_sound(res_snd_confirm, 1, false);
                 room_goto(test_loop);
-                //room_goto(test_charactercreation);
             break;
             
             case "Guide":
             break;
             
             case "Credits":
+                audio_play_sound(res_snd_confirm, 1, false);
                 fsm_enterState(stateMainMenu_Credits);
                 return (state_next);
             break;

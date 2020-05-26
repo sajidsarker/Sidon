@@ -9,6 +9,7 @@
     DetectInputDevice();
 
     if (myInput.keyStart) {
+        audio_play_sound(res_snd_deny, 1, false);
         fsm_enterState(stateSystem_Update);
         return (state_next);
     }

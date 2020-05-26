@@ -11,6 +11,7 @@
     if (myInput.keyB
      or myInput.keySelect) {
         theScroll[5] = 1;
+        audio_play_sound(res_snd_deny, 1, false);
         fsm_enterState(stateLoop_Inventory_1);
         return (state_next);
     }
@@ -42,6 +43,7 @@
      or myInput.keyStart) {
         myInput.keyStart = false;
         myInput.keyA = false;
+        audio_play_sound(res_snd_confirm, 1, false);
         fsm_enterState(stateLoop_Inventory_3);
         return (state_next);
     }

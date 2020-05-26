@@ -27,7 +27,7 @@
             <kind>1</kind>
             <string>{
     instance_create(0, 0, TFadeIn);
-    audio_play_sound(res_bgm_mainmenu, 1, true);
+    //audio_play_sound(res_bgm_mainmenu, 1, true);
     show_debug_overlay(false);
 
     // Input
@@ -156,7 +156,7 @@
           <argument>
             <kind>1</kind>
             <string>{
-    audio_stop_sound(res_bgm_mainmenu);
+    //audio_stop_sound(res_bgm_mainmenu);
 }
 </string>
           </argument>

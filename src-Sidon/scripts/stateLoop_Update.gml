@@ -21,6 +21,7 @@
         }
     }
 
+    /*
     if (abs(_v) > 0) {
         if (theTimer == 0) {
             audio_play_sound(res_snd_cursor, 1, false);
@@ -30,6 +31,7 @@
             theTimer = room_speed * 0.2;
         }
     }
+    */
 
     if (myInput.keyStart
      or myInput.keyA) {
@@ -37,6 +39,7 @@
             case "Chapter":
                 myInput.keyStart = false;
                 myInput.keyA = false;
+                audio_play_sound(res_snd_confirm, 1, false);
                 fsm_enterState(stateLoop_Chapter_1);
                 return (state_next);
             break;
@@ -44,6 +47,7 @@
             case "Companions":
                 myInput.keyStart = false;
                 myInput.keyA = false;
+                audio_play_sound(res_snd_confirm, 1, false);
                 fsm_enterState(stateLoop_Roster_1);
                 return (state_next);
             break;
@@ -51,6 +55,7 @@
             case "Armoury":
                 myInput.keyStart = false;
                 myInput.keyA = false;
+                audio_play_sound(res_snd_confirm, 1, false);
                 fsm_enterState(stateLoop_Inventory_1);
                 return (state_next);
             break;
@@ -58,6 +63,7 @@
             case "Shop":
                 myInput.keyStart = false;
                 myInput.keyA = false;
+                audio_play_sound(res_snd_confirm, 1, false);
                 fsm_enterState(stateLoop_Shop_1);
                 return (state_next);
             break;
@@ -73,6 +79,7 @@
                 ds_list_destroy(theMenu[1]);
                 ds_list_destroy(theMenu[2]);
                 ds_grid_destroy(CClan.theClan);
+                audio_play_sound(res_snd_save, 1, false);
                 room_goto(test_mainmenu);
             break;
         }

@@ -30,7 +30,7 @@
     show_debug_overlay(false);
     
     // Music
-    audio_play_sound(res_bgm_loop1, 1, true);
+    //audio_play_sound(res_bgm_loop1, 1, true);
 
     // Cache
     myCache = ds_list_create();
@@ -54,9 +54,9 @@
     // Node Map
     random_set_seed(current_second * current_day);
     CreateNodeMap();
-    SpawnNode(320 + random(4000-640), 180 + random(2500-360), "Medrez");
-    SpawnNode(320 + random(4000-640), 180 + random(2500-360), "Tanjieron");
-    SpawnNode(320 + random(4000-640), 180 + random(2500-360), "Curason");
+    SpawnNode(320 + random(4000-640), 180 + random(2500-360), "Kuvir el-Qarab");
+    SpawnNode(320 + random(4000-640), 180 + random(2500-360), "Kuvir el-Haram");
+    SpawnNode(320 + random(4000-640), 180 + random(2500-360), "Kuvir el-Khali");
     SpawnNode(320 + random(4000-640), 180 + random(2500-360), "Sidon");
     SpawnNode(320 + random(4000-640), 180 + random(2500-360), "Haasin");
     SpawnNode(320 + random(4000-640), 180 + random(2500-360), "Benraz");
@@ -240,7 +240,7 @@
           <argument>
             <kind>1</kind>
             <string>{
-    audio_stop_sound(res_bgm_loop1);
+    //audio_stop_sound(res_bgm_loop1);
 }
 </string>
           </argument>
@@ -264,9 +264,9 @@
             <kind>1</kind>
             <string>{
     //SaveGame();
-    //ds_list_destroy(Node[0]);
-    //ds_list_destroy(Node[1]);
-    //ds_list_destroy(Node[2]);
+    ds_list_destroy(Node[0]);
+    ds_list_destroy(Node[1]);
+    ds_list_destroy(Node[2]);
 }
 </string>
           </argument>
