@@ -348,6 +348,7 @@
   <fonts name="fonts">
     <font>fonts\Font_H1</font>
     <font>fonts\Font_P</font>
+    <font>fonts\Font_N</font>
   </fonts>
   <objects name="objects">
     <objects name="Singletons">
