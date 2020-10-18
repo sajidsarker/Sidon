@@ -69,6 +69,16 @@
     }
 
     if (myInput.keyX or myInput.keyB) {
+        myInput.keyX = false;
+        myInput.keyB = false;
+        audio_play_sound(res_snd_deny, 1, false);
+        fsm_enterState(stateSystem_Update);
+        return (state_next);
+    }
+
+    if (myInput.keyStart or myInput.keyA) {
+        myInput.keyStart = false;
+        myInput.keyA = false;
         audio_play_sound(res_snd_deny, 1, false);
         fsm_enterState(stateSystem_Update);
         return (state_next);

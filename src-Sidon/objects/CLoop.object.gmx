@@ -768,9 +768,9 @@
         m = CClan.theClanSize;
 
         // Menu - Roster - Edit Equipment
-        DrawString(52, 56 + 16 * 1, 96, "Weapon", DBQ_LookItems(CClan.theClan[# SLOT1, theChoice[2] + theScroll[2]], ITEM_NAME));
-        DrawString(52, 56 + 16 * 2, 96, "Armour", DBQ_LookItems(CClan.theClan[# SLOT2, theChoice[2] + theScroll[2]], ITEM_NAME));
-        DrawString(52, 56 + 16 * 3, 96, "Favour", DBQ_LookItems(CClan.theClan[# SLOT3, theChoice[2] + theScroll[2]], ITEM_NAME));
+        DrawString(49, 53 + 16 * 1, 96, "Weapon", DBQ_LookItems(CClan.theClan[# SLOT1, theChoice[2] + theScroll[2]], ITEM_NAME));
+        DrawString(49, 53 + 16 * 2, 96, "Armour", DBQ_LookItems(CClan.theClan[# SLOT2, theChoice[2] + theScroll[2]], ITEM_NAME));
+        DrawString(49, 53 + 16 * 3, 96, "Favour", DBQ_LookItems(CClan.theClan[# SLOT3, theChoice[2] + theScroll[2]], ITEM_NAME));
 
         j = theChoice[2] + theScroll[2];
 
@@ -1273,9 +1273,333 @@
         m = CClan.theClanSize;
 
         // Menu - Roster - Edit Equipment
-        DrawString(52, 56 + 16 * 1, 96, "Ability1", DBQ_LookItems(CClan.theClan[# ABILITY1, theChoice[2] + theScroll[2]], ITEM_NAME));
-        DrawString(52, 56 + 16 * 2, 96, "Ability2", DBQ_LookItems(CClan.theClan[# ABILITY2, theChoice[2] + theScroll[2]], ITEM_NAME));
-        DrawString(52, 56 + 16 * 3, 96, "Ability3", DBQ_LookItems(CClan.theClan[# ABILITY3, theChoice[2] + theScroll[2]], ITEM_NAME));
+        DrawString(49, 53 + 16 * 1, 96, "Ability1", DBQ_LookItems(CClan.theClan[# ABILITY1, theChoice[2] + theScroll[2]], ITEM_NAME));
+        DrawString(49, 53 + 16 * 2, 96, "Ability2", DBQ_LookItems(CClan.theClan[# ABILITY2, theChoice[2] + theScroll[2]], ITEM_NAME));
+        DrawString(49, 53 + 16 * 3, 96, "Ability3", DBQ_LookItems(CClan.theClan[# ABILITY3, theChoice[2] + theScroll[2]], ITEM_NAME));
+
+        /*
+        for (i=0; i&lt;min(m, 14); i++) {
+            draw_set_colour(c_gray);
+
+            if (theChoice[2] == i) {
+                draw_set_colour(c_black);
+            }
+
+            draw_set_halign(fa_right);
+            draw_text(316, 56 + 16 * (i + 1), GetRole(CClan.theClan[# ROLE, i + theScroll[2]], ROLE, 0));
+
+            draw_set_halign(fa_left);
+            draw_text(52, 56 + 16 * (i + 1), CClan.theClan[# NAME, i + theScroll[2]]);
+        }
+        */
+
+        j = theChoice[2] + theScroll[2];
+
+        draw_set_colour(c_black);
+        draw_text(370, 56 + 16 * 1, CClan.theClan[# NAME, j]);
+        draw_text(370, 56 + 16 * 2, "LV. " + string(CClan.theClan[# LV, j]) + " " + GetRole(CClan.theClan[# ROLE, j], ROLE, 0));
+
+        // Unit
+        draw_sprite(res_spr_unit, CClan.theClan[# ROLE, j], 564, 56 + 16 * 1 + 30);
+
+        // Health
+        DrawHeading(370, 56 + 16 * 4, 55, "HP", false);
+        DrawValue(370 + 8, 56 + 16 * 4, 128 - 32, CClan.theClan[# HP, j]);
+
+        // Aura Points
+        DrawHeading(370, 56 + 16 * 5 + 2, 55, "AP", false);
+        DrawValue(370 + 8, 56 + 16 * 5 + 2, 128 - 32, CClan.theClan[# AP, j]);
+
+        // Experience Points
+        DrawHeading(370, 56 + 16 * 6 + 4, 55, "XP", false);
+        DrawValue(370 + 8, 56 + 16 * 6 + 4, 128 - 32, CClan.theClan[# XP, j]);
+
+        // Move
+        DrawHeading(370 + 128 - 8, 56 + 16 * 4, 55, "MOV", false);
+        DrawValue(370 + 128, 56 + 16 * 4, 128 - 32, CClan.theClan[# MOV, j]);
+
+        // Jump
+        DrawHeading(370 + 128 - 8, 56 + 16 * 5 + 2, 55, "JMP", false);
+        DrawValue(370 + 128, 56 + 16 * 5 + 2, 128 - 32, CClan.theClan[# JMP, j]);
+
+        // Speed
+        DrawHeading(370 + 128 - 8, 56 + 16 * 6 + 4, 55, "SPD", false);
+        DrawValue(370 + 128, 56 + 16 * 6 + 4, 128 - 32, CClan.theClan[# SPD, j]);
+
+        // Evasion
+        DrawHeading(370 + 128 - 8, 56 + 16 * 7 + 6, 55, "EVA", false);
+        DrawValue(370 + 128, 56 + 16 * 7 + 6, 128 - 32, CClan.theClan[# EVA, j]);
+
+        // Physical Attack
+        DrawHeading(370, 56 + 16 * 8 + 8, 55, "P.ATK", false);
+        DrawValue(370 + 8, 56 + 16 * 8 + 8, 128 - 32, CClan.theClan[# ATK, j]);
+
+        // Physical Defence
+        DrawHeading(370, 56 + 16 * 9 + 10, 55, "P.DEF", false);
+        DrawValue(370 + 8, 56 + 16 * 9 + 10, 128 - 32, CClan.theClan[# DEF, j]);
+
+        // Magic Power
+        DrawHeading(370, 56 + 16 * 10 + 12, 55, "M.POW", false);
+        DrawValue(370 + 8, 56 + 16 * 10 + 12, 128 - 32, CClan.theClan[# POW, j]);
+
+        // Magic Resistance
+        DrawHeading(370, 56 + 16 * 11 + 14, 55, "M.RES", false);
+        DrawValue(370 + 8, 56 + 16 * 11 + 14, 128 - 32, CClan.theClan[# POW, j]);
+
+        // Weapon Attack
+        DrawHeading(370 + 128 - 8, 56 + 16 * 8 + 8, 55, "W.ATK", false);
+        DrawValue(370 + 128, 56 + 16 * 8 + 8, 128 - 32, CClan.theClan[# WATK, j]);
+
+        // Equipment Defence
+        DrawHeading(370 + 128 - 8, 56 + 16 * 9 + 10, 55, "E.DEF", false);
+        DrawValue(370 + 128, 56 + 16 * 9 + 10, 128 - 32, CClan.theClan[# ADEF, j]);
+
+        // Weapon Power
+        DrawHeading(370 + 128 - 8, 56 + 16 * 10 + 12, 55, "W.POW", false);
+        DrawValue(370 + 128, 56 + 16 * 10 + 12, 128 - 32, CClan.theClan[# WPOW, j]);
+
+        // Equipment Resistance
+        DrawHeading(370 + 128 - 8, 56 + 16 * 11 + 14, 55, "E.RES", false);
+        DrawValue(370 + 128, 56 + 16 * 11 + 14, 128 - 32, CClan.theClan[# ARES, j]);
+
+        // Scroller
+        draw_set_colour(c_black);
+
+        if (theScroll[2] &gt; 0) {
+            draw_text(320, 68, "^");
+        }
+
+        if (m - theScroll[2] &gt; 14) {
+            draw_text(320, 56 + 16 * min(m, 14), "`");
+        }
+
+        /*
+        // Menu - Item Description
+        var a_name, a_desc, a_q, a_a;
+        a_name = DBQ_LookItems(ds_list_find_value(Storage[ITEM_ID], theChoice[3] + theScroll[3]), ITEM_NAME);
+        a_desc = DBQ_LookItems(ds_list_find_value(Storage[ITEM_ID], theChoice[3] + theScroll[3]), ITEM_DESCRIPTION);
+
+        draw_text_ext(370, 56 + 16, string(a_name) + "##" +
+                                    string(a_desc),
+                                    -1, 256 - 40);
+        */
+
+        draw_set_colour(c_gray);
+        draw_text(370, 56 + 16 * 14, "[" + string(j + 1) + "/" + string(m) + "]");
+
+        // Footer
+        if (myInput == myKeyboard) {
+            DrawFooter("[^/`] Cycle / [Z] Edit / [X] Cancel");
+        } else {
+            DrawFooter("[^/`] Cycle / [A] Edit / [B] Cancel");
+        }
+    }
+}
+</string>
+          </argument>
+        </arguments>
+      </action>
+      <action>
+        <libid>1</libid>
+        <id>603</id>
+        <kind>7</kind>
+        <userelative>0</userelative>
+        <isquestion>0</isquestion>
+        <useapplyto>-1</useapplyto>
+        <exetype>2</exetype>
+        <functionname></functionname>
+        <codestring></codestring>
+        <whoName>self</whoName>
+        <relative>0</relative>
+        <isnot>0</isnot>
+        <arguments>
+          <argument>
+            <kind>1</kind>
+            <string>/// Roster 4a
+{
+    // Edit Abilities
+    if (state_index == stateLoop_Roster_4a) {
+        // Shading
+        draw_set_alpha(0.5);
+        draw_set_colour(c_deepblue);
+        draw_rectangle(0, 0, view_wport[0], view_hport[0], false);
+        draw_set_alpha(1);
+
+        // Canvas - Roster
+        DrawList(32, 32, 304, min(CClan.theClanSize, 14), theScroll[6] + theScroll[5] - 1, "Edit Abilities", "");
+        // Canvas - Unit Description
+        DrawMenu(350, 32, 256, 14, 0, "Status");
+
+        var i, j, m;
+
+        m = CClan.theClanSize;
+
+        // Menu - Roster - Edit Equipment
+        DrawString(49, 53 + 16 * 1, 96, "Ability1", DBQ_LookItems(CClan.theClan[# ABILITY1, theChoice[2] + theScroll[2]], ITEM_NAME));
+        DrawString(49, 53 + 16 * 2, 96, "Ability2", DBQ_LookItems(CClan.theClan[# ABILITY2, theChoice[2] + theScroll[2]], ITEM_NAME));
+        DrawString(49, 53 + 16 * 3, 96, "Ability3", DBQ_LookItems(CClan.theClan[# ABILITY3, theChoice[2] + theScroll[2]], ITEM_NAME));
+
+        /*
+        for (i=0; i&lt;min(m, 14); i++) {
+            draw_set_colour(c_gray);
+
+            if (theChoice[2] == i) {
+                draw_set_colour(c_black);
+            }
+
+            draw_set_halign(fa_right);
+            draw_text(316, 56 + 16 * (i + 1), GetRole(CClan.theClan[# ROLE, i + theScroll[2]], ROLE, 0));
+
+            draw_set_halign(fa_left);
+            draw_text(52, 56 + 16 * (i + 1), CClan.theClan[# NAME, i + theScroll[2]]);
+        }
+        */
+
+        j = theChoice[2] + theScroll[2];
+
+        draw_set_colour(c_black);
+        draw_text(370, 56 + 16 * 1, CClan.theClan[# NAME, j]);
+        draw_text(370, 56 + 16 * 2, "LV. " + string(CClan.theClan[# LV, j]) + " " + GetRole(CClan.theClan[# ROLE, j], ROLE, 0));
+
+        // Unit
+        draw_sprite(res_spr_unit, CClan.theClan[# ROLE, j], 564, 56 + 16 * 1 + 30);
+
+        // Health
+        DrawHeading(370, 56 + 16 * 4, 55, "HP", false);
+        DrawValue(370 + 8, 56 + 16 * 4, 128 - 32, CClan.theClan[# HP, j]);
+
+        // Aura Points
+        DrawHeading(370, 56 + 16 * 5 + 2, 55, "AP", false);
+        DrawValue(370 + 8, 56 + 16 * 5 + 2, 128 - 32, CClan.theClan[# AP, j]);
+
+        // Experience Points
+        DrawHeading(370, 56 + 16 * 6 + 4, 55, "XP", false);
+        DrawValue(370 + 8, 56 + 16 * 6 + 4, 128 - 32, CClan.theClan[# XP, j]);
+
+        // Move
+        DrawHeading(370 + 128 - 8, 56 + 16 * 4, 55, "MOV", false);
+        DrawValue(370 + 128, 56 + 16 * 4, 128 - 32, CClan.theClan[# MOV, j]);
+
+        // Jump
+        DrawHeading(370 + 128 - 8, 56 + 16 * 5 + 2, 55, "JMP", false);
+        DrawValue(370 + 128, 56 + 16 * 5 + 2, 128 - 32, CClan.theClan[# JMP, j]);
+
+        // Speed
+        DrawHeading(370 + 128 - 8, 56 + 16 * 6 + 4, 55, "SPD", false);
+        DrawValue(370 + 128, 56 + 16 * 6 + 4, 128 - 32, CClan.theClan[# SPD, j]);
+
+        // Evasion
+        DrawHeading(370 + 128 - 8, 56 + 16 * 7 + 6, 55, "EVA", false);
+        DrawValue(370 + 128, 56 + 16 * 7 + 6, 128 - 32, CClan.theClan[# EVA, j]);
+
+        // Physical Attack
+        DrawHeading(370, 56 + 16 * 8 + 8, 55, "P.ATK", false);
+        DrawValue(370 + 8, 56 + 16 * 8 + 8, 128 - 32, CClan.theClan[# ATK, j]);
+
+        // Physical Defence
+        DrawHeading(370, 56 + 16 * 9 + 10, 55, "P.DEF", false);
+        DrawValue(370 + 8, 56 + 16 * 9 + 10, 128 - 32, CClan.theClan[# DEF, j]);
+
+        // Magic Power
+        DrawHeading(370, 56 + 16 * 10 + 12, 55, "M.POW", false);
+        DrawValue(370 + 8, 56 + 16 * 10 + 12, 128 - 32, CClan.theClan[# POW, j]);
+
+        // Magic Resistance
+        DrawHeading(370, 56 + 16 * 11 + 14, 55, "M.RES", false);
+        DrawValue(370 + 8, 56 + 16 * 11 + 14, 128 - 32, CClan.theClan[# POW, j]);
+
+        // Weapon Attack
+        DrawHeading(370 + 128 - 8, 56 + 16 * 8 + 8, 55, "W.ATK", false);
+        DrawValue(370 + 128, 56 + 16 * 8 + 8, 128 - 32, CClan.theClan[# WATK, j]);
+
+        // Equipment Defence
+        DrawHeading(370 + 128 - 8, 56 + 16 * 9 + 10, 55, "E.DEF", false);
+        DrawValue(370 + 128, 56 + 16 * 9 + 10, 128 - 32, CClan.theClan[# ADEF, j]);
+
+        // Weapon Power
+        DrawHeading(370 + 128 - 8, 56 + 16 * 10 + 12, 55, "W.POW", false);
+        DrawValue(370 + 128, 56 + 16 * 10 + 12, 128 - 32, CClan.theClan[# WPOW, j]);
+
+        // Equipment Resistance
+        DrawHeading(370 + 128 - 8, 56 + 16 * 11 + 14, 55, "E.RES", false);
+        DrawValue(370 + 128, 56 + 16 * 11 + 14, 128 - 32, CClan.theClan[# ARES, j]);
+
+        // Scroller
+        draw_set_colour(c_black);
+
+        if (theScroll[2] &gt; 0) {
+            draw_text(320, 68, "^");
+        }
+
+        if (m - theScroll[2] &gt; 14) {
+            draw_text(320, 56 + 16 * min(m, 14), "`");
+        }
+
+        /*
+        // Menu - Item Description
+        var a_name, a_desc, a_q, a_a;
+        a_name = DBQ_LookItems(ds_list_find_value(Storage[ITEM_ID], theChoice[3] + theScroll[3]), ITEM_NAME);
+        a_desc = DBQ_LookItems(ds_list_find_value(Storage[ITEM_ID], theChoice[3] + theScroll[3]), ITEM_DESCRIPTION);
+
+        draw_text_ext(370, 56 + 16, string(a_name) + "##" +
+                                    string(a_desc),
+                                    -1, 256 - 40);
+        */
+
+        draw_set_colour(c_gray);
+        draw_text(370, 56 + 16 * 14, "[" + string(j + 1) + "/" + string(m) + "]");
+
+        // Footer
+        if (myInput == myKeyboard) {
+            DrawFooter("[^/`] Cycle / [Z] Edit / [X] Cancel");
+        } else {
+            DrawFooter("[^/`] Cycle / [A] Edit / [B] Cancel");
+        }
+    }
+}
+</string>
+          </argument>
+        </arguments>
+      </action>
+      <action>
+        <libid>1</libid>
+        <id>603</id>
+        <kind>7</kind>
+        <userelative>0</userelative>
+        <isquestion>0</isquestion>
+        <useapplyto>-1</useapplyto>
+        <exetype>2</exetype>
+        <functionname></functionname>
+        <codestring></codestring>
+        <whoName>self</whoName>
+        <relative>0</relative>
+        <isnot>0</isnot>
+        <arguments>
+          <argument>
+            <kind>1</kind>
+            <string>/// Roster 4b
+{
+    // Edit Abilities
+    if (state_index == stateLoop_Roster_4b) {
+        // Shading
+        draw_set_alpha(0.5);
+        draw_set_colour(c_deepblue);
+        draw_rectangle(0, 0, view_wport[0], view_hport[0], false);
+        draw_set_alpha(1);
+
+        // Canvas - Roster
+        DrawList(32, 32, 304, min(CClan.theClanSize, 14), theScroll[6] + theScroll[5] - 1, "Edit Abilities", "");
+        // Canvas - Unit Description
+        DrawMenu(350, 32, 256, 14, 0, "Status");
+
+        var i, j, m;
+
+        m = CClan.theClanSize;
+
+        // Menu - Roster - Edit Equipment
+        DrawString(49, 53 + 16 * 1, 96, "Ability1", DBQ_LookItems(CClan.theClan[# ABILITY1, theChoice[2] + theScroll[2]], ITEM_NAME));
+        DrawString(49, 53 + 16 * 2, 96, "Ability2", DBQ_LookItems(CClan.theClan[# ABILITY2, theChoice[2] + theScroll[2]], ITEM_NAME));
+        DrawString(49, 53 + 16 * 3, 96, "Ability3", DBQ_LookItems(CClan.theClan[# ABILITY3, theChoice[2] + theScroll[2]], ITEM_NAME));
 
         /*
         for (i=0; i&lt;min(m, 14); i++) {

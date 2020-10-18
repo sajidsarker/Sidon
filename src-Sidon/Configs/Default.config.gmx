@@ -460,7 +460,7 @@
     <option_quitkey>true</option_quitkey>
     <option_resolution>0</option_resolution>
     <option_savekey>true</option_savekey>
-    <option_scale>0</option_scale>
+    <option_scale>-1</option_scale>
     <option_scaleprogress>true</option_scaleprogress>
     <option_sci_UseSCI>0</option_sci_UseSCI>
     <option_sci_serverLocation></option_sci_serverLocation>
@@ -471,7 +471,7 @@
     <option_showprogress>1</option_showprogress>
     <option_sizeable>False</option_sizeable>
     <option_stayontop>false</option_stayontop>
-    <option_sync_vertex>0</option_sync_vertex>
+    <option_sync_vertex>1</option_sync_vertex>
     <option_textureGroup0_border>2</option_textureGroup0_border>
     <option_textureGroup0_nocropping>0</option_textureGroup0_nocropping>
     <option_textureGroup0_parent>&lt;none&gt;</option_textureGroup0_parent>
@@ -595,10 +595,10 @@
     <option_winUAP_wide_logo>Configs\Default\WindowsUAP\logos\WideLogo.scale-100.png</option_winUAP_wide_logo>
     <option_windowcolor>clBlack</option_windowcolor>
     <option_windows_alternate_sync_method>False</option_windows_alternate_sync_method>
-    <option_windows_build_version>2</option_windows_build_version>
+    <option_windows_build_version>4</option_windows_build_version>
     <option_windows_company_info>Sajid Sarker</option_windows_company_info>
     <option_windows_copyright_info></option_windows_copyright_info>
-    <option_windows_create_textures_on_demand>False</option_windows_create_textures_on_demand>
+    <option_windows_create_textures_on_demand>True</option_windows_create_textures_on_demand>
     <option_windows_description_info></option_windows_description_info>
     <option_windows_enable_steam>0</option_windows_enable_steam>
     <option_windows_game_icon>Configs\Default\windows\runner_icon.ico</option_windows_game_icon>
@@ -617,7 +617,7 @@
     <option_windows_steam_app_id>0</option_windows_steam_app_id>
     <option_windows_texture_page>2048</option_windows_texture_page>
     <option_windows_use_splash>0</option_windows_use_splash>
-    <option_windows_vertex_buffer_method2>1</option_windows_vertex_buffer_method2>
+    <option_windows_vertex_buffer_method2>0</option_windows_vertex_buffer_method2>
     <option_winphone_480_splash_image>Configs\Default\WinPhone\SplashScreenImage480.jpg</option_winphone_480_splash_image>
     <option_winphone_720_splash_image>Configs\Default\WinPhone\SplashScreenImage720.jpg</option_winphone_720_splash_image>
     <option_winphone_768_splash_image>Configs\Default\WinPhone\SplashScreenImage.jpg</option_winphone_768_splash_image>

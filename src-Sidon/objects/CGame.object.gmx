@@ -30,12 +30,12 @@
     particle_system = part_system_create();
     particle_sands  = part_type_create();
     part_type_shape( particle_sands, pt_shape_smoke );
-    part_type_size( particle_sands, 2, 3, 0.01, 0 );
+    part_type_size( particle_sands, 1, 3, 0.1, 0.1 );
     part_type_colour_mix( particle_sands, make_colour_rgb(248, 242, 175), make_colour_rgb(242, 227, 140) );
     part_type_gravity( particle_sands, 0.1, 90 );
     part_type_direction( particle_sands, 150, 210, 0, 0 );
-    part_type_speed( particle_sands, 0.25, 2, 0.05, 0 );
-    part_type_life( particle_sands, room_speed * 6, room_speed * 12 );
+    part_type_speed( particle_sands, 0.05, 2, 0.05, 0 );
+    part_type_life( particle_sands, Seconds(15), Seconds(30) );
     t_time = 1;
 }
 </string>
@@ -221,7 +221,7 @@
         repeat (8) {
             part_particles_create( particle_system, irandom_range(-1000, 1000), view_yview[0] + view_hview[0] + 32, particle_sands, 1 );
         }
-        t_time = Seconds( irandom_range(4, 6) );
+        t_time = Seconds( irandom_range(1, 4) );
     }
 }
 </string>
@@ -421,10 +421,14 @@
             <string>/// Unit Info
 {
     if ( state_index == stateSystem_Update ) {
-        for (var i=0; i&lt;2; i++) {
-            if ( myUnitInfo[i] != noone ) {
-                if ( myUnitInfo[i].object_index != CWorldObject ) {
-                    DrawUnitInfo( myUnitInfo[i], i );
+        if ( instance_exists(myCursor) ) {
+            if ( myCursor.state_index != stateCursor_Status ) {
+                for (var i=0; i&lt;2; i++) {
+                    if ( myUnitInfo[i] != noone ) {
+                        if ( myUnitInfo[i].object_index != CWorldObject ) {
+                            DrawUnitInfo( myUnitInfo[i], i );
+                        }
+                    }
                 }
             }
         }

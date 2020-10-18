@@ -7,6 +7,6 @@
 
     draw_set_halign(fa_right);
     draw_set_colour(c_black);
-    draw_text(argument0 + argument2 - 2, argument1 + 2, argument4);
+    draw_text(argument0 + argument2 - 2, argument1 + 1, argument4);
     draw_set_halign(fa_left);
 }

@@ -206,6 +206,8 @@
           <script>scripts\stateLoop_Roster_3a.gml</script>
           <script>scripts\stateLoop_Roster_3b.gml</script>
           <script>scripts\stateLoop_Roster_4.gml</script>
+          <script>scripts\stateLoop_Roster_4a.gml</script>
+          <script>scripts\stateLoop_Roster_4b.gml</script>
           <script>scripts\stateLoop_Roster_5.gml</script>
           <script>scripts\stateLoop_Inventory_1.gml</script>
           <script>scripts\stateLoop_Inventory_2.gml</script>
@@ -348,7 +350,6 @@
   <fonts name="fonts">
     <font>fonts\Font_H1</font>
     <font>fonts\Font_P</font>
-    <font>fonts\Font_N</font>
   </fonts>
   <objects name="objects">
     <objects name="Singletons">
