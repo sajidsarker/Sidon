@@ -29,10 +29,26 @@
 
         if (vecPosition[| X] + _u > -1 and vecPosition[| X] + _u < CMap.myWidth) {
             ResetCursor(vecPosition[| X] + _u, vecPosition[| Y]);
+            var o = ds_grid_get(CMap.myMap[ENTITY_MAP], vecPosition[| X], vecPosition[| Y]);
+            if (o != noone) {
+                if (o.myFaction != 99) {
+                    CGame.myUnitInfo[1] = ds_grid_get( CMap.myMap[ENTITY_MAP], vecPosition[| X], vecPosition[| Y] );
+                }
+            } else {
+                CGame.myUnitInfo[1] = noone;
+            }
         }
 
         if (vecPosition[| Y] + _v > -1 and vecPosition[| Y] + _v < CMap.myHeight) {
             ResetCursor(vecPosition[| X], vecPosition[| Y] + _v);
+            var o = ds_grid_get(CMap.myMap[ENTITY_MAP], vecPosition[| X], vecPosition[| Y]);
+            if (o != noone) {
+                if (o.myFaction != 99) {
+                    CGame.myUnitInfo[1] = ds_grid_get( CMap.myMap[ENTITY_MAP], vecPosition[| X], vecPosition[| Y] );
+                }
+            } else {
+                CGame.myUnitInfo[1] = noone;
+            }
         }
 
         if (abs(_u) + abs(_v) > 0) {

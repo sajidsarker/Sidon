@@ -128,6 +128,7 @@
 
     // Selection
     if (myInput.keyA) {
+        myInput.keyB = false;
         var e = ds_grid_get(CMap.myMap[ENTITY_MAP], vecPosition[| X], vecPosition[| Y]);
 
         if (e != noone) {
@@ -144,10 +145,14 @@
                     ds_list_add(theMenu[0], 5);
                 } else {
                     if (CGame.turnOrder[| CGame.turnCounter[0]] == e) {
-                        ds_list_add(theMenu[0], 0);
-                        ds_list_add(theMenu[0], 1);
-                        ds_list_add(theMenu[0], 3);
-                        ds_list_add(theMenu[0], 4);
+                        if (e.canMove) {
+                            ds_list_add(theMenu[0], 0);
+                        }
+                        if (e.canAct) {
+                            ds_list_add(theMenu[0], 1);
+                            ds_list_add(theMenu[0], 3);
+                            ds_list_add(theMenu[0], 4);
+                        }
                         ds_list_add(theMenu[0], 5);
                         ds_list_add(theMenu[0], 6);
                     } else {
@@ -201,6 +206,7 @@
             if ( CGame.myPhase == 1 ) {
                 if (ds_grid_get(CMap.myMap[SPAWN_MAP], vecPosition[| X], vecPosition[| Y]) == true) {
                     myInput.keyA = false;
+                    myInput.keyB = false;
                     prevX = vecPosition[| X];
                     prevY = vecPosition[| Y];
                     isSelected[0] = noone;
@@ -215,6 +221,7 @@
                     return (state_next);
                 } else {
                     myInput.keyA = false;
+                    myInput.keyB = false;
                     prevX = vecPosition[| X];
                     prevY = vecPosition[| Y];
                     isSelected[0] = noone;

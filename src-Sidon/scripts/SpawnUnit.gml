@@ -32,6 +32,11 @@
     a.image_index           = CClan.theClan[# ROLE, a._id];
 
     // Stats
+    for ( var i = 0; i <= AWGT; i++ ) {
+        a.BaseStats[i] = CClan.theClan[# i, a._id];
+    }
+    /*
+    a.Level                 = CClan.theClan[# LV, a._id];
     a.myName                = CClan.theClan[# NAME, a._id];
     a.HitPoints             = CClan.theClan[# HP, a._id];
     a.AbilityPoints         = CClan.theClan[# AP, a._id];
@@ -39,7 +44,7 @@
     a.MaxHitPoints          = a.HitPoints;
     a.MaxAbilityPoints      = a.AbilityPoints;
     a.MaxExperiencePoints   = 100;
-    //a.UpgradePoints         = CClan.theClan[# AP, a._id];
+    //a.UpgradePoints         = CClan.theClan[# SP, a._id];
     a.Speed                 = CClan.theClan[# SPD, a._id];
     a.Evasion               = CClan.theClan[# EVA, a._id];
     a.Attack                = CClan.theClan[# ATK, a._id];
@@ -52,6 +57,7 @@
     a.AResistance           = CClan.theClan[# ARES, a._id];
     a.Weapon                = CClan.theClan[# SLOT1, a._id];
     a.Armour                = CClan.theClan[# SLOT2, a._id];
+    */
     a.StatusEffect = -1;
     a.StatusTimer  =  0;
 

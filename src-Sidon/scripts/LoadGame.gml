@@ -21,4 +21,6 @@
     Storage[3] = file_text_read_real(theFile)
 
     file_text_close(theFile);
+    
+    DrawSystemMessage( 16, 16, "Game loaded successfully.", 3 );
 }

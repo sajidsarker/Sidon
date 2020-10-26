@@ -40,6 +40,9 @@
         }
 
     }
+    
+    isSelected[1] = noone;
+    CGame.myUnitInfo[1] = noone;
 
     // Deselection
     if (myInput.keyB) {

@@ -3,7 +3,7 @@
     switch ( argument0 ) {
         case 0:
             theMap[0] = "Kuvir el-Qarab";
-            theMap[1] = "map_1_99.dat";
+            theMap[1] = "map_1_test.dat";
             theMap[2] = run_cutscene_a1_ch1_sc1;    // Intro Cutscene
             theMap[3] = run_cutscene_a1_ch1_sc2;    // Outro Cutscene
             theMap[4] = run_cutscene_a1_ch1_sc1;    // Conditional Cutscene

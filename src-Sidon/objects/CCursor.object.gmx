@@ -49,7 +49,7 @@
     menu[0] = "Move";
     menu[1] = "Attack";
     menu[2] = "Shoot";
-    menu[3] = "Ability";
+    menu[3] = "Skills";
     menu[4] = "Item";
     menu[5] = "Status";
     menu[6] = "Wait";
@@ -180,78 +180,79 @@
             <kind>1</kind>
             <string>/// Cursor Status
 {
+    ////// CHANGE TO isSelected[0].BaseStats[?]
     if (CGame.state_index == stateSystem_Update) {
         if (state_index == stateCursor_Status) {
             DrawMenu(350, 32, 256, 14, 0, "Status");
             
-            var j = isSelected[0]._id;
+            //var j = isSelected[0]._id;
             
             draw_set_colour(c_black);
-            draw_text(370, 56 + 16 * 1, CClan.theClan[# NAME, j]);
-            draw_text(370, 56 + 16 * 2, "LV. " + string(CClan.theClan[# LV, j]) + " " + GetRole(CClan.theClan[# ROLE, j], ROLE, 0));
+            draw_text(370, 56 + 16 * 1, isSelected[0].BaseStats[NAME]);
+            draw_text(370, 56 + 16 * 2, "LV. " + string(isSelected[0].BaseStats[LV]) + " " + GetRole(isSelected[0].BaseStats[ROLE], ROLE, 0));
     
             // Unit
-            draw_sprite(res_spr_unit, CClan.theClan[# ROLE, j], 564, 56 + 16 * 1 + 30);
+            draw_sprite(res_spr_unit, isSelected[0].BaseStats[ROLE], 564, 56 + 16 * 1 + 30);
     
             // Health
             DrawHeading(370, 56 + 16 * 4, 55, "HP", false);
-            DrawValue(370 + 8, 56 + 16 * 4, 128 - 32, CClan.theClan[# HP, j]);
+            DrawValue(370 + 8, 56 + 16 * 4, 128 - 32, isSelected[0].BaseStats[HP]);
     
             // Aura Points
             DrawHeading(370, 56 + 16 * 5 + 2, 55, "AP", false);
-            DrawValue(370 + 8, 56 + 16 * 5 + 2, 128 - 32, CClan.theClan[# AP, j]);
+            DrawValue(370 + 8, 56 + 16 * 5 + 2, 128 - 32, isSelected[0].BaseStats[AP]);
     
             // Experience Points
             DrawHeading(370, 56 + 16 * 6 + 4, 55, "XP", false);
-            DrawValue(370 + 8, 56 + 16 * 6 + 4, 128 - 32, CClan.theClan[# XP, j]);
+            DrawValue(370 + 8, 56 + 16 * 6 + 4, 128 - 32, isSelected[0].BaseStats[XP]);
     
             // Move
             DrawHeading(370 + 128 - 8, 56 + 16 * 4, 55, "MOV", false);
-            DrawValue(370 + 128, 56 + 16 * 4, 128 - 32, CClan.theClan[# MOV, j]);
+            DrawValue(370 + 128, 56 + 16 * 4, 128 - 32, isSelected[0].BaseStats[MOV]);
     
             // Jump
             DrawHeading(370 + 128 - 8, 56 + 16 * 5 + 2, 55, "JMP", false);
-            DrawValue(370 + 128, 56 + 16 * 5 + 2, 128 - 32, CClan.theClan[# JMP, j]);
+            DrawValue(370 + 128, 56 + 16 * 5 + 2, 128 - 32, isSelected[0].BaseStats[JMP]);
     
             // Speed
             DrawHeading(370 + 128 - 8, 56 + 16 * 6 + 4, 55, "SPD", false);
-            DrawValue(370 + 128, 56 + 16 * 6 + 4, 128 - 32, CClan.theClan[# SPD, j]);
+            DrawValue(370 + 128, 56 + 16 * 6 + 4, 128 - 32, isSelected[0].BaseStats[SPD]);
     
             // Evasion
             DrawHeading(370 + 128 - 8, 56 + 16 * 7 + 6, 55, "EVA", false);
-            DrawValue(370 + 128, 56 + 16 * 7 + 6, 128 - 32, CClan.theClan[# EVA, j]);
+            DrawValue(370 + 128, 56 + 16 * 7 + 6, 128 - 32, isSelected[0].BaseStats[EVA]);
     
             // Physical Attack
             DrawHeading(370, 56 + 16 * 8 + 8, 55, "P.ATK", false);
-            DrawValue(370 + 8, 56 + 16 * 8 + 8, 128 - 32, CClan.theClan[# ATK, j]);
+            DrawValue(370 + 8, 56 + 16 * 8 + 8, 128 - 32, isSelected[0].BaseStats[ATK]);
     
             // Physical Defence
             DrawHeading(370, 56 + 16 * 9 + 10, 55, "P.DEF", false);
-            DrawValue(370 + 8, 56 + 16 * 9 + 10, 128 - 32, CClan.theClan[# DEF, j]);
+            DrawValue(370 + 8, 56 + 16 * 9 + 10, 128 - 32, isSelected[0].BaseStats[DEF]);
     
             // Magic Power
             DrawHeading(370, 56 + 16 * 10 + 12, 55, "M.POW", false);
-            DrawValue(370 + 8, 56 + 16 * 10 + 12, 128 - 32, CClan.theClan[# POW, j]);
+            DrawValue(370 + 8, 56 + 16 * 10 + 12, 128 - 32, isSelected[0].BaseStats[POW]);
     
             // Magic Resistance
             DrawHeading(370, 56 + 16 * 11 + 14, 55, "M.RES", false);
-            DrawValue(370 + 8, 56 + 16 * 11 + 14, 128 - 32, CClan.theClan[# POW, j]);
+            DrawValue(370 + 8, 56 + 16 * 11 + 14, 128 - 32, isSelected[0].BaseStats[POW]);
     
             // Weapon Attack
             DrawHeading(370 + 128 - 8, 56 + 16 * 8 + 8, 55, "W.ATK", false);
-            DrawValue(370 + 128, 56 + 16 * 8 + 8, 128 - 32, CClan.theClan[# WATK, j]);
+            DrawValue(370 + 128, 56 + 16 * 8 + 8, 128 - 32, isSelected[0].BaseStats[WATK]);
     
             // Equipment Defence
             DrawHeading(370 + 128 - 8, 56 + 16 * 9 + 10, 55, "E.DEF", false);
-            DrawValue(370 + 128, 56 + 16 * 9 + 10, 128 - 32, CClan.theClan[# ADEF, j]);
+            DrawValue(370 + 128, 56 + 16 * 9 + 10, 128 - 32, isSelected[0].BaseStats[ADEF]);
     
             // Weapon Power
             DrawHeading(370 + 128 - 8, 56 + 16 * 10 + 12, 55, "W.POW", false);
-            DrawValue(370 + 128, 56 + 16 * 10 + 12, 128 - 32, CClan.theClan[# WPOW, j]);
+            DrawValue(370 + 128, 56 + 16 * 10 + 12, 128 - 32, isSelected[0].BaseStats[WPOW]);
     
             // Equipment Resistance
             DrawHeading(370 + 128 - 8, 56 + 16 * 11 + 14, 55, "E.RES", false);
-            DrawValue(370 + 128, 56 + 16 * 11 + 14, 128 - 32, CClan.theClan[# ARES, j]);
+            DrawValue(370 + 128, 56 + 16 * 11 + 14, 128 - 32, isSelected[0].BaseStats[ARES]);
         }
     }
 }

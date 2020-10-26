@@ -3,7 +3,7 @@
   <Configs name="configs">
     <Config>Configs\Default</Config>
   </Configs>
-  <datafiles number="9" name="datafiles">
+  <datafiles number="10" name="datafiles">
     <datafile>
       <name>unisav.txt</name>
       <exists>-1</exists>
@@ -123,6 +123,23 @@
       </ConfigOptions>
       <filename>map_1_99.dat</filename>
     </datafile>
+    <datafile>
+      <name>map_1_test.dat</name>
+      <exists>-1</exists>
+      <size>82710</size>
+      <exportAction>2</exportAction>
+      <exportDir></exportDir>
+      <overwrite>0</overwrite>
+      <freeData>-1</freeData>
+      <removeEnd>0</removeEnd>
+      <store>0</store>
+      <ConfigOptions>
+        <Config name="Default">
+          <CopyToMask>9223372036854775807</CopyToMask>
+        </Config>
+      </ConfigOptions>
+      <filename>map_1_test.dat</filename>
+    </datafile>
   </datafiles>
   <NewExtensions/>
   <sounds name="sound">
@@ -155,6 +172,7 @@
       <sprite>sprites\res_spr_ui3</sprite>
       <sprite>sprites\res_spr_ui4</sprite>
       <sprite>sprites\res_spr_ui5</sprite>
+      <sprite>sprites\m192_24</sprite>
     </sprites>
     <sprite>sprites\res_spr_tree</sprite>
     <sprite>sprites\res_spr_crate</sprite>
@@ -186,6 +204,9 @@
         <script>scripts\DrawValueColour.gml</script>
         <script>scripts\DrawVariable.gml</script>
         <script>scripts\DrawString.gml</script>
+        <script>scripts\DrawSystemMessage.gml</script>
+        <script>scripts\draw_text_shadow.gml</script>
+        <script>scripts\create_menu.gml</script>
       </scripts>
       <scripts name="FSM">
         <script>scripts\fsm_createStateMachine.gml</script>
@@ -205,6 +226,7 @@
           <script>scripts\stateLoop_Roster_3.gml</script>
           <script>scripts\stateLoop_Roster_3a.gml</script>
           <script>scripts\stateLoop_Roster_3b.gml</script>
+          <script>scripts\stateLoop_Roster_3c.gml</script>
           <script>scripts\stateLoop_Roster_4.gml</script>
           <script>scripts\stateLoop_Roster_4a.gml</script>
           <script>scripts\stateLoop_Roster_4b.gml</script>
@@ -261,13 +283,17 @@
           </scripts>
           <scripts name="Class Management">
             <script>scripts\GetRole.gml</script>
+            <script>scripts\GetStat.gml</script>
             <script>scripts\AddXP.gml</script>
             <script>scripts\AddLV.gml</script>
+            <script>scripts\AddExperiencePoints.gml</script>
+            <script>scripts\AddLevel.gml</script>
           </scripts>
           <scripts name="Inventory">
             <script>scripts\DBQ_LookItems.gml</script>
             <script>scripts\DBQ_CompatibleWeapons.gml</script>
             <script>scripts\DBQ_CompatibleEquipment.gml</script>
+            <script>scripts\DBQ_CompatibleFavours.gml</script>
             <script>scripts\DBQ_RoleForWeapon.gml</script>
             <script>scripts\DBQ_TypeForWeapon.gml</script>
             <script>scripts\DBQ_RoleForEquipment.gml</script>
@@ -286,6 +312,9 @@
             <script>scripts\CreateTurnOrder.gml</script>
             <script>scripts\UpdateTurnOrder.gml</script>
             <script>scripts\ClearTurnOrder.gml</script>
+          </scripts>
+          <scripts name="Combat">
+            <script>scripts\ComputeAttack.gml</script>
           </scripts>
         </scripts>
         <scripts name="Cutscenes">
@@ -350,6 +379,7 @@
   <fonts name="fonts">
     <font>fonts\Font_H1</font>
     <font>fonts\Font_P</font>
+    <font>fonts\Font_R</font>
   </fonts>
   <objects name="objects">
     <objects name="Singletons">
@@ -361,6 +391,7 @@
         <object>objects\CCursor</object>
         <object>objects\CCamera</object>
         <object>objects\CPrompt</object>
+        <object>objects\CMenu</object>
       </objects>
       <objects name="Input">
         <object>objects\CKeyboard</object>
@@ -386,6 +417,7 @@
       <object>objects\TText</object>
       <object>objects\TTextCrawl</object>
       <object>objects\TBanner</object>
+      <object>objects\TSystemMessage</object>
     </objects>
   </objects>
   <rooms name="rooms">

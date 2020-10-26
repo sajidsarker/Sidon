@@ -12,5 +12,10 @@
         /* Scene */
         case stateScene_Update:
         break;
+        
+        /* Cursor */
+        case stateCursor_Attack:
+            myInput.keyA = false;
+        break;
     }
 }

@@ -19,6 +19,8 @@
         }
     }
 
+    CGame.myUnitInfo[1] = noone;
+
     // Selection
     if (myInput.keyA) {
         audio_play_sound(res_snd_confirm, 1, false);
@@ -36,10 +38,13 @@
             // Attack
             case 1:
                 myInput.keyA = false;
-                // Nearest only
-                GenerateRange(ds_grid_get(CMap.myMap[TILE_MAP], prevX, prevY), 0, 1, 1, 0);
-                // Not nearest only
-                //GenerateRange(ds_grid_get(CMap.myMap[TILE_MAP], prevX, prevY), 1, 5, 1, 0);
+                if ( DBQ_TypeForWeapon( DBQ_LookItems( isSelected[0].BaseStats[SLOT1], TYPE_BINARY ) ) != "Bows" ) {
+                    // Nearest only
+                    GenerateRange(ds_grid_get(CMap.myMap[TILE_MAP], prevX, prevY), 0, 1, 1, 0);
+                } else {
+                    // Not nearest only
+                    GenerateRange(ds_grid_get(CMap.myMap[TILE_MAP], prevX, prevY), 1, 5, 1, 0);
+                }
                 // 4-point cardinal
                 //GenerateRange(ds_grid_get(CMap.myMap[TILE_MAP], prevX, prevY), 2, 5, 1, 0);
                 // Self only

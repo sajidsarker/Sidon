@@ -120,7 +120,7 @@
             if (CGame.state_index != stateScene_Update and
                 CGame.state_index != stateSystem_Prompt) {
                 if (ds_grid_get(CMap.myMap[SPAWN_MAP], myX, myY)) {
-                    draw_sprite(res_msk_tile, 0, x, y - z - TILE_HEIGHT);
+                    draw_sprite(res_iso_spawn, 0, x, y - z - TILE_HEIGHT);
                 }
             }
         }

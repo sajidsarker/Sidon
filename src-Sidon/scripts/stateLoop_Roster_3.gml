@@ -70,12 +70,12 @@
 
             // Lady's Favour
             case 2:
-                //theScroll[5] = 0;
-                //theScroll[6] = 0;
+                theScroll[5] = 0;
+                theScroll[6] = 0;
                 for (var i = 0; i < ds_list_size(Storage[ITEM_ID]); i++) {
-                    //if (DBQ_CompatibleEquipment(ds_list_find_value(Storage[ITEM_ID], i), CClan.theClan[# ROLE, theScroll[2] + theChoice[2]])) {
-                        //ds_list_add(temp_equipment, ds_list_find_value(Storage[ITEM_ID], i));
-                    //}
+                    if (DBQ_CompatibleFavours(ds_list_find_value(Storage[ITEM_ID], i), CClan.theClan[# ROLE, theScroll[2] + theChoice[2]])) {
+                        ds_list_add(temp_equipment, ds_list_find_value(Storage[ITEM_ID], i));
+                    }
                 }
                 audio_play_sound(res_snd_confirm, 1, false);
             break;

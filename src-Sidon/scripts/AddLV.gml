@@ -20,6 +20,12 @@
     if (CClan.theClan[# XP, argument0] < 0) {
         CClan.theClan[# XP, argument0] = 0;
     }
+    
+    /*
+    */
+    with (CGame) {
+        SceneNotify( string(CClan.theClan[# NAME, argument0]) + " levelled up to LV. " + string(CClan.theClan[# LV, argument0]) );
+    }
 
     if (CClan.theClan[# XP, argument0] > 99) {
         AddLV(argument0);

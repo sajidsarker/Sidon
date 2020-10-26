@@ -17,4 +17,6 @@
     file_text_write_real(theFile, Storage[3]);
 
     file_text_close(theFile);
+
+    DrawSystemMessage( 16, 16, "Game saved successfully.", 3 );
 }

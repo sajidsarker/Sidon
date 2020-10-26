@@ -40,9 +40,11 @@
     <object>objects\CCanvas</object>
     <object>objects\CNotification</object>
     <object>objects\CBG</object>
+    <object>objects\list_tester</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\MInterface</room>
+    <room>rooms\DS</room>
   </rooms>
   <constants number="2">
     <constant name="TILE_WIDTH">32</constant>

@@ -8,7 +8,7 @@
         var o = instance_find(CUnit, i);
         if (o.myFaction != 99) {
             ds_list_add(actorPointer, o);
-            ds_list_add(actorSpeed, o.Speed);
+            ds_list_add(actorSpeed, o.BaseStats[SPD]);
         }
     }
 

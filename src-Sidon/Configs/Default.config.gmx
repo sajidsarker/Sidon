@@ -764,7 +764,7 @@
       <constant name="ATTACKABLE">1</constant>
       <constant name="ALLY_OCCUPIES">2</constant>
       <constant name="ENEMY_OCCUPIES">3</constant>
-      <constant name="VERSION">"Beirut Engine - v1.0.3"</constant>
+      <constant name="VERSION">"Beirut Engine - v1.0.93"</constant>
       <constant name="ITEM_ID">0</constant>
       <constant name="ITEM_BINARY">1</constant>
       <constant name="TYPE_BINARY">2</constant>

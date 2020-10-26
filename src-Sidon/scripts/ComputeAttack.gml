@@ -1,0 +1,4 @@
+///ComputeAttack(actor, target)
+{
+    //
+}
