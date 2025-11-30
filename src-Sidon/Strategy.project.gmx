@@ -421,10 +421,10 @@
     </objects>
   </objects>
   <rooms name="rooms">
+    <room>rooms\test_splash1</room>
     <room>rooms\test_mainmenu</room>
     <room>rooms\test_loop</room>
     <room>rooms\test_map</room>
-    <room>rooms\test_splash1</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>

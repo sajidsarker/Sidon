@@ -41,7 +41,7 @@
     SceneSpeak( "1_Abel_I didn’t expect you to be with the sheep today." );
     SceneSpeak( "1_Abel_The womenfolk didn’t want you around “helping”, did they?" );
     SceneWait(1);
-    /*
+    
     SceneChangeTarget( _actor[0] );
     SceneSpeak( "1_Sidonis_Asma said I’d just get in the way." );
     SceneChangeTarget( _actor[3] );
@@ -83,7 +83,7 @@
     SceneWait(2);
     SceneChangeTarget( _actor[0] );
     SceneSpeak( "1_Sidonis_God willing." );
-    */
+    
     SceneBanner("BATTLE START!");
     SceneWait(0.05);
 

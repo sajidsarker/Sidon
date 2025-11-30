@@ -7,7 +7,7 @@
 
     if (!argument1) {
         for ( var i = 0; i < 3; i++ ) {
-            draw_sprite( res_spr_ui5, 0, 16 + 100 * i + 8 * i, view_hview[0] - 48 );
+            draw_sprite( res_spr_ui5, 0, 16 + 100 * i + 4 * i, view_hview[0] - 48 );
         }
         DrawValueColour( 32, view_hview[0] - 40, 48, argument0.BaseStats[NAME], c_black );
         if ( argument0.myFaction != 99 ) {
@@ -18,7 +18,7 @@
     }
     if (argument1) {
         for ( var i = 0; i < 3; i++ ) {
-            draw_sprite( res_spr_ui5, 0, view_wview[0] - 116 - 100 * i - 8 * i, view_hview[0] - 48 );
+            draw_sprite( res_spr_ui5, 0, view_wview[0] - 116 - 100 * i - 4 * i, view_hview[0] - 48 );
         }
         DrawValueColour( view_wview[0] - 16 - string_length(argument0.BaseStats[NAME]), view_hview[0] - 40, 48, argument0.BaseStats[NAME], c_black );
         if ( argument0.myFaction != 99 ) {

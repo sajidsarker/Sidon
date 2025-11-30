@@ -69,7 +69,10 @@
         if (ds_grid_get(CMap.myMap[TILE_MAP], vecPosition[| X], vecPosition[| Y]).myFlag[ATTACKABLE] == true) {
             isSelected[1] = ds_grid_get(CMap.myMap[ENTITY_MAP], vecPosition[| X], vecPosition[| Y]);
             
-            
+            if (isSelected[1] == noone) {
+                return state_continue;
+            }
+
             // Cutscene Manager for Attack
             with (CGame) {
                 SceneBegin();
@@ -77,8 +80,11 @@
                 SceneNotify("Attack");
                 AddExperiencePoints(CCursor.isSelected[0], 40);
                 // Attack Script
+                ComputeAttack(CCursor.isSelected[0], CCursor.isSelected[1]);
+                
                 // Attack Animation
-                // 
+                // Spawn Damage Number
+                // Spawn Status Effect
                 
                 SceneRun();
             }

@@ -73,6 +73,14 @@
 
     // Selection
     if (myInput.keyA) {
+        // Countdown Status Effect Timer
+        isSelected[0].status_timer = max(0, isSelected[0].status_timer - 1);
+        // Remove Status Effect if Timer reaches 0
+        if (isSelected[0].status_index != -1) {
+            if (isSelected[0].status_timer == 0) {
+                isSelected[0].status_index = -1;
+            }
+        }
         myInput.keyA = false;
         isSelected[0].direction = direction;
         isSelected[0].canMove = true;

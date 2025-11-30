@@ -15,7 +15,7 @@
 
             if (irandom_range(0, 9) < frac(j) * 10) {
                 argument0.BaseStats[i]++;
-                t += "#" + GetStat(i) + " +1";
+                t += "#" + GetStat(i) + " +" + string(j - frac(j) + 1);
             }
         }
     }
